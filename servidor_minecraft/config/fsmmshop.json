@@ -1,0 +1,16 @@
+{ 
+    "format": 1, 
+    "info": "FSMM Shop Block Configuration File", 
+    "wiki": "https://fexcraft.net/wiki/mod/fsmm", 
+    "general": { 
+        "max-use-balance": { 
+            "info": "If player balance is higher than this value, the shop can't be used. Use `0` to disable.", 
+            "range": "0 ~ 2147483648", 
+            "value": 0
+        }, 
+        "max-use-balance-msg": { 
+            "info": "Message to show in chat if the player's balance is over the max-use-balance value. Supports lang entries or literal text.", 
+            "value": "fsmmshop.max-use-balance-msg"
+        }
+    }
+}
