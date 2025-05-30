@@ -6036,6 +6036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-05-30 23:30:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-05-30 23:23:55 +0000"
@@ -6045,6 +6051,12 @@
   "l2complements:recipes/misc/generated_tools/sculkium/recycle/sculkium_boots": {
     "criteria": {
       "has_sculkium_boots": "2025-05-30 23:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-05-30 23:30:48 +0000"
     },
     "done": true
   },
@@ -6069,6 +6081,12 @@
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-05-30 23:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-05-30 23:34:37 +0000"
     },
     "done": true
   },
