@@ -6384,6 +6384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-05-30 23:22:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon": {
     "criteria": {
       "cooked_bacon": "2025-05-30 23:12:43 +0000"

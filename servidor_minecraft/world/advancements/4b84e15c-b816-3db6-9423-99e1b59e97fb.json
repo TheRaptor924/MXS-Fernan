@@ -7002,6 +7002,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/combat/generated_tools/sculkium/craft/sculkium_leggings": {
+    "criteria": {
+      "has_sculkium_leggings": "2025-05-30 18:48:19 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/generated_tools/sculkium/recycle/sculkium_helmet": {
     "criteria": {
       "has_sculkium_helmet": "2025-05-30 18:48:21 +0000"
@@ -7014,9 +7020,39 @@
     },
     "done": true
   },
-  "l2complements:recipes/combat/generated_tools/sculkium/craft/sculkium_leggings": {
+  "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
-      "has_sculkium_leggings": "2025-05-30 18:48:19 +0000"
+      "has_ender_eye": "2025-05-30 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/generated_tools/sculkium/recycle/sculkium_boots": {
+    "criteria": {
+      "has_sculkium_boots": "2025-05-30 23:15:24 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/ender_mask": {
+    "criteria": {
+      "has_ender_eye": "2025-05-30 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/combat/generated_tools/sculkium/craft/sculkium_boots": {
+    "criteria": {
+      "has_sculkium_boots": "2025-05-30 23:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-30 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/misc/generated/recycle/sculkium_scythe": {
+    "criteria": {
+      "has_sculkium_scythe": "2025-05-30 23:17:55 +0000"
     },
     "done": true
   },
