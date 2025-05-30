@@ -260,3 +260,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30May2025 23:14:34.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Creative Mode]
 [30May2025 23:14:57.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
 [30May2025 23:15:35.350] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.453 ms. 1473/1531 recipes are parallelized.
+[30May2025 23:46:21.802] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 127.9 μs. 218/218 recipes are parallelized.
+[30May2025 23:48:11.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
