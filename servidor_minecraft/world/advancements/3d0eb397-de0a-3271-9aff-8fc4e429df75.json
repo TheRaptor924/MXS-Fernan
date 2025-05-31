@@ -6181,6 +6181,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fruit_salad": {
+    "criteria": {
+      "has_fruits": "2025-05-31 03:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-31 03:04:58 +0000"
