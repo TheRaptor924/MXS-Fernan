@@ -6121,15 +6121,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
+    "criteria": {
+      "cooked_cod_slice": "2025-05-31 04:10:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-05-31 03:04:58 +0000"
     },
     "done": true
   },
+  "rusticdelight:recipes/fried_dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 04:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-31 03:06:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-05-31 04:10:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-05-31 04:10:43 +0000"
     },
     "done": true
   },
@@ -6142,6 +6166,12 @@
   "minecraft:recipes/building_blocks/dye_cyan_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-31 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/salmon_roll": {
+    "criteria": {
+      "has_salmon_slice": "2025-05-31 04:10:43 +0000"
     },
     "done": true
   },
@@ -6163,9 +6193,21 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/calamari_roll": {
+    "criteria": {
+      "has_cooked_rice": "2025-05-31 04:16:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
     "criteria": {
       "cooked_mutton_chops": "2025-05-31 04:08:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cod_roll": {
+    "criteria": {
+      "has_cod_slice": "2025-05-31 04:10:32 +0000"
     },
     "done": true
   },
@@ -6211,6 +6253,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_salmon_slice": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-05-31 04:10:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice": {
+    "criteria": {
+      "cooked_cod_slice": "2025-05-31 04:10:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-31 03:04:58 +0000"
@@ -6238,6 +6292,12 @@
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-31 03:04:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_cod_slice": "2025-05-31 04:10:32 +0000"
     },
     "done": true
   },
