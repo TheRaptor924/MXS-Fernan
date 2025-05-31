@@ -4444,3 +4444,56 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30May2025 23:54:17.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30May2025 23:59:17.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30May2025 23:59:17.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 00:04:17.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 00:04:17.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 00:09:17.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 00:09:17.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 00:09:18.565] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_heart
+[31May2025 00:09:18.574] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_sa
+[31May2025 00:09:18.575] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sb
+[31May2025 00:09:18.576] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_a
+[31May2025 00:09:18.577] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sra
+[31May2025 00:09:18.582] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_c
+[31May2025 00:09:18.583] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_sb
+[31May2025 00:09:18.587] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_srb
+[31May2025 00:09:18.597] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_4
+[31May2025 00:09:18.607] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_2
+[31May2025 00:09:18.610] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_1
+[31May2025 00:09:18.614] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_5
+[31May2025 00:09:18.616] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_4
+[31May2025 00:09:18.619] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_3
+[31May2025 00:09:18.623] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_1
+[31May2025 00:09:18.625] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_2
+[31May2025 00:09:18.631] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_5x6_2
+[31May2025 00:09:18.637] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_5
+[31May2025 00:09:18.640] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_1
+[31May2025 00:09:18.643] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_3
+[31May2025 00:09:18.651] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_5x6_3
+[31May2025 00:09:18.657] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_6
+[31May2025 00:09:18.665] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_2
+[31May2025 00:09:18.673] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_3
+[31May2025 00:09:18.678] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_4
+[31May2025 00:09:18.688] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_5x6_1
+[31May2025 00:09:18.691] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_hallway_lock
+[31May2025 00:09:18.711] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_b
+[31May2025 00:09:18.714] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_lb
+[31May2025 00:09:18.715] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_src
+[31May2025 00:09:18.717] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_c
+[31May2025 00:09:18.719] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_lc
+[31May2025 00:09:18.721] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_sa
+[31May2025 00:09:18.722] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_a
+[31May2025 00:09:18.723] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_srb
+[31May2025 00:09:18.725] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_srb
+[31May2025 00:09:18.726] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_b
+[31May2025 00:09:18.727] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sc
+[31May2025 00:09:18.729] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_sra
+[31May2025 00:09:18.730] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_src
+[31May2025 00:09:18.731] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_b
+[31May2025 00:09:18.734] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_sc
+[31May2025 00:09:18.735] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_a
+[31May2025 00:09:18.736] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_c
+[31May2025 00:09:18.737] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sa
+[31May2025 00:09:18.738] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_sra
+[31May2025 00:09:55.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Gave 1 [Barrier] to Ferlein]
+[31May2025 00:10:27.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Angelika'/15602, l='ServerLevel[world]', x=-299.77, y=78.00, z=-78.87] died, message: 'Angelika was slain by Ferlein'
+[31May2025 00:10:27.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Angelika'/15602, l='ServerLevel[world]', x=-299.77, y=78.00, z=-78.87] died: Angelika was slain by Ferlein
