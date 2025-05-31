@@ -6103,6 +6103,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-05-31 04:00:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_green_dye": "2025-05-31 03:04:51 +0000"
@@ -6127,6 +6133,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-31 04:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_cyan_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-31 03:05:03 +0000"
@@ -6139,15 +6151,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-05-31 04:06:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_green_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-31 03:04:51 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-31 04:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_candle": {
     "criteria": {
       "has_green_dye": "2025-05-31 03:04:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-05-31 04:04:38 +0000"
     },
     "done": true
   },
@@ -6169,6 +6199,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-05-31 04:01:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_candle": {
     "criteria": {
       "has_cyan_dye": "2025-05-31 03:05:03 +0000"
@@ -6178,6 +6214,18 @@
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-31 03:04:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-05-31 04:01:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-31 04:08:39 +0000"
     },
     "done": true
   },
@@ -6205,9 +6253,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-05-31 04:06:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_green_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-31 03:04:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-05-31 04:01:40 +0000"
     },
     "done": true
   },
