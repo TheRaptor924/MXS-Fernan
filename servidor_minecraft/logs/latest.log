@@ -111,3 +111,7 @@
 [31May2025 02:28:41.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
 [31May2025 02:28:41.043] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
 [31May2025 02:28:41.044] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[31May2025 02:35:03.630] [Worker-Main-175/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[31May2025 02:38:55.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Faller'/59631, l='ServerLevel[world]', x=-705.65, y=-24.00, z=-356.37] died: Faller was blown up by Faller
+[31May2025 02:38:55.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Faller'/59632, l='ServerLevel[world]', x=-705.05, y=-24.00, z=-356.30] died: Faller was blown up by Faller
+[31May2025 02:41:38.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has reached the goal [Troll Hunter]
