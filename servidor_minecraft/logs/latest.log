@@ -50,3 +50,5 @@
 [31May2025 00:54:05.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
 [31May2025 00:54:05.100] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
 [31May2025 00:54:05.254] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[31May2025 01:04:56.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31May2025 01:04:56.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
