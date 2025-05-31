@@ -27,3 +27,17 @@
 [31May2025 00:33:21.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
 [31May2025 00:33:21.892] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
 [31May2025 00:33:21.892] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[31May2025 00:42:55.342] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Brinda'/1641, l='ServerLevel[world]', x=-369.64, y=72.25, z=-31.45] died, message: 'Brinda was slain by Equestrian'
+[31May2025 00:42:55.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Brinda'/1641, l='ServerLevel[world]', x=-369.64, y=72.25, z=-31.45] died: Brinda was slain by Equestrian
+[31May2025 00:44:25.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has reached the goal [Hired Help]
+[31May2025 00:46:13.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor moved too quickly! -0.07855760494510378,0.5813359922251635,-10.120996233886103
+[31May2025 00:48:08.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
+[31May2025 00:48:08.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[31May2025 00:48:08.542] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[31May2025 00:48:08.543] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[31May2025 00:48:14.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.75.255.182:59113] logged in with entity id 24001 at (-378.6037800916464, 71.0, -269.214287552004)
+[31May2025 00:48:14.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[31May2025 00:48:14.093] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[31May2025 00:48:14.379] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[31May2025 00:49:07.706] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Patricia'/15615, l='ServerLevel[world]', x=-293.38, y=72.00, z=-78.30] died, message: 'Patricia was slain by Ferlein'
+[31May2025 00:49:07.706] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Patricia'/15615, l='ServerLevel[world]', x=-293.38, y=72.00, z=-78.30] died: Patricia was slain by Ferlein

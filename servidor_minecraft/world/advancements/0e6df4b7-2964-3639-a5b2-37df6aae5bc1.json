@@ -6384,6 +6384,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-05-31 00:44:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
       "has_prismarine_bricks": "2025-05-31 00:12:58 +0000"
@@ -6411,6 +6417,12 @@
   "minecraft:recipes/building_blocks/dye_lime_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-31 00:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-05-31 00:44:14 +0000"
     },
     "done": true
   },

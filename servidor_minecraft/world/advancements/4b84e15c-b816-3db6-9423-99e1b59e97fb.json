@@ -7020,9 +7020,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_mosaic_slab": {
+  "l2complements:recipes/misc/generated_tools/sculkium/recycle/sculkium_boots": {
     "criteria": {
-      "has_bamboo_mosaic": "2025-05-30 23:59:45 +0000"
+      "has_sculkium_boots": "2025-05-30 23:15:24 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/combat/generated_tools/sculkium/craft/sculkium_boots": {
+    "criteria": {
+      "has_sculkium_boots": "2025-05-30 23:15:24 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/misc/generated/recycle/sculkium_scythe": {
+    "criteria": {
+      "has_sculkium_scythe": "2025-05-30 23:17:55 +0000"
     },
     "done": true
   },
@@ -7032,21 +7044,21 @@
     },
     "done": true
   },
-  "l2complements:recipes/misc/generated_tools/sculkium/recycle/sculkium_boots": {
-    "criteria": {
-      "has_sculkium_boots": "2025-05-30 23:15:24 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/enchantments/enchantments/ender_mask": {
     "criteria": {
       "has_ender_eye": "2025-05-30 23:21:26 +0000"
     },
     "done": true
   },
-  "l2complements:recipes/combat/generated_tools/sculkium/craft/sculkium_boots": {
+  "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "has_sculkium_boots": "2025-05-30 23:15:24 +0000"
+      "has_ender_eye": "2025-05-30 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_mosaic_slab": {
+    "criteria": {
+      "has_bamboo_mosaic": "2025-05-30 23:59:45 +0000"
     },
     "done": true
   },
@@ -7059,18 +7071,6 @@
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-05-31 00:11:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-05-30 23:21:26 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/misc/generated/recycle/sculkium_scythe": {
-    "criteria": {
-      "has_sculkium_scythe": "2025-05-30 23:17:55 +0000"
     },
     "done": true
   },
