@@ -151,3 +151,8 @@
 [31May2025 04:38:06.247] [Worker-Main-174/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
 [31May2025 04:38:06.248] [Worker-Main-174/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
 [31May2025 04:38:10.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
+[31May2025 04:44:52.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Bring Home the Beacon]
+[31May2025 04:44:52.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has reached the goal [Beaconator]
+[31May2025 04:50:48.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was slain by JustRaptor
+[31May2025 04:52:48.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31May2025 04:52:48.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
