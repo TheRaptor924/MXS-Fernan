@@ -41,3 +41,12 @@
 [31May2025 00:48:14.379] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
 [31May2025 00:49:07.706] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Patricia'/15615, l='ServerLevel[world]', x=-293.38, y=72.00, z=-78.30] died, message: 'Patricia was slain by Ferlein'
 [31May2025 00:49:07.706] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Patricia'/15615, l='ServerLevel[world]', x=-293.38, y=72.00, z=-78.30] died: Patricia was slain by Ferlein
+[31May2025 00:53:55.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor was kicked for floating too long!
+[31May2025 00:53:55.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Flying is not enabled on this server
+[31May2025 00:53:55.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[31May2025 00:53:55.998] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[31May2025 00:53:55.999] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[31May2025 00:54:05.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.75.255.182:39815] logged in with entity id 26864 at (-61.63076727470833, 69.15612765957742, -41.56400701344279)
+[31May2025 00:54:05.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[31May2025 00:54:05.100] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[31May2025 00:54:05.254] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
