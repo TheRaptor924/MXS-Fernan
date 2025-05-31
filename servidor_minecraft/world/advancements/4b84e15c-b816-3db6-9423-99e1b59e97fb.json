@@ -7111,9 +7111,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-05-31 03:22:15 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/enchantments/enchantments/owner_protection": {
     "criteria": {
       "has_nether_star": "2025-05-31 02:44:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-05-31 03:22:15 +0000"
     },
     "done": true
   },
