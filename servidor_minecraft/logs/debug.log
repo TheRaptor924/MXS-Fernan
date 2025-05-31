@@ -4497,3 +4497,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31May2025 00:09:55.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Gave 1 [Barrier] to Ferlein]
 [31May2025 00:10:27.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Angelika'/15602, l='ServerLevel[world]', x=-299.77, y=78.00, z=-78.87] died, message: 'Angelika was slain by Ferlein'
 [31May2025 00:10:27.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Angelika'/15602, l='ServerLevel[world]', x=-299.77, y=78.00, z=-78.87] died: Angelika was slain by Ferlein
+[31May2025 00:14:17.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 00:14:17.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 00:16:31.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31May2025 00:16:31.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[31May2025 00:19:17.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 00:19:17.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
