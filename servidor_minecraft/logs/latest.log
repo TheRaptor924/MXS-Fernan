@@ -123,3 +123,7 @@
 [31May2025 02:47:45.845] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
 [31May2025 02:47:46.125] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
 [31May2025 02:47:57.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Teleported Ferlein to Angeltronix7005]
+[31May2025 02:54:42.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Survival Mode]
+[31May2025 02:54:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[31May2025 02:59:58.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Removed every effect from Ferlein]
+[31May2025 03:00:10.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Made Ferlein no longer a server operator]
