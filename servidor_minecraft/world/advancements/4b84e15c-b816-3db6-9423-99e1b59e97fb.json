@@ -7074,5 +7074,17 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2025-05-31 01:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-31 01:16:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
