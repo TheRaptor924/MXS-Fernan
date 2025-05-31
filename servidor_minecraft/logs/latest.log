@@ -141,3 +141,13 @@
 [31May2025 03:42:21.862] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 93.74 μs. 0/148 recipes are parallelized.
 [31May2025 04:11:37.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
 [31May2025 04:31:41.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> pa ti
+[31May2025 04:37:54.036] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[31May2025 04:37:54.040] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[31May2025 04:37:54.040] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[31May2025 04:38:06.243] [Worker-Main-174/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[31May2025 04:38:06.245] [Worker-Main-174/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[31May2025 04:38:06.246] [Worker-Main-174/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[31May2025 04:38:06.246] [Worker-Main-174/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[31May2025 04:38:06.247] [Worker-Main-174/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[31May2025 04:38:06.248] [Worker-Main-174/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[31May2025 04:38:10.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
