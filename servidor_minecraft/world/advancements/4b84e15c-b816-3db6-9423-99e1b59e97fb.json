@@ -7400,6 +7400,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/misc/generated/recycle/shulkerate_javelin": {
+    "criteria": {
+      "has_shulkerate_javelin": "2025-06-01 05:38:30 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/enchantments/enchantments/raised_spirit": {
     "criteria": {
       "has_soul_flame": "2025-06-01 05:28:20 +0000"
