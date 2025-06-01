@@ -6565,5 +6565,1001 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_throwing_axe_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_round_shield_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/enchanted_totemic_carrot": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_plate_shield_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_machete_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/totemic_apple": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_nunchaku_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_scythe_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_battle_axe_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/storage/totemic_gold_ingot_unpack": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_dagger_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_claw_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_hammer_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_spear_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/enchanted_totemic_apple": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_javelin_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/totemic_carrot": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/storage/totemic_gold_block_storage": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-01 01:43:13 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_spear_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_dagger_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_scythe_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_javelin_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_round_shield_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/ender_hand": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_hammer_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_plate_shield_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_claw_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/storage/poseidite_ingot_unpack": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_throwing_axe_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_machete_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/storage/poseidite_block_storage": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_battle_axe_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/totem_of_the_sea": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_nunchaku_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/shulkerate_javelin_enchanted": {
+    "criteria": {
+      "has_shulkerate_ingot": "2025-06-01 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/shulkerate_dagger_enchanted": {
+    "criteria": {
+      "has_shulkerate_ingot": "2025-06-01 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/shulkerate_hammer_enchanted": {
+    "criteria": {
+      "has_shulkerate_ingot": "2025-06-01 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/shulkerate_spear_enchanted": {
+    "criteria": {
+      "has_shulkerate_ingot": "2025-06-01 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/hardened": {
+    "criteria": {
+      "has_shulkerate_ingot": "2025-06-01 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/shulkerate_round_shield_enchanted": {
+    "criteria": {
+      "has_shulkerate_ingot": "2025-06-01 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/shulkerate_plate_shield_enchanted": {
+    "criteria": {
+      "has_shulkerate_ingot": "2025-06-01 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/shulkerate_nunchaku_enchanted": {
+    "criteria": {
+      "has_shulkerate_ingot": "2025-06-01 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/shulkerate_claw_enchanted": {
+    "criteria": {
+      "has_shulkerate_ingot": "2025-06-01 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/storage/shulkerate_block_storage": {
+    "criteria": {
+      "has_shulkerate_ingot": "2025-06-01 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/shulkerate_machete_enchanted": {
+    "criteria": {
+      "has_shulkerate_ingot": "2025-06-01 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/hard_shield": {
+    "criteria": {
+      "has_shulkerate_ingot": "2025-06-01 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/shulkerate_throwing_axe_enchanted": {
+    "criteria": {
+      "has_shulkerate_ingot": "2025-06-01 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/shulkerate_battle_axe_enchanted": {
+    "criteria": {
+      "has_shulkerate_ingot": "2025-06-01 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/storage/shulkerate_ingot_unpack": {
+    "criteria": {
+      "has_shulkerate_ingot": "2025-06-01 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/reinforced_warp_stone": {
+    "criteria": {
+      "has_shulkerate_ingot": "2025-06-01 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/shulkerate_scythe_enchanted": {
+    "criteria": {
+      "has_shulkerate_ingot": "2025-06-01 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/combat/generated_tools/shulkerate/craft/shulkerate_sword": {
+    "criteria": {
+      "has_shulkerate_sword": "2025-06-01 01:54:32 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/generated_tools/shulkerate/recycle/shulkerate_sword": {
+    "criteria": {
+      "has_shulkerate_sword": "2025-06-01 01:54:32 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_javelin_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-01 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_plate_shield_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-01 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/storage/sculkium_ingot_unpack": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-01 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/sonic_shooter": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-01 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_spear_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-01 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/storage/sculkium_block_storage": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-01 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_throwing_axe_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-01 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_battle_axe_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-01 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_nunchaku_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-01 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_scythe_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-01 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_hammer_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-01 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_dagger_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-01 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_claw_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-01 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_machete_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-01 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_round_shield_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-01 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/eternium_hammer_enchanted": {
+    "criteria": {
+      "has_eternium_ingot": "2025-06-01 02:06:48 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/eternium_dagger_enchanted": {
+    "criteria": {
+      "has_eternium_ingot": "2025-06-01 02:06:48 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/eternal_anvil": {
+    "criteria": {
+      "has_eternium_ingot": "2025-06-01 02:06:48 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/eternium_nunchaku_enchanted": {
+    "criteria": {
+      "has_eternium_ingot": "2025-06-01 02:06:48 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/eternium_machete_enchanted": {
+    "criteria": {
+      "has_eternium_ingot": "2025-06-01 02:06:48 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/storage/eternium_block_storage": {
+    "criteria": {
+      "has_eternium_ingot": "2025-06-01 02:06:48 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/eternium_spear_enchanted": {
+    "criteria": {
+      "has_eternium_ingot": "2025-06-01 02:06:48 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/eternium_plate_shield_enchanted": {
+    "criteria": {
+      "has_eternium_ingot": "2025-06-01 02:06:48 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/eternium_throwing_axe_enchanted": {
+    "criteria": {
+      "has_eternium_ingot": "2025-06-01 02:06:48 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/eternium_round_shield_enchanted": {
+    "criteria": {
+      "has_eternium_ingot": "2025-06-01 02:06:48 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/storage/eternium_ingot_unpack": {
+    "criteria": {
+      "has_eternium_ingot": "2025-06-01 02:06:48 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/eternium_battle_axe_enchanted": {
+    "criteria": {
+      "has_eternium_ingot": "2025-06-01 02:06:48 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/eternium_claw_enchanted": {
+    "criteria": {
+      "has_eternium_ingot": "2025-06-01 02:06:48 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/eternium_scythe_enchanted": {
+    "criteria": {
+      "has_eternium_ingot": "2025-06-01 02:06:48 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/eternium_javelin_enchanted": {
+    "criteria": {
+      "has_eternium_ingot": "2025-06-01 02:06:48 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/combat/generated_tools/eternium/craft/eternium_sword": {
+    "criteria": {
+      "has_eternium_sword": "2025-06-01 02:10:19 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/generated_tools/eternium/recycle/eternium_sword": {
+    "criteria": {
+      "has_eternium_sword": "2025-06-01 02:10:19 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/combat/generated_tools/eternium/craft/eternium_helmet": {
+    "criteria": {
+      "has_eternium_helmet": "2025-06-01 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/combat/generated_tools/eternium/craft/eternium_chestplate": {
+    "criteria": {
+      "has_eternium_chestplate": "2025-06-01 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/generated_tools/eternium/recycle/eternium_boots": {
+    "criteria": {
+      "has_eternium_boots": "2025-06-01 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/combat/generated_tools/eternium/craft/eternium_leggings": {
+    "criteria": {
+      "has_eternium_leggings": "2025-06-01 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/generated_tools/eternium/recycle/eternium_leggings": {
+    "criteria": {
+      "has_eternium_leggings": "2025-06-01 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/combat/generated_tools/eternium/craft/eternium_boots": {
+    "criteria": {
+      "has_eternium_boots": "2025-06-01 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/generated_tools/eternium/recycle/eternium_helmet": {
+    "criteria": {
+      "has_eternium_helmet": "2025-06-01 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/generated_tools/eternium/recycle/eternium_chestplate": {
+    "criteria": {
+      "has_eternium_chestplate": "2025-06-01 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/claw_of_determination": {
+    "criteria": {
+      "has_sun_membrane": "2025-06-01 02:15:20 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/fire_reject": {
+    "criteria": {
+      "has_sun_membrane": "2025-06-01 02:15:20 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/renew/elytra": {
+    "criteria": {
+      "has_sun_membrane": "2025-06-01 02:15:20 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/dogmatic_punishment": {
+    "criteria": {
+      "has_sun_membrane": "2025-06-01 02:15:20 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/hellfire_wand": {
+    "criteria": {
+      "has_sun_membrane": "2025-06-01 02:15:20 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/renew/ancient_debris": {
+    "criteria": {
+      "has_explosion_shard": "2025-06-01 02:17:47 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/explosion_reject": {
+    "criteria": {
+      "has_explosion_shard": "2025-06-01 02:17:47 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/eternium_nugget": {
+    "criteria": {
+      "has_explosion_shard": "2025-06-01 02:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-06-01 02:22:19 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2025-06-01 02:25:59 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2025-06-01 02:25:59 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/ice_blade": {
+    "criteria": {
+      "has_hard_ice": "2025-06-01 02:33:02 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/spear_of_winter_storm": {
+    "criteria": {
+      "has_hard_ice": "2025-06-01 02:33:02 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/winterstorm_wand": {
+    "criteria": {
+      "has_hard_ice": "2025-06-01 02:33:02 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/ice_thorn": {
+    "criteria": {
+      "has_hard_ice": "2025-06-01 02:33:02 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/energized_will": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/soul_flame_thorn": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/soul_flame_blade": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/axe_of_cursed_flame": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/smelt": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/raised_spirit": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/death_scythe": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/vien_mining": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 02:41:31 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/cubic_digging": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 02:41:31 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/drill_digging": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 02:41:31 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/tree_chopping": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 02:41:31 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/plane_digging": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 02:41:31 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/void_escape": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 02:41:31 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/shadow_shredder": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 02:41:31 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/diffusion_wand": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 02:41:31 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/instant_shot": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 02:41:31 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/hammer_of_incarceration": {
+    "criteria": {
+      "has_blackstone_core": "2025-06-01 02:48:50 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/plane_eater": {
+    "criteria": {
+      "has_blackstone_core": "2025-06-01 02:48:50 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/cubic_eater": {
+    "criteria": {
+      "has_blackstone_core": "2025-06-01 02:48:50 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/renew/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_blackstone_core": "2025-06-01 02:48:50 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/barbaric_hallow": {
+    "criteria": {
+      "has_blackstone_core": "2025-06-01 02:48:50 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/renew/gilded_blackstone": {
+    "criteria": {
+      "has_blackstone_core": "2025-06-01 02:48:50 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/magic_reject": {
+    "criteria": {
+      "has_resonant_feather": "2025-06-01 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/abyss_echo": {
+    "criteria": {
+      "has_resonant_feather": "2025-06-01 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/abyss_shock": {
+    "criteria": {
+      "has_resonant_feather": "2025-06-01 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/abyss_terror": {
+    "criteria": {
+      "has_resonant_feather": "2025-06-01 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/renew/echo_shard": {
+    "criteria": {
+      "has_resonant_feather": "2025-06-01 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/abyss_resonance": {
+    "criteria": {
+      "has_resonant_feather": "2025-06-01 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/ghost_slash": {
+    "criteria": {
+      "has_resonant_feather": "2025-06-01 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/warden_bone_shard": {
+    "criteria": {
+      "has_resonant_feather": "2025-06-01 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/void_touch": {
+    "criteria": {
+      "has_resonant_feather": "2025-06-01 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/soul_bound": {
+    "criteria": {
+      "has_void_eye": "2025-06-01 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/shadow_hunter": {
+    "criteria": {
+      "has_void_eye": "2025-06-01 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/fragile_warp_stone": {
+    "criteria": {
+      "has_void_eye": "2025-06-01 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/blade_of_illusion": {
+    "criteria": {
+      "has_void_eye": "2025-06-01 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/haunting_demon_of_the_end": {
+    "criteria": {
+      "has_void_eye": "2025-06-01 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/projection": {
+    "criteria": {
+      "has_void_eye": "2025-06-01 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/environment_reject": {
+    "criteria": {
+      "has_void_eye": "2025-06-01 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/life_sync": {
+    "criteria": {
+      "has_force_field": "2025-06-01 03:07:06 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/projectile_reject": {
+    "criteria": {
+      "has_force_field": "2025-06-01 03:07:06 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/totem_of_dream": {
+    "criteria": {
+      "has_fragile_warp_stone": "2025-06-01 03:07:14 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/eternal_totem_of_dream": {
+    "criteria": {
+      "has_fragile_warp_stone": "2025-06-01 03:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-01 03:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-01 03:31:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-01 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-01 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-01 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-01 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-01 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-01 04:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-01 04:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-01 04:01:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-01 04:15:47 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/sweet_salad": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-01 04:15:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-01 04:15:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-01 04:15:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-01 04:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-06-01 04:19:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

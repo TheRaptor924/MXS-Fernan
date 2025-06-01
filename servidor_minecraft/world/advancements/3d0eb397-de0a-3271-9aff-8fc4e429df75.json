@@ -6379,5 +6379,389 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-01 01:46:41 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/sweet_salad": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-01 01:46:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-01 01:46:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-01 01:46:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2025-06-01 01:54:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice_roll_medley_block": {
+    "criteria": {
+      "has_rice_roll": "2025-06-01 02:05:44 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/milk_coffee": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:08:12 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/honey_coffee": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:08:12 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/syrup_coffee": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:08:12 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/dark_coffee": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:08:12 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/brown_dye_from_roasted_coffee_beans": {
+    "criteria": {
+      "has_roasted_coffee_beans": "2025-06-01 02:08:12 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/roasted_coffee_beans_bag_from_roasted_coffee_beans": {
+    "criteria": {
+      "has_roasted_coffee_beans": "2025-06-01 02:08:12 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/coffee": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:08:12 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/chocolate_coffee": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:08:12 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/coffee_cookie": {
+    "criteria": {
+      "has_roasted_coffee_beans": "2025-06-01 02:08:12 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/chocolate_coffee_from_coffee": {
+    "criteria": {
+      "has_coffee": "2025-06-01 02:10:58 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/syrup_coffee_from_coffee": {
+    "criteria": {
+      "has_coffee": "2025-06-01 02:10:58 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/honey_coffee_from_coffee": {
+    "criteria": {
+      "has_coffee": "2025-06-01 02:10:58 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/milk_coffee_from_coffee": {
+    "criteria": {
+      "has_coffee": "2025-06-01 02:10:58 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/coffee_braised_beef": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:10:58 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/syrup_coffee_from_milk_coffee": {
+    "criteria": {
+      "has_milk_coffee": "2025-06-01 02:12:04 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/chocolate_coffee_from_milk_coffee": {
+    "criteria": {
+      "has_milk_coffee": "2025-06-01 02:12:04 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/honey_coffee_from_milk_coffee": {
+    "criteria": {
+      "has_milk_coffee": "2025-06-01 02:12:04 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/syrup_sandwich": {
+    "criteria": {
+      "has_syrup": "2025-06-01 02:20:03 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/syrup_cookie": {
+    "criteria": {
+      "has_syrup": "2025-06-01 02:20:03 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/sugar_from_syrup": {
+    "criteria": {
+      "has_syrup": "2025-06-01 02:20:03 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/fried_chicken": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:24:20 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/fried_egg_from_cooking_oil": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:24:20 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/fruit_beignet": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:24:20 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/fried_dough": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:24:20 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/fried_mushrooms": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:24:20 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/spring_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:24:20 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/fried_calamari": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:24:20 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/pancakes": {
+    "criteria": {
+      "has_batter": "2025-06-01 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/vegetable_pancakes": {
+    "criteria": {
+      "has_batter": "2025-06-01 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/pumpkin_pancakes": {
+    "criteria": {
+      "has_batter": "2025-06-01 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cherry_blossom_pancakes": {
+    "criteria": {
+      "has_batter": "2025-06-01 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/honey_pancakes": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/chocolate_pancakes": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/vegetable_pancakes": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/pumpkin_pancakes": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/cherry_blossom_pancakes": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/chocolate_pancakes": {
+    "criteria": {
+      "has_batter": "2025-06-01 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/honey_pancakes": {
+    "criteria": {
+      "has_batter": "2025-06-01 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/pancakes": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/baked_potato_slices": {
+    "criteria": {
+      "has_potato_slices": "2025-06-01 02:27:52 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/baked_potato_slices_from_campfire_cooking": {
+    "criteria": {
+      "has_potato_slices": "2025-06-01 02:27:52 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/baked_potato_slices_from_smoking": {
+    "criteria": {
+      "has_potato_slices": "2025-06-01 02:27:52 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/pancake_from_pancakes": {
+    "criteria": {
+      "has_pancakes": "2025-06-01 02:46:18 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/pancakes_from_pancake": {
+    "criteria": {
+      "has_pancake": "2025-06-01 02:48:32 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/honey_pancake_from_honey_pancakes": {
+    "criteria": {
+      "has_honey_pancakes": "2025-06-01 02:59:07 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/honey_pancakes_from_honey_pancake": {
+    "criteria": {
+      "has_honey_pancake": "2025-06-01 02:59:19 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/chocolate_pancake_from_chocolate_pancakes": {
+    "criteria": {
+      "has_chocolate_pancakes": "2025-06-01 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/chocolate_pancakes_from_chocolate_pancake": {
+    "criteria": {
+      "has_chocolate_pancake": "2025-06-01 03:02:44 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/cherry_blossom_pancake_from_cherry_blossom_pancakes": {
+    "criteria": {
+      "has_cherry_blossom_pancakes": "2025-06-01 03:03:46 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cherry_blossom_pancakes_from_cherry_blossom_pancake": {
+    "criteria": {
+      "has_cherry_blossom_pancake": "2025-06-01 03:04:15 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/vegetable_pancake_from_vegetable_pancakes": {
+    "criteria": {
+      "has_vegetable_pancakes": "2025-06-01 03:07:52 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/vegetable_pancakes_from_vegetable_pancake": {
+    "criteria": {
+      "has_vegetable_pancake": "2025-06-01 03:08:26 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/pumpkin_pancake_from_pumpkin_pancakes": {
+    "criteria": {
+      "has_pumpkin_pancakes": "2025-06-01 03:10:41 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/pumpkin_pancakes_from_pumpkin_pancake": {
+    "criteria": {
+      "has_pumpkin_pancake": "2025-06-01 03:10:59 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cooked_calamari_slice_from_smoking": {
+    "criteria": {
+      "has_calamari_slice": "2025-06-01 03:25:39 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cooked_calamari_slice_from_campfire_cooking": {
+    "criteria": {
+      "has_calamari_slice": "2025-06-01 03:25:39 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cooked_calamari_slice": {
+    "criteria": {
+      "has_calamari_slice": "2025-06-01 03:25:39 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/rice_roll_royale": {
+    "criteria": {
+      "has_rice_roll": "2025-06-01 03:46:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
