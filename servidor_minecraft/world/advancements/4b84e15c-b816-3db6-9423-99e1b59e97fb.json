@@ -7244,6 +7244,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/enchantments/enchantments/energized_will": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 05:28:20 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/shulkerate_spear_enchanted": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-01 05:16:12 +0000"
@@ -7262,6 +7268,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/enchantments/enchantments/soul_flame_thorn": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 05:28:20 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/enchantments/enchantments/drill_digging": {
     "criteria": {
       "has_storm_core": "2025-06-01 05:15:50 +0000"
@@ -7277,6 +7289,12 @@
   "l2weaponry:recipes/tools/generated/craft/shulkerate_plate_shield_enchanted": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-01 05:16:12 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/soul_flame_blade": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 05:28:20 +0000"
     },
     "done": true
   },
@@ -7328,6 +7346,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/legendary/axe_of_cursed_flame": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 05:28:20 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/legendary/shadow_shredder": {
     "criteria": {
       "has_storm_core": "2025-06-01 05:15:50 +0000"
@@ -7364,9 +7388,27 @@
     },
     "done": true
   },
+  "l2complements:recipes/enchantments/enchantments/smelt": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 05:28:20 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/shulkerate_scythe_enchanted": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-01 05:16:12 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/raised_spirit": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 05:28:20 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/death_scythe": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 05:28:20 +0000"
     },
     "done": true
   },

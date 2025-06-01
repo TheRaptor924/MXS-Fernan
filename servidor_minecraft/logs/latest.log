@@ -270,3 +270,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 05:18:07.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> la nevera
 [01Jun2025 05:23:07.792] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 49.52 μs. 0/148 recipes are parallelized.
 [01Jun2025 05:26:39.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor moved too quickly! -1.9335160756917276,-0.9776480212707952,9.89805374587307
+[01Jun2025 05:31:59.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ten
+[01Jun2025 05:32:16.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> mira lo que da de comida
+[01Jun2025 05:32:37.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> mas los otros
+[01Jun2025 05:32:43.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ci
+[01Jun2025 05:33:07.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> solo te dio para esto?
+[01Jun2025 05:33:20.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ahhh oki
+[01Jun2025 05:33:58.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has made the advancement [The Parrots and the Bats]
+[01Jun2025 05:35:27.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> rafa y mi mesa de encantamientos?
+[01Jun2025 05:36:05.796] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 162.5 μs. 261/262 recipes are parallelized.
+[01Jun2025 05:36:39.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor moved wrongly!
+[01Jun2025 05:36:43.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor moved wrongly!
+[01Jun2025 05:37:23.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor moved wrongly!
