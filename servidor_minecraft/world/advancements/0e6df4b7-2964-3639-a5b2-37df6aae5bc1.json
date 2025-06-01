@@ -6373,33 +6373,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
-      "has_milk_bottle": "2025-05-31 04:17:23 +0000"
+      "cooked_bacon": "2025-05-30 23:12:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_lime_wool": {
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
     "criteria": {
-      "has_needed_dye": "2025-05-31 00:31:53 +0000"
+      "cooked_bacon": "2025-05-30 23:12:43 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/obtain_netherite_knife": {
+  "farmersdelight:recipes/food/cooked_bacon": {
     "criteria": {
-      "obtain_netherite_knife": "2025-05-31 02:46:21 +0000"
+      "cooked_bacon": "2025-05-30 23:12:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_candle": {
+  "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
-      "has_lime_dye": "2025-05-31 00:31:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/summon_iron_golem": {
-    "criteria": {
-      "summoned_golem": "2025-05-31 00:44:25 +0000"
+      "has_glowstone": "2025-05-30 23:22:10 +0000"
     },
     "done": true
   },
@@ -6409,21 +6403,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-05-31 01:40:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2025-05-31 00:12:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-05-31 00:12:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-05-31 00:12:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-05-31 00:13:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-31 00:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-31 00:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-31 00:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-05-31 00:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-05-31 00:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-31 00:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2025-05-31 00:31:53 +0000"
     },
     "done": true
   },
@@ -6445,51 +6487,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+  "minecraft:adventure/summon_iron_golem": {
     "criteria": {
-      "cooked_bacon": "2025-05-30 23:12:43 +0000"
+      "summoned_golem": "2025-05-31 00:44:25 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "cooked_bacon": "2025-05-30 23:12:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-05-31 00:31:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-05-31 02:06:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
-    "criteria": {
-      "has_sea_pickle": "2025-05-31 00:13:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-05-31 00:31:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2025-05-31 00:12:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
-    "criteria": {
-      "has_red_dye": "2025-05-31 00:31:51 +0000"
+      "has_rose_bush": "2025-05-31 01:40:00 +0000"
     },
     "done": true
   },
@@ -6499,15 +6505,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_candle": {
+  "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
-      "has_red_dye": "2025-05-31 00:31:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-05-30 23:22:10 +0000"
+      "has_light_gray_wool": "2025-05-31 02:06:35 +0000"
     },
     "done": true
   },
@@ -6523,21 +6523,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+  "farmersdelight:main/obtain_netherite_knife": {
     "criteria": {
-      "has_prismarine_bricks": "2025-05-31 00:12:58 +0000"
+      "obtain_netherite_knife": "2025-05-31 02:46:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2025-05-31 04:17:23 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/cake_from_milk_bottle": {
     "criteria": {
       "has_milk_bottle": "2025-05-31 04:17:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon": {
-    "criteria": {
-      "cooked_bacon": "2025-05-30 23:12:43 +0000"
     },
     "done": true
   },

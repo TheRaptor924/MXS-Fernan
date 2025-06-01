@@ -260,3 +260,42 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 00:45:21.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> azucarviva
 [01Jun2025 00:45:37.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ricarena
 [01Jun2025 00:46:04.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-358, y=69, z=-271} BlockPos{x=-358, y=69, z=-270}
+[01Jun2025 00:47:00.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> listo
+[01Jun2025 00:47:05.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> puerta trol lista
+[01Jun2025 00:47:10.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> si algo se bugueo
+[01Jun2025 00:47:55.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Oki
+[01Jun2025 00:47:57.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> le hice solo una puerta, le hago mas?
+[01Jun2025 00:48:04.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> voy a decirle a rafa que entre
+[01Jun2025 00:48:10.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> va xd
+[01Jun2025 00:48:19.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> el no ve el chat previo verdad?
+[01Jun2025 00:50:19.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> cierto que el ratatouille es vegetariano
+[01Jun2025 00:50:20.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :v
+[01Jun2025 00:50:25.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> sip
+[01Jun2025 00:50:30.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> es ensalada
+[01Jun2025 00:50:34.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> sip
+[01Jun2025 00:51:23.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> me llevo esto
+[01Jun2025 00:51:25.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> se ve rico
+[01Jun2025 00:51:28.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> el plato de pollo asado no me deja ver como se prepara
+[01Jun2025 00:52:08.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> pollo
+[01Jun2025 00:52:10.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> huevo
+[01Jun2025 00:52:12.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> plato
+[01Jun2025 00:52:18.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> 2 zanahorias
+[01Jun2025 00:52:21.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> 2 cebollas
+[01Jun2025 00:52:30.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> 1 pan
+[01Jun2025 00:52:36.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Nel ese no
+[01Jun2025 00:52:39.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> el otro
+[01Jun2025 00:52:50.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> uno es pollo asado
+[01Jun2025 00:53:00.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> y el que yo busco es "Plato de pollo asado"
+[01Jun2025 00:53:25.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> chale
+[01Jun2025 00:53:29.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> toca por google
+[01Jun2025 00:53:43.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> me haces mas de estos?
+[01Jun2025 00:53:46.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> se ven bien ricos
+[01Jun2025 00:54:08.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> de esa ensalada de frutas?
+[01Jun2025 00:54:20.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> natilla de baya luminosa
+[01Jun2025 00:54:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> oki
+[01Jun2025 00:54:37.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> mirate
+[01Jun2025 00:54:43.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ya no
+[01Jun2025 00:54:46.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> jejejeje
+[01Jun2025 00:54:47.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> brillo
+[01Jun2025 00:54:49.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ci
+[01Jun2025 00:56:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> necesito azucar
