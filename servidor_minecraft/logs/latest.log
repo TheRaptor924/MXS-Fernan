@@ -249,3 +249,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 21:54:49.321] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 5.581 ms. 1473/1531 recipes are parallelized.
 [01Jun2025 22:02:09.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [01Jun2025 22:02:09.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[01Jun2025 22:14:04.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angeltronix7005[/127.10.3.181:60677] logged in with entity id 4805 at (-330.56339017858267, 71.0, -322.798662892633)
+[01Jun2025 22:14:04.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 joined the game
+[01Jun2025 22:14:04.461] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[01Jun2025 22:14:05.330] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
+[01Jun2025 22:14:39.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> wenas
+[01Jun2025 22:14:43.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> discord?
+[01Jun2025 22:19:37.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-240, y=86, z=-266} BlockPos{x=-240, y=85, z=-266}
