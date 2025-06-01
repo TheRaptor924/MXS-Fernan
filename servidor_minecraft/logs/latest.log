@@ -262,3 +262,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 22:50:26.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
 [01Jun2025 23:26:34.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
 [01Jun2025 23:26:51.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[01Jun2025 23:36:44.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.75.255.182:43153] logged in with entity id 21547 at (-348.7421032469754, 79.0, -273.7108095872375)
+[01Jun2025 23:36:44.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[01Jun2025 23:36:44.218] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[01Jun2025 23:36:44.964] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[01Jun2025 23:37:04.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> discord?
+[01Jun2025 23:40:20.043] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 131.7 μs. 201/201 recipes are parallelized.

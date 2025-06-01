@@ -7220,6 +7220,60 @@
     },
     "done": true
   },
+  "l2complements:recipes/enchantments/enchantments/vien_mining": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 05:15:50 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/cubic_digging": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 05:15:50 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/drill_digging": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 05:15:50 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/tree_chopping": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 05:15:50 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/plane_digging": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 05:15:50 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/void_escape": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 05:15:50 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/shadow_shredder": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 05:15:50 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/diffusion_wand": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 05:15:50 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/instant_shot": {
+    "criteria": {
+      "has_storm_core": "2025-06-01 05:15:50 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/shulkerate_javelin_enchanted": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-01 05:16:12 +0000"
@@ -7238,18 +7292,6 @@
     },
     "done": true
   },
-  "l2complements:recipes/enchantments/enchantments/vien_mining": {
-    "criteria": {
-      "has_storm_core": "2025-06-01 05:15:50 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/enchantments/enchantments/energized_will": {
-    "criteria": {
-      "has_soul_flame": "2025-06-01 05:28:20 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/tools/generated/craft/shulkerate_spear_enchanted": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-01 05:16:12 +0000"
@@ -7259,24 +7301,6 @@
   "l2complements:recipes/enchantments/enchantments/hardened": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-01 05:16:12 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/cubic_digging": {
-    "criteria": {
-      "has_storm_core": "2025-06-01 05:15:50 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/soul_flame_thorn": {
-    "criteria": {
-      "has_soul_flame": "2025-06-01 05:28:20 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/drill_digging": {
-    "criteria": {
-      "has_storm_core": "2025-06-01 05:15:50 +0000"
     },
     "done": true
   },
@@ -7292,27 +7316,9 @@
     },
     "done": true
   },
-  "l2complements:recipes/enchantments/enchantments/soul_flame_blade": {
-    "criteria": {
-      "has_soul_flame": "2025-06-01 05:28:20 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/tools/generated/craft/shulkerate_nunchaku_enchanted": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-01 05:16:12 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/tree_chopping": {
-    "criteria": {
-      "has_storm_core": "2025-06-01 05:15:50 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/plane_digging": {
-    "criteria": {
-      "has_storm_core": "2025-06-01 05:15:50 +0000"
     },
     "done": true
   },
@@ -7340,24 +7346,6 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/combat/legendary/void_escape": {
-    "criteria": {
-      "has_storm_core": "2025-06-01 05:15:50 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/legendary/axe_of_cursed_flame": {
-    "criteria": {
-      "has_soul_flame": "2025-06-01 05:28:20 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/legendary/shadow_shredder": {
-    "criteria": {
-      "has_storm_core": "2025-06-01 05:15:50 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/tools/generated/craft/shulkerate_throwing_axe_enchanted": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-01 05:16:12 +0000"
@@ -7376,21 +7364,9 @@
     },
     "done": true
   },
-  "l2complements:recipes/misc/craft/diffusion_wand": {
-    "criteria": {
-      "has_storm_core": "2025-06-01 05:15:50 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/misc/craft/reinforced_warp_stone": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-01 05:16:12 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/smelt": {
-    "criteria": {
-      "has_soul_flame": "2025-06-01 05:28:20 +0000"
     },
     "done": true
   },
@@ -7400,9 +7376,33 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/misc/generated/recycle/shulkerate_javelin": {
+  "l2weaponry:recipes/enchantments/enchantments/energized_will": {
     "criteria": {
-      "has_shulkerate_javelin": "2025-06-01 05:38:30 +0000"
+      "has_soul_flame": "2025-06-01 05:28:20 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/soul_flame_thorn": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 05:28:20 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/soul_flame_blade": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 05:28:20 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/axe_of_cursed_flame": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 05:28:20 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/smelt": {
+    "criteria": {
+      "has_soul_flame": "2025-06-01 05:28:20 +0000"
     },
     "done": true
   },
@@ -7418,9 +7418,9 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/enchantments/enchantments/instant_shot": {
+  "l2weaponry:recipes/misc/generated/recycle/shulkerate_javelin": {
     "criteria": {
-      "has_storm_core": "2025-06-01 05:15:50 +0000"
+      "has_shulkerate_javelin": "2025-06-01 05:38:30 +0000"
     },
     "done": true
   },
