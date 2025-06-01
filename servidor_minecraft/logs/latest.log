@@ -294,3 +294,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 05:45:01.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> xd?
 [01Jun2025 05:45:34.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ci
 [01Jun2025 05:47:20.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> rafa segun el minimapa tienes un enemigo en tu casa
+[01Jun2025 05:51:48.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> bueno muchachos a mimir
+[01Jun2025 05:51:54.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> sino acá me jalan las orejas
+[01Jun2025 05:52:10.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
+[01Jun2025 05:52:37.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
+[01Jun2025 05:52:37.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[01Jun2025 05:52:37.125] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[01Jun2025 05:52:37.125] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[01Jun2025 05:52:54.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Disconnected
+[01Jun2025 05:52:54.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
+[01Jun2025 05:52:54.621] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[01Jun2025 05:52:54.622] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
+[01Jun2025 05:53:19.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 lost connection: Disconnected
+[01Jun2025 05:53:19.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
+[01Jun2025 05:53:19.922] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[01Jun2025 05:53:19.923] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[01Jun2025 05:53:26.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Jun2025 05:53:26.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Jun2025 05:53:26.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Jun2025 05:53:26.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Jun2025 05:53:26.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Jun2025 05:53:26.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Jun2025 05:53:26.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Jun2025 05:53:26.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Jun2025 05:53:26.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Jun2025 05:53:26.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Jun2025 05:53:26.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Jun2025 05:53:26.455] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
