@@ -6103,99 +6103,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/egg_sandwich": {
-    "criteria": {
-      "has_fried_egg": "2025-05-31 04:00:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_green_dye": "2025-05-31 03:04:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/obtain_netherite_knife": {
-    "criteria": {
-      "obtain_netherite_knife": "2025-05-31 03:41:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
-    "criteria": {
-      "cooked_cod_slice": "2025-05-31 04:10:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_candle": {
-    "criteria": {
-      "has_blue_dye": "2025-05-31 03:04:58 +0000"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/fried_dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-31 04:13:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-31 04:50:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-31 03:06:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
-    "criteria": {
-      "cooked_salmon_slice": "2025-05-31 04:10:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-05-31 04:50:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
-    "criteria": {
-      "cooked_salmon_slice": "2025-05-31 04:10:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-05-31 04:08:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-05-31 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/salmon_roll": {
-    "criteria": {
-      "has_salmon_slice": "2025-05-31 04:10:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-05-31 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bacon_sandwich": {
-    "criteria": {
-      "has_bacon": "2025-05-31 04:06:38 +0000"
     },
     "done": true
   },
@@ -6205,39 +6115,33 @@
     },
     "done": true
   },
-  "rusticdelight:recipes/food/calamari_roll": {
-    "criteria": {
-      "has_cooked_rice": "2025-05-31 04:16:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-05-31 04:08:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cod_roll": {
-    "criteria": {
-      "has_cod_slice": "2025-05-31 04:10:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_candle": {
     "criteria": {
       "has_green_dye": "2025-05-31 03:04:51 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/hamburger": {
-    "criteria": {
-      "has_beef_patty": "2025-05-31 04:04:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2025-05-31 03:04:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-31 03:04:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-31 03:04:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-05-31 03:04:58 +0000"
     },
     "done": true
   },
@@ -6253,51 +6157,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-05-31 04:01:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_candle": {
-    "criteria": {
-      "has_cyan_dye": "2025-05-31 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_salmon_slice": {
-    "criteria": {
-      "cooked_salmon_slice": "2025-05-31 04:10:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_cod_slice": {
-    "criteria": {
-      "cooked_cod_slice": "2025-05-31 04:10:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-31 03:04:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-05-31 04:01:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-05-31 04:08:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fruit_salad": {
-    "criteria": {
-      "has_fruits": "2025-05-31 03:52:15 +0000"
     },
     "done": true
   },
@@ -6307,9 +6169,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
     "criteria": {
-      "cooked_cod_slice": "2025-05-31 04:10:32 +0000"
+      "has_needed_dye": "2025-05-31 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-31 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-05-31 03:05:03 +0000"
     },
     "done": true
   },
@@ -6319,9 +6193,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_green_carpet": {
+  "minecraft:recipes/decorations/cyan_stained_glass_pane": {
     "criteria": {
-      "has_needed_dye": "2025-05-31 03:04:51 +0000"
+      "has_glass": "2025-05-31 03:06:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/obtain_netherite_knife": {
+    "criteria": {
+      "obtain_netherite_knife": "2025-05-31 03:41:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fruit_salad": {
+    "criteria": {
+      "has_fruits": "2025-05-31 03:52:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-05-31 04:00:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-05-31 04:01:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-05-31 04:01:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-05-31 04:01:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-05-31 04:04:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-05-31 04:06:38 +0000"
     },
     "done": true
   },
@@ -6331,15 +6253,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_green_wool": {
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
     "criteria": {
-      "has_needed_dye": "2025-05-31 03:04:51 +0000"
+      "cooked_mutton_chops": "2025-05-31 04:08:39 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
     "criteria": {
-      "cooked_chicken_cuts": "2025-05-31 04:01:40 +0000"
+      "cooked_mutton_chops": "2025-05-31 04:08:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-31 04:08:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
+    "criteria": {
+      "cooked_cod_slice": "2025-05-31 04:10:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cod_roll": {
+    "criteria": {
+      "has_cod_slice": "2025-05-31 04:10:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice": {
+    "criteria": {
+      "cooked_cod_slice": "2025-05-31 04:10:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_cod_slice": "2025-05-31 04:10:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-05-31 04:10:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-05-31 04:10:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/salmon_roll": {
+    "criteria": {
+      "has_salmon_slice": "2025-05-31 04:10:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-05-31 04:10:43 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/fried_dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 04:13:58 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/calamari_roll": {
+    "criteria": {
+      "has_cooked_rice": "2025-05-31 04:16:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 04:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-31 04:50:42 +0000"
     },
     "done": true
   },
