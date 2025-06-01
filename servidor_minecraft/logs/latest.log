@@ -246,3 +246,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 21:52:51.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein joined the game
 [01Jun2025 21:52:51.406] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
 [01Jun2025 21:52:52.479] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was loaded
+[01Jun2025 21:54:49.321] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 5.581 ms. 1473/1531 recipes are parallelized.
+[01Jun2025 22:02:09.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jun2025 22:02:09.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]

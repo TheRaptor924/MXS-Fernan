@@ -4070,3 +4070,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 21:52:55.405] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate
 [01Jun2025 21:52:55.460] [Server thread/DEBUG] [mixin/]: Mixing StructureTemplateMixin from betterjungletemples.mixins.json into net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate
 [01Jun2025 21:52:55.460] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$betterjungletemples_preventAutoWaterlogging$0(Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureProcessor;)Z to mdbfee34$lambda$betterjungletemples_preventAutoWaterlogging$0$0 in betterjungletemples.mixins.json:StructureTemplateMixin
+[01Jun2025 21:54:27.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 21:54:27.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 21:54:49.321] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 5.581 ms. 1473/1531 recipes are parallelized.
+[01Jun2025 21:59:27.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 21:59:27.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 22:02:09.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jun2025 22:02:09.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
