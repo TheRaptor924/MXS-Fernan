@@ -6541,5 +6541,29 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-06-01 00:54:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-06-01 00:54:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/salmon_roll": {
+    "criteria": {
+      "has_salmon_slice": "2025-06-01 00:54:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-06-01 00:54:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

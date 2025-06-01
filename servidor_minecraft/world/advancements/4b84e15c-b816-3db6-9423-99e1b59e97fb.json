@@ -7100,25 +7100,31 @@
     },
     "done": true
   },
-  "minecraft:nether/create_beacon": {
-    "criteria": {
-      "beacon": "2025-05-31 04:44:52 +0000"
-    },
-    "done": true
-  },
   "enemyexpansion:troll_hunter": {
     "criteria": {
       "troll_hunter_0": "2025-05-31 02:41:38 +0000"
     },
     "done": true
   },
-  "minecraft:nether/create_full_beacon": {
+  "minecraft:nether/summon_wither": {
     "criteria": {
-      "beacon": "2025-05-31 04:44:52 +0000"
+      "summoned": "2025-05-31 02:42:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-05-31 02:44:38 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/owner_protection": {
+    "criteria": {
+      "has_nether_star": "2025-05-31 02:44:38 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/nether_star": {
     "criteria": {
       "has_nether_star": "2025-05-31 02:44:38 +0000"
     },
@@ -7130,27 +7136,21 @@
     },
     "done": true
   },
-  "l2complements:recipes/enchantments/enchantments/owner_protection": {
-    "criteria": {
-      "has_nether_star": "2025-05-31 02:44:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2025-05-31 03:22:15 +0000"
     },
     "done": true
   },
-  "l2complements:recipes/burnt/burnt/nether_star": {
+  "minecraft:nether/create_beacon": {
     "criteria": {
-      "has_nether_star": "2025-05-31 02:44:38 +0000"
+      "beacon": "2025-05-31 04:44:52 +0000"
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
+  "minecraft:nether/create_full_beacon": {
     "criteria": {
-      "summoned": "2025-05-31 02:42:57 +0000"
+      "beacon": "2025-05-31 04:44:52 +0000"
     },
     "done": true
   },
