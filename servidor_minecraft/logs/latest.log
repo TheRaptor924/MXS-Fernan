@@ -268,3 +268,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 23:36:44.964] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
 [01Jun2025 23:37:04.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> discord?
 [01Jun2025 23:40:20.043] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 131.7 μs. 201/201 recipes are parallelized.
+[01Jun2025 23:47:06.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ño
+[01Jun2025 23:47:07.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :3
+[01Jun2025 23:52:00.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jun2025 23:52:00.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[01Jun2025 23:52:15.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
