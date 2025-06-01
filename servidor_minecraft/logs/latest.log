@@ -268,3 +268,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 05:16:54.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> z
 [01Jun2025 05:16:54.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> z
 [01Jun2025 05:18:07.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> la nevera
+[01Jun2025 05:23:07.792] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 49.52 μs. 0/148 recipes are parallelized.
+[01Jun2025 05:26:39.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor moved too quickly! -1.9335160756917276,-0.9776480212707952,9.89805374587307
