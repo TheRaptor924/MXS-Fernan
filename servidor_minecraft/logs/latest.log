@@ -261,3 +261,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jun2025 01:32:58.705] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
 [02Jun2025 01:34:37.828] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Diana'/4148, l='ServerLevel[world]', x=-1522.63, y=64.50, z=-341.28] died, message: 'Diana suffocated in a wall'
 [02Jun2025 01:34:37.829] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Diana'/4148, l='ServerLevel[world]', x=-1522.63, y=64.50, z=-341.28] died: Diana suffocated in a wall
+[02Jun2025 01:39:58.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-244, y=69, z=-254} BlockPos{x=-244, y=68, z=-254}
+[02Jun2025 01:42:42.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> sapo
+[02Jun2025 01:42:45.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :3
