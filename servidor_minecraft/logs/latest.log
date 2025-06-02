@@ -270,3 +270,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jun2025 02:05:05.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
 [02Jun2025 02:13:45.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
 [02Jun2025 02:15:40.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[02Jun2025 02:18:35.400] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 132.8 μs. 201/201 recipes are parallelized.
+[02Jun2025 02:19:44.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Disconnected
+[02Jun2025 02:19:44.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
+[02Jun2025 02:19:44.274] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[02Jun2025 02:19:44.275] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
+[02Jun2025 02:19:55.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Jun2025 02:19:55.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[02Jun2025 02:21:13.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferlein[/127.59.10.170:50315] logged in with entity id 24111 at (-304.60872686471595, 74.0, -138.65792578304382)
+[02Jun2025 02:21:13.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein joined the game
+[02Jun2025 02:21:13.702] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[02Jun2025 02:21:14.720] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was loaded
+[02Jun2025 02:26:34.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to JustRaptor]
