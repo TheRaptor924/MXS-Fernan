@@ -13,3 +13,5 @@
 [02Jun2025 00:30:54.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
 [02Jun2025 00:33:07.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ci
 [02Jun2025 00:33:12.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> tiene razon
+[02Jun2025 00:34:40.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-243, y=69, z=-260} BlockPos{x=-243, y=68, z=-260}
+[02Jun2025 00:42:07.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Ferlein]
