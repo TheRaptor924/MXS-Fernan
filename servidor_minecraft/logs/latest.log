@@ -287,3 +287,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jun2025 02:35:41.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-299, y=69, z=-277} BlockPos{x=-299, y=68, z=-277}
 [02Jun2025 02:36:33.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [02Jun2025 02:36:33.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[02Jun2025 02:41:21.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to JustRaptor]
+[02Jun2025 02:41:52.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor was killed
+[02Jun2025 02:41:52.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed JustRaptor]
+[02Jun2025 02:42:48.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor was killed
+[02Jun2025 02:42:48.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed JustRaptor]
+[02Jun2025 02:43:28.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor was killed
+[02Jun2025 02:43:29.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed JustRaptor]
+[02Jun2025 02:44:05.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> -.-
+[02Jun2025 02:45:07.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Jun2025 02:45:07.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[02Jun2025 02:46:04.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor was killed
+[02Jun2025 02:46:04.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed JustRaptor]
+[02Jun2025 02:46:10.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> tramposo
+[02Jun2025 02:46:24.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> rata
+[02Jun2025 02:46:26.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :3
+[02Jun2025 02:46:27.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> yo no quiero tus porquerias
+[02Jun2025 02:46:36.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> aja si claro
+[02Jun2025 02:46:51.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 was slain by JustRaptor
+[02Jun2025 02:47:02.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor was killed
+[02Jun2025 02:47:02.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed JustRaptor]
+[02Jun2025 02:47:06.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> ya we
