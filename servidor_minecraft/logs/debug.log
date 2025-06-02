@@ -4483,3 +4483,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 23:52:00.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [01Jun2025 23:52:00.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [01Jun2025 23:52:15.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[01Jun2025 23:54:14.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[01Jun2025 23:54:27.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 23:54:27.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 23:59:04.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was slain by JustRaptor
+[01Jun2025 23:59:27.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 23:59:27.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 00:01:41.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
