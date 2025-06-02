@@ -7424,5 +7424,41 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/legendary/claw_of_determination": {
+    "criteria": {
+      "has_sun_membrane": "2025-06-02 00:10:10 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/fire_reject": {
+    "criteria": {
+      "has_sun_membrane": "2025-06-02 00:10:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/misc/generated/recycle/totemic_gold_hammer": {
+    "criteria": {
+      "has_totemic_gold_hammer": "2025-06-02 00:11:08 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/renew/elytra": {
+    "criteria": {
+      "has_sun_membrane": "2025-06-02 00:10:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/dogmatic_punishment": {
+    "criteria": {
+      "has_sun_membrane": "2025-06-02 00:10:10 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/hellfire_wand": {
+    "criteria": {
+      "has_sun_membrane": "2025-06-02 00:10:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
