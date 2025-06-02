@@ -24,3 +24,4 @@
 [02Jun2025 00:56:38.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
 [02Jun2025 00:57:05.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Spectator Mode]
 [02Jun2025 00:57:12.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[02Jun2025 01:07:36.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-181, y=74, z=-64} BlockPos{x=-182, y=77, z=-62}
