@@ -331,3 +331,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jun2025 03:25:15.643] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 47.47 μs. 0/148 recipes are parallelized.
 [02Jun2025 03:32:30.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> como?
 [02Jun2025 03:32:32.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> aaaaaaa
+[02Jun2025 03:43:50.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
+[02Jun2025 03:45:17.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
+[02Jun2025 03:45:22.971] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 216.8 μs. 261/262 recipes are parallelized.
+[02Jun2025 03:46:54.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 was impaled by JustRaptor
+[02Jun2025 03:47:02.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
+[02Jun2025 03:47:05.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> chistosito
+[02Jun2025 03:47:34.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> y aqui?
