@@ -7646,5 +7646,53 @@
     },
     "done": true
   },
+  "l2complements:recipes/enchantments/enchantments/soul_bound": {
+    "criteria": {
+      "has_void_eye": "2025-06-04 05:05:05 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/shadow_hunter": {
+    "criteria": {
+      "has_void_eye": "2025-06-04 05:05:05 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/fragile_warp_stone": {
+    "criteria": {
+      "has_void_eye": "2025-06-04 05:05:05 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/misc/generated/recycle/shulkerate_spear": {
+    "criteria": {
+      "has_shulkerate_spear": "2025-06-04 05:06:06 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/blade_of_illusion": {
+    "criteria": {
+      "has_void_eye": "2025-06-04 05:05:05 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/haunting_demon_of_the_end": {
+    "criteria": {
+      "has_void_eye": "2025-06-04 05:05:05 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/projection": {
+    "criteria": {
+      "has_void_eye": "2025-06-04 05:05:05 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/environment_reject": {
+    "criteria": {
+      "has_void_eye": "2025-06-04 05:05:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
