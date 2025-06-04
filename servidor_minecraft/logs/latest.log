@@ -249,3 +249,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jun2025 02:44:35.291] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.008 ms. 1473/1531 recipes are parallelized.
 [04Jun2025 02:48:21.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [04Jun2025 02:48:21.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[04Jun2025 03:06:04.969] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler
+[04Jun2025 03:06:04.972] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler
+[04Jun2025 03:06:04.979] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler
+[04Jun2025 03:06:05.023] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler
+[04Jun2025 03:06:05.071] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler
+[04Jun2025 03:06:05.122] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler
