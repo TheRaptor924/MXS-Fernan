@@ -314,3 +314,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jun2025 05:28:03.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [04Jun2025 05:39:19.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> que te parece?
 [04Jun2025 05:39:39.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> estoy lejitos, ahora voy
+[04Jun2025 05:45:52.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> bueno rafa ya va siendo hora de dormir
+[04Jun2025 05:46:04.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> eso te iba a decir jaja
+[04Jun2025 05:46:04.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> perdon por sacarlo
+[04Jun2025 05:46:16.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> no, ya tengo sueño igaul
+[04Jun2025 05:46:20.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> buena noche Alex
+[04Jun2025 05:46:25.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> buenas noches
+[04Jun2025 05:46:26.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
+[04Jun2025 05:46:26.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[04Jun2025 05:46:26.918] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[04Jun2025 05:46:26.919] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[04Jun2025 05:46:44.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Disconnected
+[04Jun2025 05:46:44.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
+[04Jun2025 05:46:44.416] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[04Jun2025 05:46:44.416] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
+[04Jun2025 05:49:05.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Jun2025 05:49:05.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Jun2025 05:49:05.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Jun2025 05:49:05.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Jun2025 05:49:05.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Jun2025 05:49:05.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Jun2025 05:49:05.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Jun2025 05:49:05.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Jun2025 05:49:05.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Jun2025 05:49:05.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Jun2025 05:49:05.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Jun2025 05:49:05.694] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
