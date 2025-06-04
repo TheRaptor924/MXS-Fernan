@@ -251,3 +251,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jun2025 04:14:39.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [04Jun2025 04:14:39.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [04Jun2025 04:16:09.421] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.630 ms. 1473/1531 recipes are parallelized.
+[04Jun2025 04:23:38.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jun2025 04:23:38.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[04Jun2025 04:27:12.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.75.255.182:54865] logged in with entity id 1938 at (-37.42080890740691, 59.41999998688698, 82.69859309252159)
+[04Jun2025 04:27:12.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[04Jun2025 04:27:12.791] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[04Jun2025 04:27:14.100] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[04Jun2025 04:27:18.246] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Piglin['Piglin'/2152, l='ServerLevel[world]', x=-19.44, y=37.00, z=-80.12]
+[04Jun2025 04:28:01.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Floyd'/1692, l='ServerLevel[world]', x=-334.84, y=62.56, z=-214.87] died: Floyd was slain by Ferlein
+[04Jun2025 04:28:21.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pa, no me lo va a creer
+[04Jun2025 04:28:27.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pero sigo sin la lanza xd
+[04Jun2025 04:28:28.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no le creo
+[04Jun2025 04:28:31.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jun2025 04:28:31.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[04Jun2025 04:28:45.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> hola, Alex
+[04Jun2025 04:28:48.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> buenas
