@@ -332,3 +332,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jun2025 03:16:30.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ya se me habian acabado
 [05Jun2025 03:17:41.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Thalia'/4676, l='ServerLevel[world]', x=-302.06, y=74.50, z=-81.94] died, message: 'Thalia hit the ground too hard'
 [05Jun2025 03:17:41.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Thalia'/4676, l='ServerLevel[world]', x=-302.06, y=74.50, z=-81.94] died: Thalia hit the ground too hard
+[05Jun2025 03:30:06.029] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-253, y=73, z=-185} BlockPos{x=-253, y=73, z=-186}
+[05Jun2025 03:31:34.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-253, y=74, z=-183} BlockPos{x=-253, y=73, z=-183}
+[05Jun2025 03:32:43.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.75.255.182:38347] logged in with entity id 11208 at (-257.3948681062796, 64.0, -234.86237213867435)
+[05Jun2025 03:32:43.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[05Jun2025 03:32:43.420] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[05Jun2025 03:32:44.047] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[05Jun2025 03:32:45.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> listop
+[05Jun2025 03:32:47.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> mira
+[05Jun2025 03:32:52.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> buenas
+[05Jun2025 03:32:58.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> wenas
+[05Jun2025 03:32:59.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> voy
+[05Jun2025 03:33:14.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> holis
+[05Jun2025 03:33:31.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> kno, me das la lanza de nuevo, c desaparecio xd
+[05Jun2025 03:33:37.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> xd
+[05Jun2025 03:33:46.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> si te lo conte ayer
+[05Jun2025 03:33:50.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> oki
+[05Jun2025 03:33:53.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> a si vrd
+[05Jun2025 03:34:02.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> xd
+[05Jun2025 03:34:02.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[05Jun2025 03:34:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> voy con un lag, flipante
+[05Jun2025 03:34:52.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> como era que se llamaba?
+[05Jun2025 03:34:59.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> void scape
+[05Jun2025 03:35:00.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> algo del vacio
+[05Jun2025 03:35:10.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> escape*
