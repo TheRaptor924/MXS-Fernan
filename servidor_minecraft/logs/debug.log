@@ -4720,3 +4720,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jun2025 04:35:05.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ahora si termine
 [05Jun2025 04:35:11.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
 [05Jun2025 04:35:41.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> pasó la prueba de calidad
+[05Jun2025 04:36:12.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 04:36:12.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 04:41:12.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 04:41:12.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 04:41:42.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> zzzzzzzzzzzzz
+[05Jun2025 04:42:57.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> los pagos de bancolombia a nequi se tarda un dia no?
+[05Jun2025 04:43:06.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> se supone que no
+[05Jun2025 04:43:09.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> No
+[05Jun2025 04:43:15.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> a no
+[05Jun2025 04:43:16.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> de otro banco a Nequi si
+[05Jun2025 04:43:21.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ya me pagaron
+[05Jun2025 04:43:28.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> naisuuu
+[05Jun2025 04:43:53.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> primera vez que una constructora me paga
+[05Jun2025 04:43:57.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> que emocion xd
+[05Jun2025 04:44:00.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> es un inicio
+[05Jun2025 04:44:09.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-304, y=69, z=-279} BlockPos{x=-304, y=68, z=-279}
+[05Jun2025 04:44:16.419] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 97.61 μs. 218/218 recipes are parallelized.
+[05Jun2025 04:45:30.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> pa vender?
+[05Jun2025 04:45:35.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> weño
