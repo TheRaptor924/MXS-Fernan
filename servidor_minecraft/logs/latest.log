@@ -538,3 +538,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jun2025 04:44:16.419] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 97.61 μs. 218/218 recipes are parallelized.
 [05Jun2025 04:45:30.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> pa vender?
 [05Jun2025 04:45:35.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> weño
+[05Jun2025 04:46:07.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[05Jun2025 04:47:48.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
+[05Jun2025 04:48:21.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ayudo en algo?
+[05Jun2025 04:48:30.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> no de momento
+[05Jun2025 04:48:43.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> entonces hare un dinovolador
+[05Jun2025 04:48:45.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Jun2025 04:48:48.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> weño
+[05Jun2025 04:49:58.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[05Jun2025 04:53:06.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> puedo construir aqui?
+[05Jun2025 04:53:15.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> es a mi?
+[05Jun2025 04:53:19.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> rafa
+[05Jun2025 04:53:25.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> dime
+[05Jun2025 04:54:05.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> si era a mi, si, desde que no entre al perimetro de tieera no pasa nada
+[05Jun2025 04:54:16.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> nice
