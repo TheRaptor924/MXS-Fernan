@@ -6883,9 +6883,21 @@
     },
     "done": true
   },
+  "l2complements:recipes/combat/generated_tools/totemic_gold/craft/totemic_gold_sword": {
+    "criteria": {
+      "has_totemic_gold_sword": "2025-06-05 04:07:54 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/sculkium_claw_enchanted": {
     "criteria": {
       "has_sculkium_ingot": "2025-06-05 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/generated_tools/totemic_gold/recycle/totemic_gold_sword": {
+    "criteria": {
+      "has_totemic_gold_sword": "2025-06-05 04:07:54 +0000"
     },
     "done": true
   },
