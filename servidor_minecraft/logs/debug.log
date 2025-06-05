@@ -4609,3 +4609,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jun2025 03:54:20.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> te traigo mi leche entonces
 [05Jun2025 03:54:21.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> jsjsjsjs
 [05Jun2025 03:54:33.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> agradezco tu leche :3
+[05Jun2025 03:56:12.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 03:56:12.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 04:01:11.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[05Jun2025 04:01:12.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 04:01:12.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 04:01:40.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[05Jun2025 04:02:15.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[05Jun2025 04:02:30.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[05Jun2025 04:03:01.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> no me decido a que arma es buena
+[05Jun2025 04:03:08.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> arma para?
+[05Jun2025 04:03:16.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> hay una que te cura cuando haces daño
+[05Jun2025 04:03:19.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> esa es biena
+[05Jun2025 04:03:20.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> en general
+[05Jun2025 04:03:28.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> esa que dice alex
+[05Jun2025 04:03:34.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> es exelente como espada
+[05Jun2025 04:03:36.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> la totemic
+[05Jun2025 04:04:06.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> y que genere mas daño sin perder velocidad?
+[05Jun2025 04:04:31.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> creo que ninguna, las de daño todas pierden vel
