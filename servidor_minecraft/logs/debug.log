@@ -4554,3 +4554,58 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jun2025 03:42:14.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-304, y=69, z=-279} BlockPos{x=-304, y=68, z=-279}
 [05Jun2025 03:44:13.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> wenas
 [05Jun2025 03:45:01.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> c fijaron que mi casa con el mini mapa parece una iglesia?
+[05Jun2025 03:45:55.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> xd Si
+[05Jun2025 03:46:12.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 03:46:12.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 03:46:56.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> hay alguna comida facil y varata que alimente de a medio muslo?
+[05Jun2025 03:47:14.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> la masa de trigo
+[05Jun2025 03:47:29.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> bueno quizas no medio muslo pero si uno o dos
+[05Jun2025 03:47:55.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> porque lo de comer automatico se activa cada medio muslo y seria un desperdicio comer la sopa que da 6 solo por medio
+[05Jun2025 03:47:56.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> una ensalada puede ser
+[05Jun2025 03:48:06.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> no, pero lo puedes configurar
+[05Jun2025 03:48:11.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> si?
+[05Jun2025 03:48:14.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> como?
+[05Jun2025 03:48:15.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> hasta que tengas el hambre suficiente
+[05Jun2025 03:48:20.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> yo lo tengo así
+[05Jun2025 03:48:27.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> como?
+[05Jun2025 03:48:35.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> entra en la mejora
+[05Jun2025 03:48:45.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> a pero hace falta la mejoraf
+[05Jun2025 03:48:49.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> mejorada
+[05Jun2025 03:48:50.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> la remolacha
+[05Jun2025 03:48:52.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> yes
+[05Jun2025 03:48:56.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> la buena
+[05Jun2025 03:49:05.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pero eso no vale tanto, necesitas?
+[05Jun2025 03:49:18.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no nene sigue haciendo las sopas estas de pasta
+[05Jun2025 03:49:22.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> son buenisimas
+[05Jun2025 03:49:34.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> a mi la comida cara se come cuando ya estoy a 5 muslos bajos
+[05Jun2025 03:49:47.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> a mi cuando me quedan 4
+[05Jun2025 03:49:48.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> pero la comida da 6
+[05Jun2025 03:50:03.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> hacete la mejora buena y lo configuras
+[05Jun2025 03:50:12.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> no te mates la cabeza
+[05Jun2025 03:50:17.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> yo no tengo problemas con seguir haciendo la comida de pastas
+[05Jun2025 03:50:32.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> es por no desperdiciar
+[05Jun2025 03:50:39.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> x eso
+[05Jun2025 03:50:40.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> es normal en los de civil
+[05Jun2025 03:50:56.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pa ser ingeniero te complicas mucho jsjs
+[05Jun2025 03:51:12.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 03:51:12.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 03:51:43.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> en ingenieria intentamos aprobechar la utilidad y los rendimientos
+[05Jun2025 03:51:56.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> lit para eso sirven las derivadas
+[05Jun2025 03:51:58.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> x eso, la mejora te da todo eso y es re ez de hacer
+[05Jun2025 03:52:03.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Sabes que?
+[05Jun2025 03:52:06.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ya la hice
+[05Jun2025 03:52:08.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> tengo sed
+[05Jun2025 03:52:09.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :3
+[05Jun2025 03:52:12.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ya lo configure
+[05Jun2025 03:52:12.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pa saber pa
+[05Jun2025 03:52:18.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> eso
+[05Jun2025 03:52:30.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> donde andas?
+[05Jun2025 03:53:15.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> donde estas?
+[05Jun2025 03:53:49.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> en la tienda
+[05Jun2025 03:53:58.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ten
+[05Jun2025 03:54:02.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> y eso?
+[05Jun2025 03:54:13.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no decias que tenias sed?
+[05Jun2025 03:54:17.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> aaaaaaaa
+[05Jun2025 03:54:20.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> te traigo mi leche entonces
+[05Jun2025 03:54:21.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> jsjsjsjs
+[05Jun2025 03:54:33.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> agradezco tu leche :3
