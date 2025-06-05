@@ -6817,18 +6817,6 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/tools/generated/craft/totemic_gold_throwing_axe_enchanted": {
-    "criteria": {
-      "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/tools/generated/craft/totemic_gold_round_shield_enchanted": {
-    "criteria": {
-      "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/tools/generated/craft/sculkium_plate_shield_enchanted": {
     "criteria": {
       "has_sculkium_ingot": "2025-06-05 03:51:38 +0000"
@@ -6847,12 +6835,6 @@
     },
     "done": true
   },
-  "l2complements:recipes/misc/craft/enchanted_totemic_carrot": {
-    "criteria": {
-      "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/tools/generated/craft/sculkium_spear_enchanted": {
     "criteria": {
       "has_sculkium_ingot": "2025-06-05 03:51:38 +0000"
@@ -6865,33 +6847,9 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/tools/generated/craft/totemic_gold_plate_shield_enchanted": {
-    "criteria": {
-      "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/tools/generated/craft/sculkium_throwing_axe_enchanted": {
     "criteria": {
       "has_sculkium_ingot": "2025-06-05 03:51:38 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/tools/generated/craft/totemic_gold_machete_enchanted": {
-    "criteria": {
-      "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/craft/totemic_apple": {
-    "criteria": {
-      "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-06-05 04:26:31 +0000"
     },
     "done": true
   },
@@ -6907,6 +6865,90 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_scythe_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-05 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_hammer_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-05 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_dagger_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-05 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_claw_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-05 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_machete_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-05 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_round_shield_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-05 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/combat/generated_tools/totemic_gold/craft/totemic_gold_sword": {
+    "criteria": {
+      "has_totemic_gold_sword": "2025-06-05 04:07:54 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/generated_tools/totemic_gold/recycle/totemic_gold_sword": {
+    "criteria": {
+      "has_totemic_gold_sword": "2025-06-05 04:07:54 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_throwing_axe_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_round_shield_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/enchanted_totemic_carrot": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_plate_shield_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/totemic_gold_machete_enchanted": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/totemic_apple": {
+    "criteria": {
+      "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/totemic_gold_nunchaku_enchanted": {
     "criteria": {
       "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
@@ -6919,33 +6961,15 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/tools/generated/craft/sculkium_scythe_enchanted": {
-    "criteria": {
-      "has_sculkium_ingot": "2025-06-05 03:51:38 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/tools/generated/craft/totemic_gold_battle_axe_enchanted": {
     "criteria": {
       "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
     },
     "done": true
   },
-  "l2weaponry:recipes/tools/generated/craft/sculkium_hammer_enchanted": {
-    "criteria": {
-      "has_sculkium_ingot": "2025-06-05 03:51:38 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/misc/storage/totemic_gold_ingot_unpack": {
     "criteria": {
       "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/tools/generated/craft/sculkium_dagger_enchanted": {
-    "criteria": {
-      "has_sculkium_ingot": "2025-06-05 03:51:38 +0000"
     },
     "done": true
   },
@@ -6958,12 +6982,6 @@
   "l2weaponry:recipes/tools/generated/craft/totemic_gold_claw_enchanted": {
     "criteria": {
       "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/combat/generated_tools/totemic_gold/craft/totemic_gold_sword": {
-    "criteria": {
-      "has_totemic_gold_sword": "2025-06-05 04:07:54 +0000"
     },
     "done": true
   },
@@ -6985,27 +7003,9 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/tools/generated/craft/sculkium_claw_enchanted": {
-    "criteria": {
-      "has_sculkium_ingot": "2025-06-05 03:51:38 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/misc/generated/recycle/totemic_gold_machete": {
-    "criteria": {
-      "has_totemic_gold_machete": "2025-06-05 04:22:18 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/tools/generated/craft/totemic_gold_javelin_enchanted": {
     "criteria": {
       "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/generated_tools/totemic_gold/recycle/totemic_gold_sword": {
-    "criteria": {
-      "has_totemic_gold_sword": "2025-06-05 04:07:54 +0000"
     },
     "done": true
   },
@@ -7015,21 +7015,21 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/tools/generated/craft/sculkium_machete_enchanted": {
-    "criteria": {
-      "has_sculkium_ingot": "2025-06-05 03:51:38 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/misc/storage/totemic_gold_block_storage": {
     "criteria": {
       "has_totemic_gold_ingot": "2025-06-05 04:22:03 +0000"
     },
     "done": true
   },
-  "l2weaponry:recipes/tools/generated/craft/sculkium_round_shield_enchanted": {
+  "l2weaponry:recipes/misc/generated/recycle/totemic_gold_machete": {
     "criteria": {
-      "has_sculkium_ingot": "2025-06-05 03:51:38 +0000"
+      "has_totemic_gold_machete": "2025-06-05 04:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-05 04:26:31 +0000"
     },
     "done": true
   },

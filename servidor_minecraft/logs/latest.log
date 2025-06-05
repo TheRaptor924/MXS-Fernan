@@ -1,24 +1,24 @@
-[05Jun2025 02:35:10.074] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[05Jun2025 02:35:10.096] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[05Jun2025 02:35:11.913] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[05Jun2025 02:35:12.113] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MXS-Fernan/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[05Jun2025 02:35:13.675] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[05Jun2025 02:35:13.679] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Jun2025 02:35:13.682] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Jun2025 02:35:13.686] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Jun2025 02:35:14.488] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[05Jun2025 02:35:14.495] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
-[05Jun2025 02:35:21.155] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[05Jun2025 02:35:21.386] [main/ERROR] [mixin/]: Mixin config fcl.mixins.json does not specify "minVersion" property
-[05Jun2025 02:35:21.720] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[05Jun2025 02:35:21.722] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[05Jun2025 02:35:21.746] [main/WARN] [mixin/]: Reference map 'limitedchunks.refmap.json' for limitedchunks.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Jun2025 02:35:22.094] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.21.0+mc1.20.1: 88 options available, 1 override(s) found
-[05Jun2025 02:35:22.097] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
-[05Jun2025 02:35:22.099] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[05Jun2025 02:35:22.159] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[05Jun2025 02:35:22.474] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Jun2025 02:35:22.768] [main/INFO] [Puzzles Lib/]: Loading 54 mods:
+[05Jun2025 05:16:06.212] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[05Jun2025 05:16:06.217] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[05Jun2025 05:16:07.860] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[05Jun2025 05:16:08.002] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MXS-Fernan/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[05Jun2025 05:16:08.802] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jun2025 05:16:08.807] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jun2025 05:16:08.813] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jun2025 05:16:08.817] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jun2025 05:16:09.342] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[05Jun2025 05:16:09.346] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[05Jun2025 05:16:15.264] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[05Jun2025 05:16:15.453] [main/ERROR] [mixin/]: Mixin config fcl.mixins.json does not specify "minVersion" property
+[05Jun2025 05:16:15.719] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[05Jun2025 05:16:15.719] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[05Jun2025 05:16:16.407] [main/WARN] [mixin/]: Reference map 'limitedchunks.refmap.json' for limitedchunks.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Jun2025 05:16:16.909] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.21.0+mc1.20.1: 88 options available, 1 override(s) found
+[05Jun2025 05:16:16.914] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
+[05Jun2025 05:16:16.914] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[05Jun2025 05:16:16.995] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[05Jun2025 05:16:17.846] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Jun2025 05:16:18.093] [main/INFO] [Puzzles Lib/]: Loading 54 mods:
 	- advancednetherite 2.1.3
 	- architectury 9.2.14
 	- betterendisland 1.20-Forge-2.0.6
@@ -73,69 +73,70 @@
 	- storagedrawers 12.9.13
 	- villagernames 8.2
 	- yungsapi 1.20-Forge-4.0.6
-[05Jun2025 02:35:22.831] [main/WARN] [mixin/]: Reference map 'itemselector.refmap.json' for l2itemselector.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Jun2025 02:35:23.486] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[05Jun2025 02:35:23.647] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[05Jun2025 02:35:27.109] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[05Jun2025 02:35:30.518] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (27.21 s after launch)
-[05Jun2025 02:35:30.886] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[05Jun2025 02:35:30.887] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[05Jun2025 02:35:31.162] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[05Jun2025 02:35:31.162] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[05Jun2025 02:35:35.347] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 4811 milliseconds
-[05Jun2025 02:35:36.670] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[05Jun2025 02:35:36.672] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[05Jun2025 02:35:36.820] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[05Jun2025 02:35:36.821] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[05Jun2025 02:35:43.079] [modloading-worker-0/INFO] [Collective/]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
-[05Jun2025 02:35:43.470] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[05Jun2025 02:35:43.471] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[05Jun2025 02:35:43.954] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
-[05Jun2025 02:35:43.954] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
-[05Jun2025 02:35:43.955] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (0 ms)
-[05Jun2025 02:35:43.964] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.1.
-[05Jun2025 02:35:44.029] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[05Jun2025 02:35:44.562] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[05Jun2025 02:35:44.598] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[05Jun2025 02:35:44.714] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[05Jun2025 02:35:45.632] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
-[05Jun2025 02:35:48.375] [modloading-worker-0/INFO] [com.limitedchunks.LimitedChunks/]: Limited chunkloading initialized
-[05Jun2025 02:35:48.376] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
-[05Jun2025 02:35:48.625] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[05Jun2025 02:35:48.625] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
-[05Jun2025 02:35:48.630] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
-[05Jun2025 02:35:48.630] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
-[05Jun2025 02:35:48.630] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
-[05Jun2025 02:35:48.630] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
-[05Jun2025 02:35:48.630] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
-[05Jun2025 02:35:48.631] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
-[05Jun2025 02:35:48.631] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
-[05Jun2025 02:35:48.631] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
-[05Jun2025 02:35:48.695] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[05Jun2025 02:35:49.232] [main/INFO] [journeymap/]: Initializing Packet Registries
-[05Jun2025 02:35:49.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[05Jun2025 02:35:50.536] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[05Jun2025 02:35:50.538] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[05Jun2025 02:35:50.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[05Jun2025 02:35:50.653] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[05Jun2025 02:35:50.985] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05Jun2025 02:35:51.011] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[05Jun2025 02:35:51.011] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
-[05Jun2025 02:35:51.049] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.3 Target: null
-[05Jun2025 02:35:51.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[05Jun2025 02:35:51.083] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
-[05Jun2025 02:35:51.087] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[05Jun2025 02:35:51.328] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[05Jun2025 02:35:51.329] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[05Jun2025 02:35:51.356] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
-[05Jun2025 02:35:51.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
-[05Jun2025 02:35:51.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
-[05Jun2025 02:35:51.492] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[05Jun2025 02:35:52.332] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23193!/assets/.mcassetsroot' uses unexpected schema
-[05Jun2025 02:35:52.333] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23193!/data/.mcassetsroot' uses unexpected schema
-[05Jun2025 02:35:58.039] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
-[05Jun2025 02:35:58.041] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_flutterfly as it is missing following references: #forge:is_magical (from enemyexpansion-2.3.1-forge-1.20.1.jar)
-[05Jun2025 02:35:59.562] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
+[05Jun2025 05:16:18.144] [main/WARN] [mixin/]: Reference map 'itemselector.refmap.json' for l2itemselector.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Jun2025 05:16:18.660] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[05Jun2025 05:16:18.773] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[05Jun2025 05:16:22.083] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[05Jun2025 05:16:24.423] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (27.39 s after launch)
+[05Jun2025 05:16:24.736] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[05Jun2025 05:16:24.738] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[05Jun2025 05:16:25.051] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[05Jun2025 05:16:25.053] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[05Jun2025 05:16:30.036] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 5609 milliseconds
+[05Jun2025 05:16:31.606] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[05Jun2025 05:16:31.610] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[05Jun2025 05:16:31.745] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[05Jun2025 05:16:31.748] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[05Jun2025 05:16:37.940] [modloading-worker-0/INFO] [Collective/]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[05Jun2025 05:16:38.426] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[05Jun2025 05:16:38.427] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[05Jun2025 05:16:38.898] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
+[05Jun2025 05:16:38.904] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
+[05Jun2025 05:16:38.904] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (6 ms)
+[05Jun2025 05:16:38.915] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.1.
+[05Jun2025 05:16:38.980] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[05Jun2025 05:16:39.521] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[05Jun2025 05:16:39.563] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[05Jun2025 05:16:39.700] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[05Jun2025 05:16:40.650] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[05Jun2025 05:16:43.657] [modloading-worker-0/INFO] [com.limitedchunks.LimitedChunks/]: Limited chunkloading initialized
+[05Jun2025 05:16:43.657] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[05Jun2025 05:16:43.885] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[05Jun2025 05:16:43.886] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[05Jun2025 05:16:43.888] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[05Jun2025 05:16:43.889] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[05Jun2025 05:16:43.891] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[05Jun2025 05:16:43.892] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[05Jun2025 05:16:43.893] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[05Jun2025 05:16:43.895] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[05Jun2025 05:16:43.895] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[05Jun2025 05:16:43.896] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[05Jun2025 05:16:44.064] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[05Jun2025 05:16:44.073] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[05Jun2025 05:16:44.356] [main/INFO] [journeymap/]: Initializing Packet Registries
+[05Jun2025 05:16:44.696] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[05Jun2025 05:16:45.349] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[05Jun2025 05:16:45.351] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[05Jun2025 05:16:45.448] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[05Jun2025 05:16:45.448] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Jun2025 05:16:45.768] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[05Jun2025 05:16:45.768] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
+[05Jun2025 05:16:45.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.3 Target: null
+[05Jun2025 05:16:45.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[05Jun2025 05:16:45.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
+[05Jun2025 05:16:45.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[05Jun2025 05:16:45.893] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Jun2025 05:16:46.025] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[05Jun2025 05:16:46.025] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[05Jun2025 05:16:46.051] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[05Jun2025 05:16:46.054] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[05Jun2025 05:16:46.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
+[05Jun2025 05:16:46.168] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[05Jun2025 05:16:47.135] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23193!/assets/.mcassetsroot' uses unexpected schema
+[05Jun2025 05:16:47.137] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23193!/data/.mcassetsroot' uses unexpected schema
+[05Jun2025 05:16:51.318] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[05Jun2025 05:16:51.320] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_flutterfly as it is missing following references: #forge:is_magical (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[05Jun2025 05:16:52.933] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -187,19 +188,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[05Jun2025 02:36:00.922] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/wild_cotton as it's serializer returned null
-[05Jun2025 02:36:00.939] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/wild_bell_peppers as it's serializer returned null
-[05Jun2025 02:36:00.974] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe rusticdelight:brewing/coffee as it's serializer returned null
-[05Jun2025 02:36:01.056] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe oceanic_delight:jeed_instant_breath: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
-[05Jun2025 02:36:01.091] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe oceanic_delight:jeed_comfort: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
-[05Jun2025 02:36:01.125] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/coffee as it's serializer returned null
-[05Jun2025 02:36:01.141] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide: com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
-[05Jun2025 02:36:01.255] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/bell_peppers as it's serializer returned null
-[05Jun2025 02:36:01.311] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe oceanic_delight:jeed_nourishment: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
-[05Jun2025 02:36:01.356] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/cotton as it's serializer returned null
-[05Jun2025 02:36:01.367] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/wild_coffee as it's serializer returned null
-[05Jun2025 02:36:01.387] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[05Jun2025 02:36:01.391] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
+[05Jun2025 05:16:53.834] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/wild_cotton as it's serializer returned null
+[05Jun2025 05:16:53.854] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/wild_bell_peppers as it's serializer returned null
+[05Jun2025 05:16:53.884] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe rusticdelight:brewing/coffee as it's serializer returned null
+[05Jun2025 05:16:53.945] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe oceanic_delight:jeed_instant_breath: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
+[05Jun2025 05:16:53.967] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe oceanic_delight:jeed_comfort: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
+[05Jun2025 05:16:53.981] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/coffee as it's serializer returned null
+[05Jun2025 05:16:54.001] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide: com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+[05Jun2025 05:16:54.112] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/bell_peppers as it's serializer returned null
+[05Jun2025 05:16:54.127] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe oceanic_delight:jeed_nourishment: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
+[05Jun2025 05:16:54.136] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/cotton as it's serializer returned null
+[05Jun2025 05:16:54.137] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/wild_coffee as it's serializer returned null
+[05Jun2025 05:16:54.147] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[05Jun2025 05:16:54.148] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -215,341 +216,67 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[05Jun2025 02:36:01.858] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2445 advancements
-[05Jun2025 02:36:01.877] [main/INFO] [placebo/]: Registered 0 additional recipes.
-[05Jun2025 02:36:01.932] [main/INFO] [placebo/]: Registered 0 gear_sets.
-[05Jun2025 02:36:01.971] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:is_flutterfly
-[05Jun2025 02:36:02.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[05Jun2025 02:36:02.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[05Jun2025 02:36:02.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[05Jun2025 02:36:02.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[05Jun2025 02:36:02.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[05Jun2025 02:36:02.882] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[05Jun2025 02:36:03.259] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05Jun2025 02:36:03.260] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[05Jun2025 02:36:03.260] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05Jun2025 02:36:03.260] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[05Jun2025 02:36:03.300] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[05Jun2025 02:36:03.358] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
-[05Jun2025 02:36:03.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[05Jun2025 02:36:04.225] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[05Jun2025 02:36:04.420] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
-[05Jun2025 02:36:04.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[05Jun2025 02:36:04.549] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 124 ms
-[05Jun2025 02:36:04.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.256s)! For help, type "help"
-[05Jun2025 02:36:05.175] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[05Jun2025 02:36:05.244] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
-[05Jun2025 02:36:05.246] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
-[05Jun2025 02:36:05.246] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: limitedchunks.json
-[05Jun2025 02:36:05.249] [Server thread/WARN] [ModernFix/]: Dedicated server took 61.951 seconds to load
-[05Jun2025 02:36:39.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angeltronix7005[/127.10.3.181:58793] logged in with entity id 1 at (-257.25246234774477, 86.0, -260.6264541175615)
-[05Jun2025 02:36:39.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 joined the game
-[05Jun2025 02:36:39.565] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
-[05Jun2025 02:36:41.631] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
-[05Jun2025 02:36:41.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3618ms or 72 ticks behind
-[05Jun2025 02:37:00.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3987ms or 79 ticks behind
-[05Jun2025 02:39:17.213] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferlein[/127.59.10.170:50771] logged in with entity id 542 at (-300.51121850336335, 71.0, -140.86074143176498)
-[05Jun2025 02:39:17.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein joined the game
-[05Jun2025 02:39:17.357] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
-[05Jun2025 02:39:17.593] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was loaded
-[05Jun2025 02:39:27.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> listop?
-[05Jun2025 02:39:28.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> wenas
-[05Jun2025 02:39:30.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ahora
-[05Jun2025 02:39:33.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> nice
-[05Jun2025 02:39:38.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> mira el nuevo dino
-[05Jun2025 02:39:41.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ish ya estaba por borrar los datos del avatar
-[05Jun2025 02:40:04.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
-[05Jun2025 02:40:23.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> que es jeso?
-[05Jun2025 02:40:35.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> un dino marino
-[05Jun2025 02:40:38.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> voy lento
-[05Jun2025 02:40:42.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> tengo mucho lag
-[05Jun2025 02:40:55.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> si pero específicamente que es eso?
-[05Jun2025 02:41:01.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> un dino marino
-[05Jun2025 02:41:06.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :v
-[05Jun2025 02:41:08.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> weno
-[05Jun2025 02:41:12.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> te quedó boniot
-[05Jun2025 02:41:15.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> bonito*
-[05Jun2025 02:41:26.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no te viste jurasic park o q
-[05Jun2025 02:41:40.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> hay un dino marino que se come a un dino volador
-[05Jun2025 02:43:33.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> necesitas roble oscuro?
-[05Jun2025 02:43:38.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> me faltó cultura
-[05Jun2025 02:43:40.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> jsjsjsjs
-[05Jun2025 02:43:47.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> no de momento
-[05Jun2025 02:43:58.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> vengo el que tengo
-[05Jun2025 02:44:01.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ?
-[05Jun2025 02:44:35.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ammmm creo que seria bueno tener algo guardado en los cofres
-[05Jun2025 02:44:54.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> dejare un stack
-[05Jun2025 02:45:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> dos
-[05Jun2025 02:45:37.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ya lo vendi
-[05Jun2025 02:45:46.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> sin querer lo vendi todo
-[05Jun2025 02:46:08.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> error de calculp
-[05Jun2025 02:46:51.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :v
-[05Jun2025 02:47:28.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[05Jun2025 02:47:28.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
-[05Jun2025 02:48:08.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> dame aldmin porfa
-[05Jun2025 02:48:20.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> pero si ya eres admin
-[05Jun2025 02:48:22.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no cambiaste lo del pimiento cocinado
-[05Jun2025 02:48:22.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :v
-[05Jun2025 02:48:30.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Creative Mode]
-[05Jun2025 02:48:33.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> otra vez se quitó?
-[05Jun2025 02:49:10.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no me deja editar la tiemda
-[05Jun2025 02:49:19.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ya
-[05Jun2025 02:50:35.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Survival Mode]
-[05Jun2025 02:51:38.165] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.475 ms. 1473/1531 recipes are parallelized.
-[05Jun2025 02:53:02.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-304, y=69, z=-285} BlockPos{x=-304, y=68, z=-285}
-[05Jun2025 02:53:16.271] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 71.17 μs. 0/148 recipes are parallelized.
-[05Jun2025 02:54:06.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ahora que veo, te cambiaste la skin?
-[05Jun2025 02:54:10.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> a no es el casco
-[05Jun2025 02:54:21.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> nop
-[05Jun2025 02:54:34.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> deja cocinar >:u
-[05Jun2025 02:54:41.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> estoy cocinando pa los dos
-[05Jun2025 02:54:41.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> viste el video de la influencer que se tiro
-[05Jun2025 02:54:50.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> mientras estaba volando con un paracaidas
-[05Jun2025 02:55:40.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Khe?
-[05Jun2025 02:55:41.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> nel
-[05Jun2025 02:55:51.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> mañana te cuento entonces
-[05Jun2025 02:58:43.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> sabes aun sigue algo inflamado esa zona
-[05Jun2025 02:58:53.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> normal
-[05Jun2025 02:58:59.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> las cosas sanan lentamente
-[05Jun2025 02:59:12.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Que feo
-[05Jun2025 02:59:23.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> tienes que aprender a darle tiempo a las cosas
-[05Jun2025 02:59:29.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> oki
-[05Jun2025 03:00:05.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> si necesitas algo me avisas, estare haciendo otro dino
-[05Jun2025 03:05:34.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> oki
-[05Jun2025 03:05:45.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> me ando revisando como va la cicatriz
-[05Jun2025 03:05:53.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> valep
-[05Jun2025 03:05:56.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> intenta no tocarla
-[05Jun2025 03:06:18.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> nopi
-[05Jun2025 03:09:14.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ash no hay naproxeno para que ayude a desinflamar un poco
-[05Jun2025 03:09:19.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> tocará comprar mañana
-[05Jun2025 03:09:33.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> sip
-[05Jun2025 03:09:52.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> si algo mañana miras si ves que va bien la cicatris
-[05Jun2025 03:13:49.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> weño
-[05Jun2025 03:14:42.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> te quedaron cuencos?
-[05Jun2025 03:15:16.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> todos los guarde
-[05Jun2025 03:16:12.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ten
-[05Jun2025 03:16:25.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> gracias
-[05Jun2025 03:16:30.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ya se me habian acabado
-[05Jun2025 03:17:41.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Thalia'/4676, l='ServerLevel[world]', x=-302.06, y=74.50, z=-81.94] died, message: 'Thalia hit the ground too hard'
-[05Jun2025 03:17:41.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Thalia'/4676, l='ServerLevel[world]', x=-302.06, y=74.50, z=-81.94] died: Thalia hit the ground too hard
-[05Jun2025 03:30:06.029] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-253, y=73, z=-185} BlockPos{x=-253, y=73, z=-186}
-[05Jun2025 03:31:34.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-253, y=74, z=-183} BlockPos{x=-253, y=73, z=-183}
-[05Jun2025 03:32:43.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.75.255.182:38347] logged in with entity id 11208 at (-257.3948681062796, 64.0, -234.86237213867435)
-[05Jun2025 03:32:43.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
-[05Jun2025 03:32:43.420] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
-[05Jun2025 03:32:44.047] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
-[05Jun2025 03:32:45.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> listop
-[05Jun2025 03:32:47.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> mira
-[05Jun2025 03:32:52.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> buenas
-[05Jun2025 03:32:58.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> wenas
-[05Jun2025 03:32:59.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> voy
-[05Jun2025 03:33:14.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> holis
-[05Jun2025 03:33:31.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> kno, me das la lanza de nuevo, c desaparecio xd
-[05Jun2025 03:33:37.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> xd
-[05Jun2025 03:33:46.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> si te lo conte ayer
-[05Jun2025 03:33:50.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> oki
-[05Jun2025 03:33:53.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> a si vrd
-[05Jun2025 03:34:02.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> xd
-[05Jun2025 03:34:02.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
-[05Jun2025 03:34:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> voy con un lag, flipante
-[05Jun2025 03:34:52.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> como era que se llamaba?
-[05Jun2025 03:34:59.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> void scape
-[05Jun2025 03:35:00.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> algo del vacio
-[05Jun2025 03:35:10.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> escape*
-[05Jun2025 03:35:31.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ya
-[05Jun2025 03:35:33.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> muy amable
-[05Jun2025 03:36:30.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> jejejeje si le sepo
-[05Jun2025 03:36:38.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
-[05Jun2025 03:36:45.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> un paralosauriolocus
-[05Jun2025 03:36:48.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[05Jun2025 03:36:48.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
-[05Jun2025 03:36:48.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> o algo asi
-[05Jun2025 03:37:05.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> pos está naisu
-[05Jun2025 03:38:32.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> elije entre un dino volador o un triceraptor
-[05Jun2025 03:38:45.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> trice
-[05Jun2025 03:39:05.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Es para hacer alusión a rafa
-[05Jun2025 03:39:07.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> jsjsjsjs
-[05Jun2025 03:40:02.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Spectator Mode]
-[05Jun2025 03:40:25.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
-[05Jun2025 03:40:48.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Made Ferlein no longer a server operator]
-[05Jun2025 03:40:52.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Spectator Mode]
-[05Jun2025 03:41:01.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
-[05Jun2025 03:42:14.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-304, y=69, z=-279} BlockPos{x=-304, y=68, z=-279}
-[05Jun2025 03:44:13.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> wenas
-[05Jun2025 03:45:01.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> c fijaron que mi casa con el mini mapa parece una iglesia?
-[05Jun2025 03:45:55.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> xd Si
-[05Jun2025 03:46:56.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> hay alguna comida facil y varata que alimente de a medio muslo?
-[05Jun2025 03:47:14.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> la masa de trigo
-[05Jun2025 03:47:29.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> bueno quizas no medio muslo pero si uno o dos
-[05Jun2025 03:47:55.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> porque lo de comer automatico se activa cada medio muslo y seria un desperdicio comer la sopa que da 6 solo por medio
-[05Jun2025 03:47:56.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> una ensalada puede ser
-[05Jun2025 03:48:06.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> no, pero lo puedes configurar
-[05Jun2025 03:48:11.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> si?
-[05Jun2025 03:48:14.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> como?
-[05Jun2025 03:48:15.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> hasta que tengas el hambre suficiente
-[05Jun2025 03:48:20.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> yo lo tengo así
-[05Jun2025 03:48:27.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> como?
-[05Jun2025 03:48:35.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> entra en la mejora
-[05Jun2025 03:48:45.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> a pero hace falta la mejoraf
-[05Jun2025 03:48:49.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> mejorada
-[05Jun2025 03:48:50.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> la remolacha
-[05Jun2025 03:48:52.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> yes
-[05Jun2025 03:48:56.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> la buena
-[05Jun2025 03:49:05.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pero eso no vale tanto, necesitas?
-[05Jun2025 03:49:18.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no nene sigue haciendo las sopas estas de pasta
-[05Jun2025 03:49:22.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> son buenisimas
-[05Jun2025 03:49:34.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> a mi la comida cara se come cuando ya estoy a 5 muslos bajos
-[05Jun2025 03:49:47.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> a mi cuando me quedan 4
-[05Jun2025 03:49:48.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> pero la comida da 6
-[05Jun2025 03:50:03.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> hacete la mejora buena y lo configuras
-[05Jun2025 03:50:12.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> no te mates la cabeza
-[05Jun2025 03:50:17.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> yo no tengo problemas con seguir haciendo la comida de pastas
-[05Jun2025 03:50:32.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> es por no desperdiciar
-[05Jun2025 03:50:39.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> x eso
-[05Jun2025 03:50:40.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> es normal en los de civil
-[05Jun2025 03:50:56.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pa ser ingeniero te complicas mucho jsjs
-[05Jun2025 03:51:43.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> en ingenieria intentamos aprobechar la utilidad y los rendimientos
-[05Jun2025 03:51:56.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> lit para eso sirven las derivadas
-[05Jun2025 03:51:58.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> x eso, la mejora te da todo eso y es re ez de hacer
-[05Jun2025 03:52:03.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Sabes que?
-[05Jun2025 03:52:06.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ya la hice
-[05Jun2025 03:52:08.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> tengo sed
-[05Jun2025 03:52:09.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :3
-[05Jun2025 03:52:12.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ya lo configure
-[05Jun2025 03:52:12.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pa saber pa
-[05Jun2025 03:52:18.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> eso
-[05Jun2025 03:52:30.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> donde andas?
-[05Jun2025 03:53:15.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> donde estas?
-[05Jun2025 03:53:49.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> en la tienda
-[05Jun2025 03:53:58.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ten
-[05Jun2025 03:54:02.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> y eso?
-[05Jun2025 03:54:13.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no decias que tenias sed?
-[05Jun2025 03:54:17.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> aaaaaaaa
-[05Jun2025 03:54:20.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> te traigo mi leche entonces
-[05Jun2025 03:54:21.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> jsjsjsjs
-[05Jun2025 03:54:33.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> agradezco tu leche :3
-[05Jun2025 04:01:11.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
-[05Jun2025 04:01:40.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
-[05Jun2025 04:02:15.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
-[05Jun2025 04:02:30.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
-[05Jun2025 04:03:01.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> no me decido a que arma es buena
-[05Jun2025 04:03:08.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> arma para?
-[05Jun2025 04:03:16.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> hay una que te cura cuando haces daño
-[05Jun2025 04:03:19.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> esa es biena
-[05Jun2025 04:03:20.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> en general
-[05Jun2025 04:03:28.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> esa que dice alex
-[05Jun2025 04:03:34.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> es exelente como espada
-[05Jun2025 04:03:36.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> la totemic
-[05Jun2025 04:04:06.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> y que genere mas daño sin perder velocidad?
-[05Jun2025 04:04:31.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> creo que ninguna, las de daño todas pierden vel
-[05Jun2025 04:05:41.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> como te digo, la mejor espada es la totemic en cosas generales
-[05Jun2025 04:06:12.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> y la mejor armadura es la del warden
-[05Jun2025 04:06:26.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> ya si quieres pegar mucho, las hachas están rotas
-[05Jun2025 04:06:42.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pero todas tienen vel de ataque de -algo
-[05Jun2025 04:07:48.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> ten, te presto esta
-[05Jun2025 04:07:59.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> grax
-[05Jun2025 04:08:00.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> me la regresas
-[05Jun2025 04:08:03.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> despues
-[05Jun2025 04:08:04.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ci
-[05Jun2025 04:08:17.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pa que la prueves, es re buena contra undeats
-[05Jun2025 04:08:26.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> que es undeats
-[05Jun2025 04:08:27.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ?
-[05Jun2025 04:08:28.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> los mata de 1
-[05Jun2025 04:08:32.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> los muertos
-[05Jun2025 04:08:35.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> zombies y eso
-[05Jun2025 04:08:40.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> aaaa oki
-[05Jun2025 04:08:52.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> los mata de un golpe, al wither de 4
-[05Jun2025 04:09:01.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> o 6
-[05Jun2025 04:09:06.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pero x ahí
-[05Jun2025 04:09:27.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> que es el nivel de rotura
-[05Jun2025 04:09:30.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ?
-[05Jun2025 04:09:34.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> ?
-[05Jun2025 04:09:38.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> de que hablas?
-[05Jun2025 04:09:50.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> es que la del guarden dice algo en sus armas
-[05Jun2025 04:10:17.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> ya te lo dije la vez pasada, rompen los blokes, todos a la misma velocidad
-[05Jun2025 04:10:24.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> oki
-[05Jun2025 04:10:36.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> osea, que tienen una velocidad para romper, pero es la misma para el bloke que sea
-[05Jun2025 04:10:45.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> okiii
-[05Jun2025 04:11:18.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> nene me das permiso para hacer una de guarden?
-[05Jun2025 04:11:27.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> un arma?
-[05Jun2025 04:11:44.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ci
-[05Jun2025 04:11:50.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> we, las armas del warden son una mrd
-[05Jun2025 04:12:01.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> tiene mas daño
-[05Jun2025 04:12:12.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> permiso por que? xd
-[05Jun2025 04:12:17.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> si buscas algo que te sirva como espada y pico el martillo este que tengo yo es bueno
-[05Jun2025 04:12:21.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> porque compartimos el dinero
-[05Jun2025 04:12:25.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> dogmatic no se que
-[05Jun2025 04:12:31.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> dale hastela
-[05Jun2025 04:14:44.256] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Marlon'/4677, l='ServerLevel[world]', x=-287.94, y=74.50, z=-81.94] died, message: 'Marlon hit the ground too hard'
-[05Jun2025 04:14:44.257] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Marlon'/4677, l='ServerLevel[world]', x=-287.94, y=74.50, z=-81.94] died: Marlon hit the ground too hard
-[05Jun2025 04:15:09.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> we, el arma base que más pega es la de netherita y diamante
-[05Jun2025 04:15:25.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ci eso veo jsjsjs
-[05Jun2025 04:15:32.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> tiene 11 de daño
-[05Jun2025 04:15:33.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> y tiene sus ventajas
-[05Jun2025 04:15:38.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> ya, ahí te lo dejo
-[05Jun2025 04:15:39.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> y las de L2 no pasa de 9
-[05Jun2025 04:15:58.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> las espadas no se, las hachas, la que yo uso tiene 19
-[05Jun2025 04:16:22.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> de base 16
-[05Jun2025 04:18:47.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> pues al final haré la del totem
-[05Jun2025 04:18:55.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> xd
-[05Jun2025 04:19:05.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> te encargo una
-[05Jun2025 04:19:05.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> está buena y es bara de hacer
-[05Jun2025 04:19:25.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> es más, si quieren les vendo esa, ya está encantada y todo
-[05Jun2025 04:19:39.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> relax, prefiero hacerla
-[05Jun2025 04:19:40.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :3
-[05Jun2025 04:22:32.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to JustRaptor]
-[05Jun2025 04:22:46.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> te pasé el arma
-[05Jun2025 04:22:52.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> valep
-[05Jun2025 04:24:51.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> la eficiencia es para cavar no?
-[05Jun2025 04:24:58.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> para picar si
-[05Jun2025 04:25:10.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> oki
-[05Jun2025 04:25:27.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> La mesa no tiene la de reparación
-[05Jun2025 04:25:34.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> nop
-[05Jun2025 04:25:34.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> nop
-[05Jun2025 04:25:40.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> ese lo compras con aldeanos
-[05Jun2025 04:25:42.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> si o si
-[05Jun2025 04:26:31.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has made the advancement [What a Deal!]
-[05Jun2025 04:26:37.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> heyw
-[05Jun2025 04:26:40.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> c venden
-[05Jun2025 04:26:49.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> no es gratissd
-[05Jun2025 04:27:05.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> pueden dormir
-[05Jun2025 04:27:05.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to JustRaptor]
-[05Jun2025 04:27:30.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> esto se lleno de creaper
-[05Jun2025 04:30:15.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> tienes arma nene
-[05Jun2025 04:30:17.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ?
-[05Jun2025 04:30:31.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> pelea de espadas?
-[05Jun2025 04:31:02.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ta bonito
-[05Jun2025 04:31:17.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> aun no termino
-[05Jun2025 04:35:05.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ahora si termine
-[05Jun2025 04:35:11.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
-[05Jun2025 04:35:41.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> pasó la prueba de calidad
-[05Jun2025 04:41:42.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> zzzzzzzzzzzzz
-[05Jun2025 04:42:57.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> los pagos de bancolombia a nequi se tarda un dia no?
-[05Jun2025 04:43:06.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> se supone que no
-[05Jun2025 04:43:09.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> No
-[05Jun2025 04:43:15.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> a no
-[05Jun2025 04:43:16.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> de otro banco a Nequi si
-[05Jun2025 04:43:21.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ya me pagaron
-[05Jun2025 04:43:28.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> naisuuu
-[05Jun2025 04:43:53.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> primera vez que una constructora me paga
-[05Jun2025 04:43:57.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> que emocion xd
-[05Jun2025 04:44:00.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> es un inicio
-[05Jun2025 04:44:09.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-304, y=69, z=-279} BlockPos{x=-304, y=68, z=-279}
-[05Jun2025 04:44:16.419] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 97.61 μs. 218/218 recipes are parallelized.
-[05Jun2025 04:45:30.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> pa vender?
-[05Jun2025 04:45:35.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> weño
-[05Jun2025 04:46:07.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
-[05Jun2025 04:47:48.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
-[05Jun2025 04:48:21.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ayudo en algo?
-[05Jun2025 04:48:30.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> no de momento
-[05Jun2025 04:48:43.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> entonces hare un dinovolador
-[05Jun2025 04:48:45.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[05Jun2025 04:48:48.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> weño
-[05Jun2025 04:49:58.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
-[05Jun2025 04:53:06.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> puedo construir aqui?
-[05Jun2025 04:53:15.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> es a mi?
-[05Jun2025 04:53:19.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> rafa
-[05Jun2025 04:53:25.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> dime
-[05Jun2025 04:54:05.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> si era a mi, si, desde que no entre al perimetro de tieera no pasa nada
-[05Jun2025 04:54:16.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> nice
-[05Jun2025 05:03:01.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-373, y=72, z=-132} BlockPos{x=-375, y=73, z=-136}
+[05Jun2025 05:16:54.455] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2445 advancements
+[05Jun2025 05:16:54.469] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[05Jun2025 05:16:54.504] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[05Jun2025 05:16:54.626] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:is_flutterfly
+[05Jun2025 05:16:54.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[05Jun2025 05:16:54.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Jun2025 05:16:54.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Jun2025 05:16:54.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Jun2025 05:16:55.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Jun2025 05:16:55.359] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[05Jun2025 05:16:55.571] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05Jun2025 05:16:55.571] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05Jun2025 05:16:55.572] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05Jun2025 05:16:55.572] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05Jun2025 05:16:55.601] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[05Jun2025 05:16:55.626] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[05Jun2025 05:16:55.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Jun2025 05:16:56.570] [Netty Epoll Server IO #1/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[05Jun2025 05:16:56.879] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[05Jun2025 05:16:56.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Jun2025 05:16:57.015] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 132 ms
+[05Jun2025 05:16:57.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.419s)! For help, type "help"
+[05Jun2025 05:16:57.119] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Jun2025 05:16:57.152] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[05Jun2025 05:16:57.197] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+[05Jun2025 05:16:57.200] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: limitedchunks.json
+[05Jun2025 05:16:57.205] [Server thread/WARN] [ModernFix/]: Dedicated server took 60.177 seconds to load
+[05Jun2025 05:17:02.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angeltronix7005[/127.10.3.181:52559] logged in with entity id 1 at (-164.12413155849325, 64.0, -196.36353783378317)
+[05Jun2025 05:17:02.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 joined the game
+[05Jun2025 05:17:03.000] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[05Jun2025 05:17:03.070] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
+[05Jun2025 05:17:04.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
+[05Jun2025 05:17:06.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferlein[/127.59.10.170:47439] logged in with entity id 63 at (-373.2942768843378, 73.0, -135.54788445587334)
+[05Jun2025 05:17:06.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein joined the game
+[05Jun2025 05:17:06.501] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[05Jun2025 05:17:07.058] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was loaded
+[05Jun2025 05:17:22.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3159ms or 63 ticks behind
+[05Jun2025 05:17:35.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no se perdio casi nada
+[05Jun2025 05:17:40.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3154ms or 63 ticks behind
+[05Jun2025 05:17:59.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.75.255.182:52887] logged in with entity id 559 at (-381.79473360840956, 76.0, -188.70376432806162)
+[05Jun2025 05:17:59.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[05Jun2025 05:17:59.653] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[05Jun2025 05:17:59.773] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[05Jun2025 05:18:15.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> no man, mi parcela, la mitad de mi trabajo alv
+[05Jun2025 05:18:20.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :v
+[05Jun2025 05:18:38.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> deben hacerme acuerdo de estar renovando el server
+[05Jun2025 05:18:41.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pinchi admin culero :v
+[05Jun2025 05:18:49.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> sino se me pasa y se apaga
+[05Jun2025 05:18:56.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pinchi admin culero :v x
+[05Jun2025 05:19:17.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> cada hora es eso?
+[05Jun2025 05:19:46.805] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.894 ms. 1473/1531 recipes are parallelized.
+[05Jun2025 05:20:55.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-373, y=80, z=-136} BlockPos{x=-372, y=79, z=-136}
+[05Jun2025 05:22:40.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-372, y=73, z=-131} BlockPos{x=-370, y=73, z=-140}
+[05Jun2025 05:24:01.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> cada 80 min
+[05Jun2025 05:24:38.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-373, y=76, z=-139} BlockPos{x=-373, y=78, z=-134}
+[05Jun2025 05:24:39.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-373, y=77, z=-133} BlockPos{x=-372, y=77, z=-133}
+[05Jun2025 05:24:40.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> un creeper con mochila
+[05Jun2025 05:24:45.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=73, z=-132} BlockPos{x=-371, y=75, z=-139}
+[05Jun2025 05:24:45.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=73, z=-132} BlockPos{x=-371, y=75, z=-139}
+[05Jun2025 05:25:21.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> si te ha servido el casco ese?
+[05Jun2025 05:25:33.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ni me doy cuenta cuando es de noche
+[05Jun2025 05:25:35.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> gracais
+[05Jun2025 05:25:47.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> así de bueno es?
+[05Jun2025 05:25:50.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> no ma
