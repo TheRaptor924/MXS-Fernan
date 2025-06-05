@@ -4268,3 +4268,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jun2025 02:44:01.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ?
 [05Jun2025 02:44:35.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ammmm creo que seria bueno tener algo guardado en los cofres
 [05Jun2025 02:44:54.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> dejare un stack
+[05Jun2025 02:45:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> dos
+[05Jun2025 02:45:37.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ya lo vendi
+[05Jun2025 02:45:46.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> sin querer lo vendi todo
+[05Jun2025 02:46:08.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> error de calculp
+[05Jun2025 02:46:12.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 02:46:12.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 02:46:51.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :v
+[05Jun2025 02:47:28.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Jun2025 02:47:28.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[05Jun2025 02:48:08.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> dame aldmin porfa
+[05Jun2025 02:48:20.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> pero si ya eres admin
+[05Jun2025 02:48:22.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no cambiaste lo del pimiento cocinado
+[05Jun2025 02:48:22.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :v
+[05Jun2025 02:48:30.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Creative Mode]
+[05Jun2025 02:48:33.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> otra vez se quitó?
+[05Jun2025 02:49:10.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no me deja editar la tiemda
+[05Jun2025 02:49:19.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ya
+[05Jun2025 02:50:35.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Survival Mode]
+[05Jun2025 02:51:12.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 02:51:12.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 02:51:38.165] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.475 ms. 1473/1531 recipes are parallelized.
+[05Jun2025 02:53:02.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-304, y=69, z=-285} BlockPos{x=-304, y=68, z=-285}
+[05Jun2025 02:53:16.271] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 71.17 μs. 0/148 recipes are parallelized.
+[05Jun2025 02:54:06.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ahora que veo, te cambiaste la skin?
+[05Jun2025 02:54:10.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> a no es el casco
+[05Jun2025 02:54:21.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> nop
+[05Jun2025 02:54:34.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> deja cocinar >:u
+[05Jun2025 02:54:41.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> estoy cocinando pa los dos
+[05Jun2025 02:54:41.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> viste el video de la influencer que se tiro
+[05Jun2025 02:54:50.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> mientras estaba volando con un paracaidas
