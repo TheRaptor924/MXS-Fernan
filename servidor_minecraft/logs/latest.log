@@ -279,3 +279,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 04:09:08.332] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
 [07Jun2025 04:09:09.168] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
 [07Jun2025 04:12:36.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
+[07Jun2025 04:14:41.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [Cover Me with Diamonds]
+[07Jun2025 04:14:42.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
+[07Jun2025 04:15:49.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
+[07Jun2025 04:16:24.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
+[07Jun2025 04:19:40.914] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 125.4 μs. 261/262 recipes are parallelized.
+[07Jun2025 04:23:01.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]

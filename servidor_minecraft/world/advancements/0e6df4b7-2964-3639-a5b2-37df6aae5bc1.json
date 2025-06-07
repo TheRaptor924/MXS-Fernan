@@ -7591,5 +7591,11 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/misc/generated/recycle/shulkerate_javelin": {
+    "criteria": {
+      "has_shulkerate_javelin": "2025-06-07 04:14:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
