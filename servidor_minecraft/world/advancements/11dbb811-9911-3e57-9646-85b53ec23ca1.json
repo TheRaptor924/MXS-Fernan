@@ -1280,7 +1280,8 @@
       "minecraft:piglin": "2025-04-27 05:07:11 +0000",
       "minecraft:stray": "2025-04-20 03:57:53 +0000",
       "minecraft:silverfish": "2025-04-27 04:26:00 +0000",
-      "minecraft:zombie": "2025-04-19 03:45:17 +0000"
+      "minecraft:zombie": "2025-04-19 03:45:17 +0000",
+      "minecraft:drowned": "2025-06-07 05:37:36 +0000"
     },
     "done": false
   },
@@ -3322,6 +3323,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 05:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 05:26:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-07 04:46:14 +0000"
@@ -3382,6 +3395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 05:26:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-06-07 04:14:41 +0000"
@@ -3433,6 +3452,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/netherite_nunchaku": {
     "criteria": {
       "has_netherite_ingot": "2025-06-07 04:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 05:26:26 +0000"
     },
     "done": true
   },
@@ -3514,9 +3539,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 05:26:26 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/craft/black_fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-06-07 05:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 05:26:26 +0000"
     },
     "done": true
   },
@@ -3544,9 +3581,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 05:26:26 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_claw": {
     "criteria": {
       "has_netherite_ingot": "2025-06-07 04:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-07 05:25:29 +0000"
     },
     "done": true
   },
@@ -3577,6 +3626,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-06-07 04:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-07 05:25:54 +0000"
     },
     "done": true
   },

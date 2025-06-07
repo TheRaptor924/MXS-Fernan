@@ -366,3 +366,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 05:22:33.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> ?
 [07Jun2025 05:25:29.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [Those Were the Days]
 [07Jun2025 05:25:37.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Made Ferlein a server operator]
+[07Jun2025 05:26:07.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Applied effect Invisibility to Ferlein]
+[07Jun2025 05:26:16.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Applied effect Invisibility to Ferlein]
+[07Jun2025 05:28:20.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> zzzzzzzz
+[07Jun2025 05:28:36.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
+[07Jun2025 05:28:36.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[07Jun2025 05:28:36.134] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[07Jun2025 05:28:36.135] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[07Jun2025 05:28:41.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.173.123.163:59909] logged in with entity id 54039 at (-355.5, 71.0, -266.5)
+[07Jun2025 05:28:41.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[07Jun2025 05:28:41.885] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[07Jun2025 05:28:42.033] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[07Jun2025 05:29:47.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Removed every effect from Ferlein]
+[07Jun2025 05:30:30.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Jun2025 05:30:30.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[07Jun2025 05:32:46.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 was impaled by JustRaptor
+[07Jun2025 05:32:55.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor was killed
+[07Jun2025 05:32:55.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed JustRaptor]
+[07Jun2025 05:33:00.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> de un solo comando :3
+[07Jun2025 05:33:15.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 was killed
+[07Jun2025 05:33:15.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Killed Angeltronix7005]
+[07Jun2025 05:33:25.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Made Ferlein no longer a server operator]
+[07Jun2025 05:33:32.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 was impaled by JustRaptor
+[07Jun2025 05:34:19.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-205, y=60, z=-386} BlockPos{x=-205, y=59, z=-386}
+[07Jun2025 05:34:23.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-201, y=59, z=-389} BlockPos{x=-201, y=58, z=-389}
+[07Jun2025 05:34:28.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-199, y=58, z=-394} BlockPos{x=-199, y=57, z=-394}
+[07Jun2025 05:35:28.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-196, y=58, z=-397} BlockPos{x=-196, y=57, z=-397}
+[07Jun2025 05:35:32.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=60, z=-398} BlockPos{x=-188, y=59, z=-398}
+[07Jun2025 05:35:43.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-191, y=59, z=-404} BlockPos{x=-191, y=58, z=-404}
+[07Jun2025 05:37:13.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-198, y=51, z=-395} BlockPos{x=-198, y=50, z=-395}
+[07Jun2025 05:37:13.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-198, y=51, z=-395} BlockPos{x=-198, y=50, z=-395}
+[07Jun2025 05:41:01.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Made Ferlein a server operator]
+[07Jun2025 05:41:11.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 was killed
+[07Jun2025 05:41:11.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Killed Angeltronix7005]
+[07Jun2025 05:41:18.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Creative Mode]
+[07Jun2025 05:41:18.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> -.-
+[07Jun2025 05:41:33.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> -.-
+[07Jun2025 05:42:51.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> un dia
