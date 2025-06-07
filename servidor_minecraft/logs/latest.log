@@ -267,3 +267,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 03:32:19.922] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
 [07Jun2025 03:33:15.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-331, y=74, z=-131} BlockPos{x=-334, y=74, z=-119}
 [07Jun2025 03:33:15.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-331, y=74, z=-131} BlockPos{x=-334, y=74, z=-119}
+[07Jun2025 03:36:31.766] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.574 ms. 1473/1531 recipes are parallelized.
+[07Jun2025 03:39:04.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
