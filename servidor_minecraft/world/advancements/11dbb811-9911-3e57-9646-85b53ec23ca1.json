@@ -1270,10 +1270,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-28 04:01:14 +0000",
+      "minecraft:blaze": "2025-06-07 05:01:21 +0000",
       "minecraft:skeleton": "2025-04-19 04:02:20 +0000",
       "minecraft:vindicator": "2025-04-28 03:56:40 +0000",
       "minecraft:spider": "2025-04-19 03:54:53 +0000",
       "minecraft:creeper": "2025-04-19 03:50:34 +0000",
+      "minecraft:wither_skeleton": "2025-06-07 05:03:34 +0000",
       "minecraft:piglin": "2025-04-27 05:07:11 +0000",
       "minecraft:stray": "2025-04-20 03:57:53 +0000",
       "minecraft:silverfish": "2025-04-27 04:26:00 +0000",
@@ -2870,6 +2872,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-06-07 05:05:08 +0000",
       "minecraft:nether_wastes": "2025-04-27 05:04:45 +0000"
     },
     "done": false
@@ -3510,9 +3513,21 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/craft/wind_capture_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-06-07 04:56:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-07 04:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-06-07 05:00:29 +0000"
     },
     "done": true
   },

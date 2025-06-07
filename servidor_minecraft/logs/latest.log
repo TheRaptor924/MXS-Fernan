@@ -337,3 +337,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 04:54:57.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-264, y=73, z=-292} BlockPos{x=-265, y=74, z=-293}
 [07Jun2025 04:54:58.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-265, y=73, z=-293} BlockPos{x=-265, y=74, z=-291}
 [07Jun2025 04:55:01.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-266, y=73, z=-292} BlockPos{x=-266, y=72, z=-292}
+[07Jun2025 04:55:29.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> si el cobra
+[07Jun2025 04:55:40.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Por eso está el sistema de tradeo
+[07Jun2025 04:55:44.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> de compraventa
+[07Jun2025 04:56:08.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> bueno me voy a conseguir yo solito la piedra
+[07Jun2025 04:56:10.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> nel
+[07Jun2025 04:56:18.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> osea uno de sobra n´
+[07Jun2025 04:56:20.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> no
+[07Jun2025 04:56:24.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> sip
+[07Jun2025 04:57:09.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> cuanto?
+[07Jun2025 05:00:10.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[07Jun2025 05:00:13.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Jun2025 05:00:13.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[07Jun2025 05:00:29.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [A Terrible Fortress]
+[07Jun2025 05:01:23.921] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 194.5 μs. 218/218 recipes are parallelized.
+[07Jun2025 05:03:42.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=75, z=144} BlockPos{x=-46, y=74, z=143}
+[07Jun2025 05:04:29.421] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=65, z=144} BlockPos{x=-86, y=65, z=145}
+[07Jun2025 05:04:29.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=65, z=144} BlockPos{x=-86, y=65, z=145}
