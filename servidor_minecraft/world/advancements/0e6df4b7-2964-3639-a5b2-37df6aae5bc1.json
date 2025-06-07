@@ -7585,5 +7585,11 @@
     },
     "done": false
   },
+  "l2weaponry:recipes/misc/generated/recycle/totemic_gold_machete": {
+    "criteria": {
+      "has_totemic_gold_machete": "2025-06-07 02:19:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

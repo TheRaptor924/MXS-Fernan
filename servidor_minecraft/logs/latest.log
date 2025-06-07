@@ -320,3 +320,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 02:14:45.828] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
 [07Jun2025 02:18:48.949] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.607 ms. 1473/1531 recipes are parallelized.
 [07Jun2025 02:18:59.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
+[07Jun2025 02:32:33.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-304, y=69, z=-315} BlockPos{x=-304, y=68, z=-315}
