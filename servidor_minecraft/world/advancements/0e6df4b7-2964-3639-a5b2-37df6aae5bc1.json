@@ -7597,15 +7597,33 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/generated_tools/sculkium/recycle/sculkium_chestplate": {
+    "criteria": {
+      "has_sculkium_chestplate": "2025-06-07 05:21:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-06-07 05:12:50 +0000"
     },
     "done": true
   },
+  "l2complements:recipes/misc/generated_tools/sculkium/recycle/sculkium_leggings": {
+    "criteria": {
+      "has_sculkium_leggings": "2025-06-07 05:21:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-06-07 05:12:50 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/generated_tools/sculkium/recycle/sculkium_boots": {
+    "criteria": {
+      "has_sculkium_boots": "2025-06-07 05:21:55 +0000"
     },
     "done": true
   },
@@ -7627,9 +7645,21 @@
     },
     "done": true
   },
+  "l2complements:recipes/combat/generated_tools/sculkium/craft/sculkium_boots": {
+    "criteria": {
+      "has_sculkium_boots": "2025-06-07 05:21:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-06-07 05:12:28 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/combat/generated_tools/sculkium/craft/sculkium_leggings": {
+    "criteria": {
+      "has_sculkium_leggings": "2025-06-07 05:21:55 +0000"
     },
     "done": true
   },
@@ -7648,6 +7678,12 @@
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-07 05:12:50 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/combat/generated_tools/sculkium/craft/sculkium_chestplate": {
+    "criteria": {
+      "has_sculkium_chestplate": "2025-06-07 05:21:55 +0000"
     },
     "done": true
   },

@@ -357,3 +357,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 05:07:43.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ./kill
 [07Jun2025 05:10:08.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [Local Brewery]
 [07Jun2025 05:10:39.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-94, y=55, z=27} BlockPos{x=-95, y=54, z=28}
+[07Jun2025 05:18:47.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was impaled by JustRaptor
+[07Jun2025 05:19:00.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> como así empalado?
+[07Jun2025 05:19:14.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> c descuido y paila
+[07Jun2025 05:22:15.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> cuando tenga el ojo de fantasma te lo doy
+[07Jun2025 05:22:22.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> ?
+[07Jun2025 05:22:29.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> eso se consigue matando esos bichos que vuelan en las noches
+[07Jun2025 05:22:33.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> ?
+[07Jun2025 05:25:29.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [Those Were the Days]
+[07Jun2025 05:25:37.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Made Ferlein a server operator]
