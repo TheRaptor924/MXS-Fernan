@@ -322,3 +322,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 02:18:59.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
 [07Jun2025 02:32:33.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-304, y=69, z=-315} BlockPos{x=-304, y=68, z=-315}
 [07Jun2025 02:38:53.580] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 129.5 μs. 261/262 recipes are parallelized.
+[07Jun2025 02:47:54.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [Enchanter]
+[07Jun2025 02:51:37.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sasuke6525 lost connection: Disconnected
+[07Jun2025 02:51:37.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 left the game
+[07Jun2025 02:51:37.567] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{sasuke6525} || 11dbb811-9911-3e57-9646-85b53ec23ca1
+[07Jun2025 02:51:37.568] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11dbb811-9911-3e57-9646-85b53ec23ca1 was unloaded
+[07Jun2025 02:51:49.469] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6340adfe[id=<null>,name=sasuke6525,properties={},legacy=false] (/127.43.105.48:50793) lost connection: Disconnected
+[07Jun2025 02:52:19.253] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/24644, l='ServerLevel[world]', x=-386.45, y=-4.18, z=-387.32, removed=DISCARDED]
+[07Jun2025 02:52:46.128] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sasuke6525[/127.43.105.48:39239] logged in with entity id 25027 at (-386.2634836306626, 75.0, -322.98814370646863)
+[07Jun2025 02:52:46.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 joined the game
+[07Jun2025 02:52:46.171] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/24644, l='ServerLevel[world]', x=-386.45, y=-4.18, z=-387.32, removed=DISCARDED]
+[07Jun2025 02:52:46.224] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{sasuke6525} || 11dbb811-9911-3e57-9646-85b53ec23ca1
+[07Jun2025 02:52:46.799] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11dbb811-9911-3e57-9646-85b53ec23ca1 was loaded
