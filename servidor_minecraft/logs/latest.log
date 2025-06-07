@@ -334,3 +334,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 02:52:46.171] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/24644, l='ServerLevel[world]', x=-386.45, y=-4.18, z=-387.32, removed=DISCARDED]
 [07Jun2025 02:52:46.224] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{sasuke6525} || 11dbb811-9911-3e57-9646-85b53ec23ca1
 [07Jun2025 02:52:46.799] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11dbb811-9911-3e57-9646-85b53ec23ca1 was loaded
+[07Jun2025 02:54:28.004] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 52.82 μs. 0/148 recipes are parallelized.
+[07Jun2025 02:55:34.347] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/24644, l='ServerLevel[world]', x=-386.45, y=-4.18, z=-387.32, removed=DISCARDED]
+[07Jun2025 02:55:42.245] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/24644, l='ServerLevel[world]', x=-386.45, y=-4.18, z=-387.32, removed=DISCARDED]
+[07Jun2025 02:57:10.003] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/24644, l='ServerLevel[world]', x=-386.45, y=-4.18, z=-387.32, removed=DISCARDED]
+[07Jun2025 03:02:46.838] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/24644, l='ServerLevel[world]', x=-386.45, y=-4.18, z=-387.32, removed=DISCARDED]
