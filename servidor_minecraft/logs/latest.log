@@ -310,3 +310,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 02:10:51.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-366, y=71, z=-119} BlockPos{x=-368, y=76, z=-119}
 [07Jun2025 02:10:52.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-368, y=79, z=-119} BlockPos{x=-368, y=74, z=-119}
 [07Jun2025 02:10:52.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-368, y=79, z=-119} BlockPos{x=-368, y=73, z=-119}
+[07Jun2025 02:13:35.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 lost connection: Disconnected
+[07Jun2025 02:13:35.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
+[07Jun2025 02:13:35.118] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[07Jun2025 02:13:35.119] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[07Jun2025 02:14:44.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angeltronix7005[/127.10.3.181:52803] logged in with entity id 9838 at (-283.4583668112289, 71.0, -142.12866085660036)
+[07Jun2025 02:14:45.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 joined the game
+[07Jun2025 02:14:45.140] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[07Jun2025 02:14:45.828] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
+[07Jun2025 02:18:48.949] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.607 ms. 1473/1531 recipes are parallelized.
+[07Jun2025 02:18:59.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
