@@ -3419,6 +3419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-07 05:52:10 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_throwing_axe": {
     "criteria": {
       "has_netherite_ingot": "2025-06-07 04:46:14 +0000"
@@ -3446,6 +3452,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-06-07 05:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-07 05:52:10 +0000"
     },
     "done": true
   },

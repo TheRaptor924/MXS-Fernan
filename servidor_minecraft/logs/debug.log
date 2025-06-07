@@ -5017,3 +5017,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 05:42:51.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> un dia
 [07Jun2025 05:45:20.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jun2025 05:45:20.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 05:47:58.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> exacto
+[07Jun2025 05:50:20.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 05:50:20.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 05:50:50.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
+[07Jun2025 05:51:02.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> aca
+[07Jun2025 05:51:07.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 was impaled by JustRaptor
+[07Jun2025 05:51:11.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
+[07Jun2025 05:51:26.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor was killed
+[07Jun2025 05:51:26.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed JustRaptor]
+[07Jun2025 05:51:53.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> el de arriba le compra a uds los materiales y el de abajo se los vende
+[07Jun2025 05:52:25.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[07Jun2025 05:52:47.458] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kelsey'/60243, l='ServerLevel[world]', x=-302.25, y=74.50, z=-81.93] died, message: 'Kelsey hit the ground too hard'
+[07Jun2025 05:52:47.459] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kelsey'/60243, l='ServerLevel[world]', x=-302.25, y=74.50, z=-81.93] died: Kelsey hit the ground too hard
+[07Jun2025 05:52:57.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[07Jun2025 05:54:21.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ay bro jajajaja
+[07Jun2025 05:54:33.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ya no se usa la verruga para hacer pociones :v
+[07Jun2025 05:54:39.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> si
+[07Jun2025 05:54:46.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> que man tan mentiroso
+[07Jun2025 05:54:53.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> tramador
+[07Jun2025 05:55:04.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ._.
+[07Jun2025 05:55:20.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 05:55:20.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 05:56:07.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ponle redstone
+[07Jun2025 05:56:09.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> para que dure mas

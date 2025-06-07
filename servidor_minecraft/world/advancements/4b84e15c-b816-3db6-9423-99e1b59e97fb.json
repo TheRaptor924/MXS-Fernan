@@ -7695,9 +7695,39 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_spear_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_dagger_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-06-07 05:35:27 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_scythe_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_javelin_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_round_shield_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
     },
     "done": true
   },
@@ -7713,9 +7743,75 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/enchantments/enchantments/ender_hand": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_hammer_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_plate_shield_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_claw_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/storage/poseidite_ingot_unpack": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_throwing_axe_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_machete_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/storage/poseidite_block_storage": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_battle_axe_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-06-07 05:35:27 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/totem_of_the_sea": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/poseidite_nunchaku_enchanted": {
+    "criteria": {
+      "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
     },
     "done": true
   },

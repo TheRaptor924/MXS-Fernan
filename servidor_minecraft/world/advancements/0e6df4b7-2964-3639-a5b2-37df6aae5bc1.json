@@ -7657,6 +7657,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/renew/heart_of_the_sea": {
+    "criteria": {
+      "has_guardian_eye": "2025-06-07 05:54:13 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/combat/generated_tools/sculkium/craft/sculkium_leggings": {
     "criteria": {
       "has_sculkium_leggings": "2025-06-07 05:21:55 +0000"
@@ -7684,6 +7690,12 @@
   "l2complements:recipes/combat/generated_tools/sculkium/craft/sculkium_chestplate": {
     "criteria": {
       "has_sculkium_chestplate": "2025-06-07 05:21:55 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/poseidon_madness": {
+    "criteria": {
+      "has_guardian_eye": "2025-06-07 05:54:13 +0000"
     },
     "done": true
   },
