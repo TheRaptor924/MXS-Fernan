@@ -269,3 +269,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 03:33:15.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-331, y=74, z=-131} BlockPos{x=-334, y=74, z=-119}
 [07Jun2025 03:36:31.766] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.574 ms. 1473/1531 recipes are parallelized.
 [07Jun2025 03:39:04.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
+[07Jun2025 03:45:15.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [Hot Stuff]
+[07Jun2025 03:45:23.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-333, y=72, z=-134} BlockPos{x=-333, y=71, z=-134}
+[07Jun2025 03:45:36.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sasuke6525 moved wrongly!
