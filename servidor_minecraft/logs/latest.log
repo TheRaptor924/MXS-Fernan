@@ -285,3 +285,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 04:16:24.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
 [07Jun2025 04:19:40.914] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 125.4 μs. 261/262 recipes are parallelized.
 [07Jun2025 04:23:01.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
+[07Jun2025 04:27:36.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Jun2025 04:27:36.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[07Jun2025 04:27:57.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
+[07Jun2025 04:28:24.912] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Glenn'/23976, l='ServerLevel[world]', x=-287.80, y=74.50, z=-81.98] died, message: 'Glenn hit the ground too hard'
+[07Jun2025 04:28:24.912] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Glenn'/23976, l='ServerLevel[world]', x=-287.80, y=74.50, z=-81.98] died: Glenn hit the ground too hard
+[07Jun2025 04:29:03.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
+[07Jun2025 04:30:33.885] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 139.4 μs. 201/201 recipes are parallelized.
+[07Jun2025 04:31:22.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzzzzz
+[07Jun2025 04:31:25.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Jun2025 04:31:25.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]

@@ -7597,5 +7597,11 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/misc/generated/recycle/shulkerate_dagger": {
+    "criteria": {
+      "has_shulkerate_dagger": "2025-06-07 04:29:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
