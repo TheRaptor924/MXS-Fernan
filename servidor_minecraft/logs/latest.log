@@ -305,3 +305,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 04:42:02.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> tenia que llegar con una orden de allanamiento
 [07Jun2025 04:44:25.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Alex disque "Respeto tu privacidad tocando la puerta, pero reafirmo mi autoridad como Policia entrando de todos modos"
 [07Jun2025 04:44:36.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :v
+[07Jun2025 04:45:20.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> >:u
+[07Jun2025 04:45:34.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> si la culpa no era mia, ni como estaba ni como vestia
+[07Jun2025 04:48:55.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ??
+[07Jun2025 04:49:05.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ci
+[07Jun2025 04:50:05.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> que busque mano
+[07Jun2025 04:50:44.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
+[07Jun2025 04:50:52.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> vamos a minar bro?
+[07Jun2025 04:51:04.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sasuke6525> donde
+[07Jun2025 04:51:06.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> nono a Sasuke
+[07Jun2025 04:51:15.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to sasuke6525]
+[07Jun2025 04:51:30.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [Into Fire]
+[07Jun2025 04:51:43.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was killed
+[07Jun2025 04:51:43.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed Ferlein]
+[07Jun2025 04:51:54.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :D
+[07Jun2025 04:52:04.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> jijijiji
+[07Jun2025 04:52:13.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> necesito piedra
+[07Jun2025 04:52:15.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :3
+[07Jun2025 04:52:32.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> porque cobra
+[07Jun2025 04:52:47.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was killed
+[07Jun2025 04:52:47.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed Ferlein]
+[07Jun2025 04:53:08.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor was killed
+[07Jun2025 04:53:08.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed JustRaptor]
+[07Jun2025 04:53:18.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was killed
+[07Jun2025 04:53:18.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed Ferlein]
+[07Jun2025 04:53:32.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> rafa ya sabe
+[07Jun2025 04:53:43.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
+[07Jun2025 04:54:05.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> >:V
+[07Jun2025 04:54:35.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-42, y=58, z=-56} BlockPos{x=-42, y=58, z=-55}
+[07Jun2025 04:54:56.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-264, y=74, z=-292}
+[07Jun2025 04:54:57.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-264, y=73, z=-292} BlockPos{x=-265, y=74, z=-293}
+[07Jun2025 04:54:58.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-265, y=73, z=-293} BlockPos{x=-265, y=74, z=-291}
+[07Jun2025 04:55:01.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-266, y=73, z=-292} BlockPos{x=-266, y=72, z=-292}
