@@ -274,3 +274,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 03:45:36.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sasuke6525 moved wrongly!
 [07Jun2025 04:00:09.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
 [07Jun2025 04:00:31.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[07Jun2025 04:09:08.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.173.123.163:59201] logged in with entity id 17575 at (-459.11636406809316, 76.0, -180.39434455499003)
+[07Jun2025 04:09:08.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[07Jun2025 04:09:08.332] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[07Jun2025 04:09:09.168] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[07Jun2025 04:12:36.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
