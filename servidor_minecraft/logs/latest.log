@@ -282,3 +282,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 05:14:43.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [08Jun2025 05:16:33.805] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Margrett'/74, l='ServerLevel[world]', x=-752.76, y=14.00, z=60.31] died, message: 'Margrett was shot by Pillager'
 [08Jun2025 05:16:33.806] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Margrett'/74, l='ServerLevel[world]', x=-752.76, y=14.00, z=60.31] died: Margrett was shot by Pillager
+[08Jun2025 05:23:14.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sasuke6525 lost connection: Disconnected
+[08Jun2025 05:23:14.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 left the game
+[08Jun2025 05:23:14.117] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{sasuke6525} || 11dbb811-9911-3e57-9646-85b53ec23ca1
+[08Jun2025 05:23:14.120] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11dbb811-9911-3e57-9646-85b53ec23ca1 was unloaded
+[08Jun2025 05:25:53.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :v
