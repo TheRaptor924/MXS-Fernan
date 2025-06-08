@@ -368,3 +368,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 04:17:13.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzz
 [08Jun2025 04:18:18.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzz
 [08Jun2025 04:31:37.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Upgrades!]
+[08Jun2025 04:42:45.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ignorado.exe
+[08Jun2025 04:46:30.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to JustRaptor]
+[08Jun2025 04:47:07.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to JustRaptor]
+[08Jun2025 04:47:20.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to JustRaptor]
+[08Jun2025 04:47:48.098] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Laverne'/44934, l='ServerLevel[world]', x=-763.90, y=14.00, z=70.50] died, message: 'Laverne was shot by Pillager'
+[08Jun2025 04:47:48.099] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Laverne'/44934, l='ServerLevel[world]', x=-763.90, y=14.00, z=70.50] died: Laverne was shot by Pillager
+[08Jun2025 04:48:27.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 was slain by Angeltronix7005
+[08Jun2025 04:48:34.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]

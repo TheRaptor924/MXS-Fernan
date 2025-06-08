@@ -3755,6 +3755,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-08 04:41:08 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/enchantments/enchantments/tree_chopping": {
     "criteria": {
       "has_storm_core": "2025-06-08 04:12:45 +0000"
