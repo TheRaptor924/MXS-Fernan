@@ -376,3 +376,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 04:47:48.099] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Laverne'/44934, l='ServerLevel[world]', x=-763.90, y=14.00, z=70.50] died: Laverne was shot by Pillager
 [08Jun2025 04:48:27.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 was slain by Angeltronix7005
 [08Jun2025 04:48:34.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
+[08Jun2025 04:51:03.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to JustRaptor]
+[08Jun2025 04:51:17.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
+[08Jun2025 04:51:49.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Boo! Hiss!]
+[08Jun2025 04:54:31.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Hide and Seek]
+[08Jun2025 04:55:06.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :3
+[08Jun2025 04:56:09.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
+[08Jun2025 04:56:30.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor moved wrongly!
+[08Jun2025 04:58:36.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [Local Brewery]

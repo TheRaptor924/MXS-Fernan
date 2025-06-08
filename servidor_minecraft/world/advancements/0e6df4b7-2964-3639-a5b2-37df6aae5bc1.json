@@ -870,17 +870,20 @@
       "minecraft:skeleton": "2025-04-16 16:13:33 +0000",
       "minecraft:ghast": "2025-05-05 02:03:44 +0000",
       "minecraft:hoglin": "2025-04-25 03:03:48 +0000",
+      "minecraft:vindicator": "2025-06-08 04:52:44 +0000",
       "minecraft:magma_cube": "2025-04-20 03:53:03 +0000",
       "minecraft:spider": "2025-04-16 16:26:47 +0000",
       "minecraft:piglin_brute": "2025-04-20 03:54:41 +0000",
       "minecraft:creeper": "2025-04-18 02:01:00 +0000",
       "minecraft:slime": "2025-04-29 03:54:54 +0000",
+      "minecraft:evoker": "2025-06-08 04:53:21 +0000",
       "minecraft:phantom": "2025-04-28 03:45:13 +0000",
       "minecraft:witch": "2025-04-20 03:39:57 +0000",
       "minecraft:piglin": "2025-04-20 03:55:36 +0000",
       "minecraft:enderman": "2025-04-16 17:10:39 +0000",
       "minecraft:silverfish": "2025-04-19 06:02:21 +0000",
       "minecraft:stray": "2025-05-23 04:00:43 +0000",
+      "minecraft:vex": "2025-06-08 04:56:21 +0000",
       "minecraft:zombie": "2025-04-16 03:59:57 +0000",
       "minecraft:drowned": "2025-04-25 03:47:02 +0000",
       "minecraft:zombie_villager": "2025-04-16 03:36:27 +0000"
@@ -2342,7 +2345,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "illager_camp": "2025-04-18 01:29:26 +0000"
+      "illager_camp": "2025-04-18 01:29:26 +0000",
+      "illager_hideout": "2025-06-08 04:51:45 +0000"
     },
     "done": false
   },
@@ -7729,9 +7733,51 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-08 04:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-06-08 04:55:07 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-06-08 04:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-06-08 04:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-06-08 04:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-06-08 04:53:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bread_from_smoking": {
     "criteria": {
       "has_dough": "2025-06-08 03:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-06-08 04:55:08 +0000"
     },
     "done": true
   },
@@ -7747,9 +7793,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-06-08 04:55:08 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-06-08 04:24:15 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_rabbit": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-06-08 04:55:08 +0000"
     },
     "done": true
   },

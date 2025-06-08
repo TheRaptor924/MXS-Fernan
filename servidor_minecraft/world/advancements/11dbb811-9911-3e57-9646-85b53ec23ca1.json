@@ -3893,6 +3893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-08 04:46:01 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/enchantments/enchantments/instant_shot": {
     "criteria": {
       "has_storm_core": "2025-06-08 04:12:45 +0000"

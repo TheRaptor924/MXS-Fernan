@@ -116,7 +116,8 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "pillager_outpost": "2025-04-23 03:45:23 +0000",
-      "illager_camp": "2025-04-16 03:16:23 +0000"
+      "illager_camp": "2025-04-16 03:16:23 +0000",
+      "illager_hideout": "2025-06-08 04:51:42 +0000"
     },
     "done": false
   },
@@ -7894,6 +7895,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/hit_raider_with_rotten_tomato": {
+    "criteria": {
+      "hit_raider_with_rotten_tomato": "2025-06-08 04:51:49 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_diamond_axe_smithing": {
     "criteria": {
       "has_ingredients": "2025-06-08 04:35:20 +0000"
@@ -7948,6 +7955,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/loot_illager_hideout": {
+    "criteria": {
+      "loot_illager_hideout_heart_loot": "2025-06-08 04:54:31 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_gold_chestplate_smithing": {
     "criteria": {
       "has_ingredients": "2025-06-08 04:35:12 +0000"
@@ -7975,6 +7988,12 @@
   "advancednetherite:recipes/misc/netherite_emerald_boots_smithing": {
     "criteria": {
       "has_ingredients": "2025-06-08 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_cod": {
+    "criteria": {
+      "has_cooked_cod": "2025-06-08 04:57:47 +0000"
     },
     "done": true
   },
