@@ -7846,15 +7846,93 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_netherite_ingots": "2025-06-08 04:31:37 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_iron_block": {
+    "criteria": {
+      "has_netherite_iron_ingot": "2025-06-08 04:31:37 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/obtain_netherite_iron_ingot": {
+    "criteria": {
+      "netherite_iron_ingot": "2025-06-08 04:31:37 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_sword_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:31:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2025-06-08 04:13:23 +0000"
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_iron_leggings_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:31:37 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_hoe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:31:37 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_axe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:31:37 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:31:37 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_helmet_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:31:37 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_boots_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:31:37 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_pickaxe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:31:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2025-06-08 04:13:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_ropelogged_tomato": {
+    "criteria": {
+      "harvest_ropelogged_tomato": "2025-06-08 04:25:12 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_chestplate_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:31:37 +0000"
     },
     "done": true
   },
