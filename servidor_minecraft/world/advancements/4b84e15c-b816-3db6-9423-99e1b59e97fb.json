@@ -3161,9 +3161,10 @@
       "minecraft:crimson_forest": "2025-05-03 03:34:53 +0000",
       "minecraft:nether_wastes": "2025-04-20 03:46:58 +0000",
       "minecraft:soul_sand_valley": "2025-05-03 03:48:34 +0000",
-      "minecraft:basalt_deltas": "2025-05-08 04:34:19 +0000"
+      "minecraft:basalt_deltas": "2025-05-08 04:34:19 +0000",
+      "minecraft:warped_forest": "2025-06-08 03:32:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
