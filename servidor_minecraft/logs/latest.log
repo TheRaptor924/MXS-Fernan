@@ -288,3 +288,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 05:23:14.120] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11dbb811-9911-3e57-9646-85b53ec23ca1 was unloaded
 [08Jun2025 05:25:53.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :v
 [08Jun2025 05:30:22.154] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 115.6 μs. 201/201 recipes are parallelized.
+[08Jun2025 05:37:10.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-731, y=20, z=44} BlockPos{x=-731, y=21, z=44}
+[08Jun2025 05:37:13.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-732, y=20, z=42} BlockPos{x=-732, y=21, z=42}
+[08Jun2025 05:37:22.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jun2025 05:40:26.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-771, y=-15, z=-130} BlockPos{x=-767, y=-16, z=-130}
+[08Jun2025 05:41:58.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jun2025 05:41:58.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[08Jun2025 05:42:49.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> muchachos ya hay que ir preparandose para mimir
+[08Jun2025 05:43:21.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-750, y=-26, z=-230} BlockPos{x=-750, y=-26, z=-232}
+[08Jun2025 05:44:03.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has completed the challenge [It Spreads]
+[08Jun2025 05:45:37.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-724, y=-18, z=-170} BlockPos{x=-724, y=-25, z=-170}
+[08Jun2025 05:45:37.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-724, y=-26, z=-170} BlockPos{x=-724, y=-25, z=-170}
