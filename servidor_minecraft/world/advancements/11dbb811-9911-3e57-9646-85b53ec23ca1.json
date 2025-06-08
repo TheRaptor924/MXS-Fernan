@@ -3659,6 +3659,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/string_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-06-08 04:16:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/egg_sandwich": {
     "criteria": {
       "has_fried_egg": "2025-06-08 04:00:01 +0000"
@@ -3701,6 +3707,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/paper_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-06-08 04:16:50 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/enchantments/enchantments/cubic_digging": {
     "criteria": {
       "has_storm_core": "2025-06-08 04:12:45 +0000"
@@ -3734,6 +3746,12 @@
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-06-08 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/cotton_boll_crate_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-06-08 04:16:50 +0000"
     },
     "done": true
   },
@@ -3782,6 +3800,12 @@
   "enemyexpansion:hunted": {
     "criteria": {
       "hunted_0": "2025-06-08 03:58:08 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/canvas_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-06-08 04:16:50 +0000"
     },
     "done": true
   },
@@ -3854,6 +3878,12 @@
   "l2weaponry:recipes/tools/generated/craft/shulkerate_scythe_enchanted": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-08 04:12:01 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/misc/generated/recycle/shulkerate_javelin": {
+    "criteria": {
+      "has_shulkerate_javelin": "2025-06-08 04:14:32 +0000"
     },
     "done": true
   },
