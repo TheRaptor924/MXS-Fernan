@@ -393,6 +393,7 @@
       "glow_berries": "2025-05-24 05:06:28 +0000",
       "golden_carrot": "2025-04-27 04:58:27 +0000",
       "cooked_rabbit": "2025-05-10 02:35:23 +0000",
+      "cooked_chicken": "2025-06-08 04:59:40 +0000",
       "rabbit_stew": "2025-04-19 04:41:46 +0000",
       "cooked_salmon": "2025-04-16 03:39:32 +0000",
       "carrot": "2025-05-06 04:23:57 +0000"
@@ -7847,9 +7848,21 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_gold_sword_smithing": {
+  "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
-      "has_ingredients": "2025-06-08 04:35:12 +0000"
+      "has_log": "2025-06-08 04:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-06-08 04:13:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_ropelogged_tomato": {
+    "criteria": {
+      "harvest_ropelogged_tomato": "2025-06-08 04:25:12 +0000"
     },
     "done": true
   },
@@ -7859,21 +7872,9 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_diamond_hoe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:20 +0000"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/building_blocks/netherite_iron_block": {
     "criteria": {
       "has_netherite_iron_ingot": "2025-06-08 04:31:37 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/building_blocks/netherite_emerald_block": {
-    "criteria": {
-      "has_netherite_emerald_ingot": "2025-06-08 04:35:15 +0000"
     },
     "done": true
   },
@@ -7883,147 +7884,9 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_diamond_helmet_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:20 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_boots_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/hit_raider_with_rotten_tomato": {
-    "criteria": {
-      "hit_raider_with_rotten_tomato": "2025-06-08 04:51:49 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_axe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:20 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_shovel_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:15 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_chestplate_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:20 +0000"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/misc/netherite_iron_sword_smithing": {
     "criteria": {
       "has_ingredients": "2025-06-08 04:31:37 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_shovel_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:12 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/building_blocks/netherite_diamond_block": {
-    "criteria": {
-      "has_netherite_diamond_ingot": "2025-06-08 04:35:20 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_chestplate_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2025-06-08 04:13:23 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_leggings_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:12 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/loot_illager_hideout": {
-    "criteria": {
-      "loot_illager_hideout_heart_loot": "2025-06-08 04:54:31 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_chestplate_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:12 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_pickaxe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:20 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_hoe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:12 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_leggings_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:15 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_boots_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:15 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/burnt/burnt/cooked_cod": {
-    "criteria": {
-      "has_cooked_cod": "2025-06-08 04:57:47 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_axe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:12 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_helmet_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:15 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_shovel_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:20 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/building_blocks/netherite_gold_block": {
-    "criteria": {
-      "has_netherite_gold_ingot": "2025-06-08 04:35:12 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_boots_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:12 +0000"
     },
     "done": true
   },
@@ -8042,18 +7905,6 @@
   "advancednetherite:recipes/misc/netherite_iron_axe_smithing": {
     "criteria": {
       "has_ingredients": "2025-06-08 04:31:37 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_pickaxe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:12 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_axe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 04:35:15 +0000"
     },
     "done": true
   },
@@ -8081,6 +7932,114 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_iron_chestplate_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:31:37 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_sword_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:12 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:12 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_leggings_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:12 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_chestplate_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:12 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_hoe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:12 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_axe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:12 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_gold_block": {
+    "criteria": {
+      "has_netherite_gold_ingot": "2025-06-08 04:35:12 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_boots_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:12 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_pickaxe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:12 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_helmet_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:12 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_emerald_block": {
+    "criteria": {
+      "has_netherite_emerald_ingot": "2025-06-08 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_chestplate_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_leggings_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_boots_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_helmet_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_axe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:15 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_emerald_sword_smithing": {
     "criteria": {
       "has_ingredients": "2025-06-08 04:35:15 +0000"
@@ -8099,15 +8058,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_planks": {
+  "advancednetherite:recipes/misc/netherite_diamond_hoe_smithing": {
     "criteria": {
-      "has_logs": "2025-06-08 04:13:23 +0000"
+      "has_ingredients": "2025-06-08 04:35:20 +0000"
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_gold_helmet_smithing": {
+  "advancednetherite:recipes/misc/netherite_diamond_helmet_smithing": {
     "criteria": {
-      "has_ingredients": "2025-06-08 04:35:12 +0000"
+      "has_ingredients": "2025-06-08 04:35:20 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_boots_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:20 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_axe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:20 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_chestplate_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:20 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_diamond_block": {
+    "criteria": {
+      "has_netherite_diamond_ingot": "2025-06-08 04:35:20 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_pickaxe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:20 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-06-08 04:35:20 +0000"
     },
     "done": true
   },
@@ -8123,15 +8118,39 @@
     },
     "done": true
   },
-  "farmersdelight:main/harvest_ropelogged_tomato": {
+  "farmersdelight:main/hit_raider_with_rotten_tomato": {
     "criteria": {
-      "harvest_ropelogged_tomato": "2025-06-08 04:25:12 +0000"
+      "hit_raider_with_rotten_tomato": "2025-06-08 04:51:49 +0000"
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_iron_chestplate_smithing": {
+  "nova_structures:adventure/loot_illager_hideout": {
     "criteria": {
-      "has_ingredients": "2025-06-08 04:31:37 +0000"
+      "loot_illager_hideout_heart_loot": "2025-06-08 04:54:31 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_cod": {
+    "criteria": {
+      "has_cooked_cod": "2025-06-08 04:57:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-06-08 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-06-08 04:59:29 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-06-08 04:59:29 +0000"
     },
     "done": true
   },

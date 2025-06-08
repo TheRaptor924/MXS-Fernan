@@ -3653,15 +3653,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/nether_salad": {
+  "farmersdelight:recipes/food/kelp_roll": {
     "criteria": {
-      "has_bowl": "2025-06-08 04:07:48 +0000"
+      "has_dried_kelp": "2025-06-08 03:01:37 +0000"
     },
     "done": true
   },
-  "rusticdelight:recipes/misc/string_from_cotton_boll": {
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
-      "has_cotton_boll": "2025-06-08 04:16:50 +0000"
+      "has_dried_kelp": "2025-06-08 03:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-08 03:28:17 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-06-08 03:58:08 +0000"
     },
     "done": true
   },
@@ -3670,6 +3682,30 @@
       "has_fried_egg": "2025-06-08 04:00:01 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-06-08 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-06-08 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-06-08 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "noodle_soup": "2025-06-08 04:07:48 +0000"
+    },
+    "done": false
   },
   "l2weaponry:recipes/tools/generated/craft/shulkerate_javelin_enchanted": {
     "criteria": {
@@ -3689,12 +3725,6 @@
     },
     "done": true
   },
-  "l2complements:recipes/enchantments/enchantments/vien_mining": {
-    "criteria": {
-      "has_storm_core": "2025-06-08 04:12:45 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/tools/generated/craft/shulkerate_spear_enchanted": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-08 04:12:01 +0000"
@@ -3704,24 +3734,6 @@
   "l2complements:recipes/enchantments/enchantments/hardened": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-08 04:12:01 +0000"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/misc/paper_from_cotton_boll": {
-    "criteria": {
-      "has_cotton_boll": "2025-06-08 04:16:50 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/cubic_digging": {
-    "criteria": {
-      "has_storm_core": "2025-06-08 04:12:45 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/drill_digging": {
-    "criteria": {
-      "has_storm_core": "2025-06-08 04:12:45 +0000"
     },
     "done": true
   },
@@ -3743,42 +3755,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/eat_comfort_food": {
-    "criteria": {
-      "comfort": "2025-06-08 04:07:48 +0000"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/misc/cotton_boll_crate_from_cotton_boll": {
-    "criteria": {
-      "has_cotton_boll": "2025-06-08 04:16:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-08 04:41:08 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/tree_chopping": {
-    "criteria": {
-      "has_storm_core": "2025-06-08 04:12:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/kelp_roll": {
-    "criteria": {
-      "has_dried_kelp": "2025-06-08 03:01:37 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/plane_digging": {
-    "criteria": {
-      "has_storm_core": "2025-06-08 04:12:45 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/tools/generated/craft/shulkerate_claw_enchanted": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-08 04:12:01 +0000"
@@ -3791,63 +3767,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
-    "criteria": {
-      "has_dried_kelp": "2025-06-08 03:01:37 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/tools/generated/craft/shulkerate_machete_enchanted": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-08 04:12:01 +0000"
     },
     "done": true
   },
-  "enemyexpansion:hunted": {
-    "criteria": {
-      "hunted_0": "2025-06-08 03:58:08 +0000"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/misc/canvas_from_cotton_boll": {
-    "criteria": {
-      "has_cotton_boll": "2025-06-08 04:16:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2025-06-08 04:07:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/master_chef": {
-    "criteria": {
-      "noodle_soup": "2025-06-08 04:07:48 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/enchantments/enchantments/hard_shield": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-08 04:12:01 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/legendary/void_escape": {
-    "criteria": {
-      "has_storm_core": "2025-06-08 04:12:45 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/legendary/shadow_shredder": {
-    "criteria": {
-      "has_storm_core": "2025-06-08 04:12:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-06-08 03:28:17 +0000"
     },
     "done": true
   },
@@ -3869,12 +3797,6 @@
     },
     "done": true
   },
-  "l2complements:recipes/misc/craft/diffusion_wand": {
-    "criteria": {
-      "has_storm_core": "2025-06-08 04:12:45 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/misc/craft/reinforced_warp_stone": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-08 04:12:01 +0000"
@@ -3887,21 +3809,99 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/misc/generated/recycle/shulkerate_javelin": {
+  "l2complements:recipes/enchantments/enchantments/vien_mining": {
     "criteria": {
-      "has_shulkerate_javelin": "2025-06-08 04:14:32 +0000"
+      "has_storm_core": "2025-06-08 04:12:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp": {
+  "l2complements:recipes/enchantments/enchantments/cubic_digging": {
     "criteria": {
-      "has_dried_kelp_block": "2025-06-08 04:46:01 +0000"
+      "has_storm_core": "2025-06-08 04:12:45 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/drill_digging": {
+    "criteria": {
+      "has_storm_core": "2025-06-08 04:12:45 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/tree_chopping": {
+    "criteria": {
+      "has_storm_core": "2025-06-08 04:12:45 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/plane_digging": {
+    "criteria": {
+      "has_storm_core": "2025-06-08 04:12:45 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/void_escape": {
+    "criteria": {
+      "has_storm_core": "2025-06-08 04:12:45 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/shadow_shredder": {
+    "criteria": {
+      "has_storm_core": "2025-06-08 04:12:45 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/diffusion_wand": {
+    "criteria": {
+      "has_storm_core": "2025-06-08 04:12:45 +0000"
     },
     "done": true
   },
   "l2weaponry:recipes/enchantments/enchantments/instant_shot": {
     "criteria": {
       "has_storm_core": "2025-06-08 04:12:45 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/misc/generated/recycle/shulkerate_javelin": {
+    "criteria": {
+      "has_shulkerate_javelin": "2025-06-08 04:14:32 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/string_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-06-08 04:16:50 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/paper_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-06-08 04:16:50 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/cotton_boll_crate_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-06-08 04:16:50 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/canvas_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-06-08 04:16:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-08 04:41:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-08 04:46:01 +0000"
     },
     "done": true
   },
