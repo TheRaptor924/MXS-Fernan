@@ -336,3 +336,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 03:46:03.060] [Worker-Main-49/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/19061, l='ServerLevel[world]', x=-1185.00, y=31.00, z=224.90] as it would cause deadlock
 [08Jun2025 03:46:06.067] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 59.15 μs. 0/148 recipes are parallelized.
 [08Jun2025 03:47:42.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1003, y=74, z=72} BlockPos{x=-999, y=78, z=78}
+[08Jun2025 03:49:26.050] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 161.1 μs. 218/218 recipes are parallelized.
+[08Jun2025 03:50:16.028] [Worker-Main-49/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/22609, l='ServerLevel[world]', x=-1262.00, y=31.00, z=85.00] as it would cause deadlock
+[08Jun2025 03:57:20.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> estamos en dis
+[08Jun2025 03:58:08.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has reached the goal [Hunted]
