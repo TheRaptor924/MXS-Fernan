@@ -7695,6 +7695,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-07 05:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-07 05:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-07 05:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-07 05:35:27 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/poseidite_spear_enchanted": {
     "criteria": {
       "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
@@ -7704,12 +7728,6 @@
   "l2weaponry:recipes/tools/generated/craft/poseidite_dagger_enchanted": {
     "criteria": {
       "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-06-07 05:35:27 +0000"
     },
     "done": true
   },
@@ -7731,27 +7749,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-06-07 05:35:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-06-07 05:35:27 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/enchantments/enchantments/ender_hand": {
     "criteria": {
       "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/renew/heart_of_the_sea": {
-    "criteria": {
-      "has_guardian_eye": "2025-06-07 05:57:09 +0000"
     },
     "done": true
   },
@@ -7773,21 +7773,9 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/misc/generated/recycle/poseidite_dagger": {
-    "criteria": {
-      "has_poseidite_dagger": "2025-06-07 05:59:25 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/misc/storage/poseidite_ingot_unpack": {
     "criteria": {
       "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/misc/generated/recycle/poseidite_spear": {
-    "criteria": {
-      "has_poseidite_spear": "2025-06-07 05:59:19 +0000"
     },
     "done": true
   },
@@ -7803,12 +7791,6 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/combat/legendary/poseidon_madness": {
-    "criteria": {
-      "has_guardian_eye": "2025-06-07 05:57:09 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/misc/storage/poseidite_block_storage": {
     "criteria": {
       "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
@@ -7821,27 +7803,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-06-07 05:35:27 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/misc/craft/totem_of_the_sea": {
     "criteria": {
       "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
     },
     "done": true
   },
-  "l2weaponry:recipes/misc/generated/recycle/poseidite_javelin": {
-    "criteria": {
-      "has_poseidite_javelin": "2025-06-07 05:59:35 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/tools/generated/craft/poseidite_nunchaku_enchanted": {
     "criteria": {
       "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/renew/heart_of_the_sea": {
+    "criteria": {
+      "has_guardian_eye": "2025-06-07 05:57:09 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/legendary/poseidon_madness": {
+    "criteria": {
+      "has_guardian_eye": "2025-06-07 05:57:09 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/misc/generated/recycle/poseidite_spear": {
+    "criteria": {
+      "has_poseidite_spear": "2025-06-07 05:59:19 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/misc/generated/recycle/poseidite_dagger": {
+    "criteria": {
+      "has_poseidite_dagger": "2025-06-07 05:59:25 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/misc/generated/recycle/poseidite_javelin": {
+    "criteria": {
+      "has_poseidite_javelin": "2025-06-07 05:59:35 +0000"
     },
     "done": true
   },
