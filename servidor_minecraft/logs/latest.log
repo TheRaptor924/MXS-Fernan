@@ -340,3 +340,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 03:50:16.028] [Worker-Main-49/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/22609, l='ServerLevel[world]', x=-1262.00, y=31.00, z=85.00] as it would cause deadlock
 [08Jun2025 03:57:20.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> estamos en dis
 [08Jun2025 03:58:08.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has reached the goal [Hunted]
+[08Jun2025 03:58:58.126] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/27200, l='ServerLevel[world]', x=-1255.00, y=31.00, z=319.00] as it would cause deadlock
+[08Jun2025 04:02:45.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> tp pliz
+[08Jun2025 04:02:57.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Ferlein]
+[08Jun2025 04:03:12.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was impaled by JustRaptor
+[08Jun2025 04:03:35.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was slain by JustRaptor
+[08Jun2025 04:03:50.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was slain by JustRaptor
+[08Jun2025 04:04:09.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> cuidado qiema la casa
+[08Jun2025 04:04:13.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor was killed
+[08Jun2025 04:04:13.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed JustRaptor]
+[08Jun2025 04:04:18.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> pa la casita
+[08Jun2025 04:04:20.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :3
+[08Jun2025 04:05:03.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> no paso nada.
+[08Jun2025 04:05:12.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no hay tanta madera como pense
+[08Jun2025 04:06:14.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> te sirve alguno?
+[08Jun2025 04:06:28.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> nop
+[08Jun2025 04:06:34.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> perp gracias
+[08Jun2025 04:07:00.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ese esta chido
+[08Jun2025 04:07:08.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> lo acabo de conseguir jsjs
+[08Jun2025 04:07:23.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> quieres hacer lo del esqueleto pa sacar varios?
+[08Jun2025 04:08:13.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> de donde los saca?
+[08Jun2025 04:08:24.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pos, en mochilas
