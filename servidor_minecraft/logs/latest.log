@@ -329,3 +329,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 03:37:54.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> Alex, tienes el disco del nether que se encuentra en las bastiones?
 [08Jun2025 03:38:04.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> tengo el chebre que pongo a cada rato
 [08Jun2025 03:38:06.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pigstep se llama
+[08Jun2025 03:38:28.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> sip pistep
+[08Jun2025 03:38:35.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> referencia al dupstep
+[08Jun2025 03:39:03.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> re
+[08Jun2025 03:46:00.169] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/19030, l='ServerLevel[world]', x=-1197.00, y=31.00, z=-161.00] as it would cause deadlock
+[08Jun2025 03:46:03.060] [Worker-Main-49/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/19061, l='ServerLevel[world]', x=-1185.00, y=31.00, z=224.90] as it would cause deadlock
+[08Jun2025 03:46:06.067] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 59.15 μs. 0/148 recipes are parallelized.
+[08Jun2025 03:47:42.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1003, y=74, z=72} BlockPos{x=-999, y=78, z=78}
