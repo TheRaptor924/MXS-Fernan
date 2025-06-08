@@ -7155,5 +7155,17 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/generated_tools/sculkium/recycle/sculkium_helmet": {
+    "criteria": {
+      "has_sculkium_helmet": "2025-06-08 05:44:04 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/combat/generated_tools/sculkium/craft/sculkium_helmet": {
+    "criteria": {
+      "has_sculkium_helmet": "2025-06-08 05:44:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
