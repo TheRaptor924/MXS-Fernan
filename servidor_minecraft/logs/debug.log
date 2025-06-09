@@ -4632,3 +4632,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 06:13:55.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
 [09Jun2025 06:13:55.552] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
 [09Jun2025 06:13:55.552] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
+[09Jun2025 06:14:15.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 lost connection: Disconnected
+[09Jun2025 06:14:15.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
+[09Jun2025 06:14:15.750] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[09Jun2025 06:14:15.750] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[09Jun2025 06:14:19.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Jun2025 06:14:19.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Jun2025 06:14:19.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Jun2025 06:14:19.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Jun2025 06:14:19.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Jun2025 06:14:19.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Jun2025 06:14:19.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Jun2025 06:14:19.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 06:14:19.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 06:14:19.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Jun2025 06:14:19.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Jun2025 06:14:19.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Jun2025 06:14:19.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Jun2025 06:14:19.870] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[09Jun2025 06:14:19.870] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
