@@ -277,3 +277,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 05:15:20.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -9.363628288496386,1.4199999868869781,-3.322515854553842
 [09Jun2025 05:15:38.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -6.444512817328928,-1.0,-7.676079664089144
 [09Jun2025 05:15:49.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-525, y=68, z=-181} BlockPos{x=-526, y=69, z=-183}
+[09Jun2025 05:23:37.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-647, y=-34, z=-33} BlockPos{x=-646, y=-38, z=-33}
+[09Jun2025 05:23:37.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-646, y=-39, z=-33} BlockPos{x=-646, y=-38, z=-33}
+[09Jun2025 05:26:16.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> se le puede meter irrompibilidad y reparacion a las tijeras?
+[09Jun2025 05:26:27.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> si te deja encantar?
+[09Jun2025 05:26:33.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> es que creo que te toca con libros
+[09Jun2025 05:26:33.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no se
