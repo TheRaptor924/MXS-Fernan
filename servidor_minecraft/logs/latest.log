@@ -283,3 +283,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 05:26:27.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> si te deja encantar?
 [09Jun2025 05:26:33.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> es que creo que te toca con libros
 [09Jun2025 05:26:33.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no se
+[09Jun2025 05:35:47.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-649, y=-23, z=-82} BlockPos{x=-649, y=-22, z=-81}
+[09Jun2025 05:35:48.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-648, y=-23, z=-81} BlockPos{x=-649, y=-24, z=-81}
+[09Jun2025 05:35:48.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-648, y=-23, z=-81} BlockPos{x=-649, y=-25, z=-81}
+[09Jun2025 05:36:22.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has reached the goal [Postmortal]
+[09Jun2025 05:36:34.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was slain by Enraged Troll
+[09Jun2025 05:36:41.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> es mierda que
+[09Jun2025 05:36:45.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> wtf
+[09Jun2025 05:36:51.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> necesitas ayuda?
+[09Jun2025 05:36:55.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> nani?
+[09Jun2025 05:36:59.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> pos ya me mori
+[09Jun2025 05:37:09.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> pero era un bicho re duro y re rapido
+[09Jun2025 05:39:53.325] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/18113, l='ServerLevel[world]', x=-591.10, y=31.00, z=-456.00] as it would cause deadlock
+[09Jun2025 05:43:28.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> si sale rentable ir a minar y vender
