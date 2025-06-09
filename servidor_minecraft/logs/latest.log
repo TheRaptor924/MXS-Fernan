@@ -312,3 +312,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 05:46:42.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> el trol ese me rompio la armadura
 [09Jun2025 05:47:01.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ya toca comprar la de guarden
 [09Jun2025 05:52:10.839] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[09Jun2025 05:53:47.231] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/26040, l='ServerLevel[world]', x=-597.00, y=31.00, z=-627.00] as it would cause deadlock
+[09Jun2025 06:01:17.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Jun2025 06:01:17.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
