@@ -7829,5 +7829,11 @@
     },
     "done": true
   },
+  "enemyexpansion:tactically_nuked": {
+    "criteria": {
+      "tactically_nuked_0": "2025-06-09 05:12:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -272,3 +272,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 05:12:30.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has completed the challenge [Tactically Nuked]
 [09Jun2025 05:12:36.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> a
 [09Jun2025 05:12:49.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> como pasó?
+[09Jun2025 05:12:53.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> creaper
+[09Jun2025 05:13:05.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> a
+[09Jun2025 05:15:20.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -9.363628288496386,1.4199999868869781,-3.322515854553842
+[09Jun2025 05:15:38.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -6.444512817328928,-1.0,-7.676079664089144
+[09Jun2025 05:15:49.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-525, y=68, z=-181} BlockPos{x=-526, y=69, z=-183}
