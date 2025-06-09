@@ -4595,3 +4595,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 06:01:17.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [09Jun2025 06:03:36.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jun2025 06:03:36.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 06:05:42.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> bueno muchachos
+[09Jun2025 06:05:43.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> a mimir
+[09Jun2025 06:05:45.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :3
+[09Jun2025 06:05:59.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> fue muy poquito tiempo
+[09Jun2025 06:06:13.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> weño sigan jugando en lo que me arreglo
+[09Jun2025 06:06:24.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> para donde vamos?
+[09Jun2025 06:06:45.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> hay que recoger firmas pa cambiar el admin
+[09Jun2025 06:06:53.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :V
+[09Jun2025 06:06:54.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no gracias
+[09Jun2025 06:07:00.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> quien quedaria como admin?
+[09Jun2025 06:07:04.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> yo no quiero
+[09Jun2025 06:07:26.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Los veo gestionando el server :3
+[09Jun2025 06:08:36.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 06:08:36.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 06:08:45.839] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_7
+[09Jun2025 06:08:45.840] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_2
+[09Jun2025 06:08:45.841] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_3
+[09Jun2025 06:08:45.842] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_5
+[09Jun2025 06:08:45.843] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_3
+[09Jun2025 06:08:45.844] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_5
+[09Jun2025 06:08:45.845] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_1
+[09Jun2025 06:13:15.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> bueno muchachos la gfa ya me anda molestando por la hora jejejeje
+[09Jun2025 06:13:26.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> buenu
+[09Jun2025 06:13:31.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> chaos muchachos
+[09Jun2025 06:13:34.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> descansen
+[09Jun2025 06:13:36.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 06:13:36.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 06:13:40.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> igual.
+[09Jun2025 06:13:43.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> buena noche
+[09Jun2025 06:13:44.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
+[09Jun2025 06:13:44.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[09Jun2025 06:13:44.965] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[09Jun2025 06:13:44.966] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[09Jun2025 06:13:55.551] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Disconnected
+[09Jun2025 06:13:55.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
+[09Jun2025 06:13:55.552] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[09Jun2025 06:13:55.552] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
