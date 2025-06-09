@@ -296,3 +296,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 05:37:09.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> pero era un bicho re duro y re rapido
 [09Jun2025 05:39:53.325] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/18113, l='ServerLevel[world]', x=-591.10, y=31.00, z=-456.00] as it would cause deadlock
 [09Jun2025 05:43:28.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> si sale rentable ir a minar y vender
+[09Jun2025 05:43:45.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> shi
+[09Jun2025 05:44:10.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> 155k en el banco
+[09Jun2025 05:44:16.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> a
+[09Jun2025 05:44:35.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> nada mal
+[09Jun2025 05:44:39.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> en 1 sola ida
+[09Jun2025 05:44:45.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> falta
+[09Jun2025 05:44:51.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> se estan cocinando los demas
+[09Jun2025 05:45:05.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> eso necesita un nerf urgente
+[09Jun2025 05:45:10.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> xd
+[09Jun2025 05:45:16.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> inflacion
+[09Jun2025 05:46:22.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was slain by Enderman
+[09Jun2025 05:46:32.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> ius
+[09Jun2025 05:46:40.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :o
+[09Jun2025 05:46:42.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> el trol ese me rompio la armadura
+[09Jun2025 05:47:01.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ya toca comprar la de guarden
+[09Jun2025 05:52:10.839] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor

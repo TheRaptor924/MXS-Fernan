@@ -4562,3 +4562,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 05:41:12.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_1
 [09Jun2025 05:41:12.183] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton_wither
 [09Jun2025 05:43:28.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> si sale rentable ir a minar y vender
+[09Jun2025 05:43:36.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 05:43:36.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 05:43:45.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> shi
+[09Jun2025 05:44:10.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> 155k en el banco
+[09Jun2025 05:44:16.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> a
+[09Jun2025 05:44:35.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> nada mal
+[09Jun2025 05:44:39.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> en 1 sola ida
+[09Jun2025 05:44:45.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> falta
+[09Jun2025 05:44:51.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> se estan cocinando los demas
+[09Jun2025 05:45:05.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> eso necesita un nerf urgente
+[09Jun2025 05:45:10.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> xd
+[09Jun2025 05:45:16.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> inflacion
+[09Jun2025 05:46:22.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was slain by Enderman
+[09Jun2025 05:46:32.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> ius
+[09Jun2025 05:46:40.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :o
+[09Jun2025 05:46:42.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> el trol ese me rompio la armadura
+[09Jun2025 05:47:01.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ya toca comprar la de guarden
+[09Jun2025 05:48:36.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 05:48:36.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 05:52:10.839] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[09Jun2025 05:53:36.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 05:53:36.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
