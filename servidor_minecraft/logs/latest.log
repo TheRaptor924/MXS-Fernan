@@ -379,3 +379,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 22:36:46.921] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
 [10Jun2025 22:37:02.941] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
 [10Jun2025 22:37:09.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Teleported Ferlein to Angeltronix7005]
+[10Jun2025 23:00:54.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Jun2025 23:00:54.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
