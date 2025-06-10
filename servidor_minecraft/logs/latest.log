@@ -372,3 +372,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 22:29:34.609] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 696.3 μs. 996/996 recipes are parallelized.
 [10Jun2025 22:30:41.511] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
 [10Jun2025 22:30:41.624] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[10Jun2025 22:36:11.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferlein[/127.59.10.170:53731] logged in with entity id 2260 at (-313.4823809907945, 63.085764312744146, 1714.8363731829033)
+[10Jun2025 22:36:11.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein joined the game
+[10Jun2025 22:36:11.990] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[10Jun2025 22:36:13.122] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was loaded
+[10Jun2025 22:36:46.921] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[10Jun2025 22:37:02.941] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[10Jun2025 22:37:09.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Teleported Ferlein to Angeltronix7005]

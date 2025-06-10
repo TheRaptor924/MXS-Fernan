@@ -7234,5 +7234,11 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_stairs_from_smeltingnull": {
+    "criteria": {
+      "has_stone_brick_stairs": "2025-06-10 22:29:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
