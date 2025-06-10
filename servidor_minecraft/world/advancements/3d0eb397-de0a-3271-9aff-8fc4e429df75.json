@@ -7252,6 +7252,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_slab": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:46:18 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_wall": {
     "criteria": {
       "has_oak_log": "2025-06-10 23:11:19 +0000"
@@ -7264,15 +7270,39 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_stairs_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:46:18 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_slab": {
     "criteria": {
       "has_oak_log": "2025-06-10 23:11:19 +0000"
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_wall": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:46:18 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_stairs": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:46:18 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_stairs_from_oak_log_stonecutting": {
     "criteria": {
       "has_oak_log": "2025-06-10 23:11:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_slab_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:46:18 +0000"
     },
     "done": true
   },
@@ -7297,6 +7327,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_wall_from_oak_log_stonecutting": {
     "criteria": {
       "has_oak_log": "2025-06-10 23:11:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_wall_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:46:18 +0000"
     },
     "done": true
   },

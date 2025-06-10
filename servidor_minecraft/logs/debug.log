@@ -4817,3 +4817,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 23:36:04.706] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
 [10Jun2025 23:39:28.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Jun2025 23:39:28.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 23:44:28.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 23:44:28.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 23:49:28.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 23:49:28.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 23:50:10.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_4
+[10Jun2025 23:50:37.092] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_center_1
+[10Jun2025 23:50:37.104] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_port/nether_port_bridge_path_6
+[10Jun2025 23:50:37.106] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_port/nether_port_bridge_path_1
+[10Jun2025 23:50:37.108] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_port/nether_port_bridge_house_4
+[10Jun2025 23:50:37.109] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_port/nether_port_bridge_path_3
+[10Jun2025 23:50:37.110] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_port/nether_port_bridge_path_5
+[10Jun2025 23:50:37.114] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_port/nether_port_bridge_house_3
+[10Jun2025 23:50:37.119] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_port/nether_port_bridge_path_2
+[10Jun2025 23:50:37.123] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_port/nether_port_bridge_house_2
