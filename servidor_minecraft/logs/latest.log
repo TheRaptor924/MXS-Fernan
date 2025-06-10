@@ -388,3 +388,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 00:36:53.634] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Alisia'/2143, l='ServerLevel[world]', x=-763.25, y=14.00, z=73.53] died: Alisia was shot by Pillager
 [10Jun2025 00:47:22.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein fell from a high place
 [10Jun2025 00:57:18.833] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[10Jun2025 00:58:59.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was doomed to fall
+[10Jun2025 01:01:42.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-608, y=86, z=-135}

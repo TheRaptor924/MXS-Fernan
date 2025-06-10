@@ -2686,6 +2686,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dripstone_block_stairs": {
+    "criteria": {
+      "has_dripstone_block": "2025-06-10 01:02:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-06-10 00:48:16 +0000"
@@ -2722,6 +2728,18 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dripstone_block_slab": {
+    "criteria": {
+      "has_dripstone_block": "2025-06-10 01:02:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dripstone_block_slab_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2025-06-10 01:02:16 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_stairs": {
     "criteria": {
       "has_tuff": "2025-06-10 00:53:04 +0000"
@@ -2755,6 +2773,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-10 00:53:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dripstone_block_wall_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2025-06-10 01:02:16 +0000"
     },
     "done": true
   },
@@ -2824,6 +2848,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dripstone_block_stairs_from_dripstone_block_stonecutting": {
+    "criteria": {
+      "has_dripstone_block": "2025-06-10 01:02:16 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-10 00:53:04 +0000"
@@ -2833,6 +2863,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_wall_from_spruce_log_stonecutting": {
     "criteria": {
       "has_spruce_log": "2025-06-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dripstone_block_wall": {
+    "criteria": {
+      "has_dripstone_block": "2025-06-10 01:02:16 +0000"
     },
     "done": true
   },
