@@ -20,6 +20,7 @@
       "minecraft:stony_shore": "2025-05-21 04:23:51 +0000",
       "minecraft:dripstone_caves": "2025-06-10 00:37:48 +0000",
       "minecraft:snowy_taiga": "2025-06-10 00:35:40 +0000",
+      "minecraft:deep_dark": "2025-06-10 01:21:56 +0000",
       "minecraft:plains": "2025-05-21 04:18:26 +0000"
     },
     "done": false
@@ -2905,6 +2906,18 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_wall": {
     "criteria": {
       "has_spruce_log": "2025-06-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-06-10 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-06-10 01:19:05 +0000"
     },
     "done": true
   },
