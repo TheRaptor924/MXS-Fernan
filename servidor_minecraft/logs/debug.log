@@ -4794,3 +4794,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 23:19:28.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Jun2025 23:19:28.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Jun2025 23:19:45.773] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 278.8 μs. 292/292 recipes are parallelized.
+[10Jun2025 23:24:28.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 23:24:28.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 23:27:20.058] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_5
+[10Jun2025 23:27:20.059] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_6
+[10Jun2025 23:27:20.060] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_crossbow
+[10Jun2025 23:27:20.061] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_piglin_crossbow
+[10Jun2025 23:27:20.062] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_empty
+[10Jun2025 23:27:20.063] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton_empty
+[10Jun2025 23:27:21.103] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/17747, l='ServerLevel[world]', x=-669.00, y=31.00, z=-745.00] as it would cause deadlock
+[10Jun2025 23:28:21.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Made Ferlein no longer a server operator]
+[10Jun2025 23:29:28.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 23:29:28.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 23:29:53.792] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 248.2 μs. 261/262 recipes are parallelized.
+[10Jun2025 23:32:26.685] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/20455, l='ServerLevel[world]', x=-740.00, y=31.00, z=-596.00] as it would cause deadlock
+[10Jun2025 23:32:44.911] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_fire
+[10Jun2025 23:32:44.912] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_fire
+[10Jun2025 23:32:44.913] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_fire

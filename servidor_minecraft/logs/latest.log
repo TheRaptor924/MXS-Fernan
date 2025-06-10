@@ -387,3 +387,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 23:17:59.901] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
 [10Jun2025 23:18:00.825] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
 [10Jun2025 23:19:45.773] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 278.8 μs. 292/292 recipes are parallelized.
+[10Jun2025 23:27:21.103] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/17747, l='ServerLevel[world]', x=-669.00, y=31.00, z=-745.00] as it would cause deadlock
+[10Jun2025 23:28:21.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Made Ferlein no longer a server operator]
+[10Jun2025 23:29:53.792] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 248.2 μs. 261/262 recipes are parallelized.
+[10Jun2025 23:32:26.685] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/20455, l='ServerLevel[world]', x=-740.00, y=31.00, z=-596.00] as it would cause deadlock
