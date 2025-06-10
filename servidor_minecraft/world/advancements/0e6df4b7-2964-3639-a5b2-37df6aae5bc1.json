@@ -8095,6 +8095,18 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stone_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-10 23:33:03 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stone_wall": {
+    "criteria": {
+      "has_stone": "2025-06-10 23:33:03 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/misc/generated/recycle/totemic_gold_hammer": {
     "criteria": {
       "has_totemic_gold_hammer": "2025-06-10 23:28:38 +0000"
