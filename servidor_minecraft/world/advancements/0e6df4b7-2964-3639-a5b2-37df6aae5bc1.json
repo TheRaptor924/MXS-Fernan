@@ -7842,5 +7842,53 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_stairs_from_spruce_log_stonecutting": {
+    "criteria": {
+      "has_spruce_log": "2025-06-09 23:53:25 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_slab": {
+    "criteria": {
+      "has_spruce_log": "2025-06-09 23:53:25 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_slab_from_spruce_log_stonecutting": {
+    "criteria": {
+      "has_spruce_log": "2025-06-09 23:53:25 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_planks_wall": {
+    "criteria": {
+      "has_spruce_fence": "2025-06-09 23:53:25 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_wall_from_spruce_log_stonecutting": {
+    "criteria": {
+      "has_spruce_log": "2025-06-09 23:53:25 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_planks_wall_from_spruce_planks_stonecutting": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-09 23:53:25 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_stairs": {
+    "criteria": {
+      "has_spruce_log": "2025-06-09 23:53:25 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_wall": {
+    "criteria": {
+      "has_spruce_log": "2025-06-09 23:53:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

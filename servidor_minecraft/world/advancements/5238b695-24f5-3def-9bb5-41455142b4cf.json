@@ -2111,39 +2111,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2025-05-23 04:19:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-05-23 04:19:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-05-23 04:14:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2025-05-23 04:43:50 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
-    "criteria": {
-      "has_chest": "2025-05-23 04:18:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-05-23 04:44:38 +0000"
     },
     "done": true
   },
@@ -2159,39 +2129,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-23 04:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-23 04:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-05-23 04:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-05-23 04:14:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-23 04:14:31 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/mutton": {
+    "criteria": {
+      "has_mutton": "2025-05-23 04:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-23 04:16:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-23 04:16:35 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/beef": {
+    "criteria": {
+      "has_beef": "2025-05-23 04:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-23 04:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-23 04:16:35 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-05-23 04:18:13 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/acacia_drawers": {
     "criteria": {
       "has_chest": "2025-05-23 04:18:13 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-05-23 04:19:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-05-23 04:43:50 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
     "criteria": {
       "has_chest": "2025-05-23 04:18:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-05-23 04:35:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-05-23 04:14:31 +0000"
     },
     "done": true
   },
@@ -2213,21 +2231,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-23 04:19:46 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/crimson_drawers": {
     "criteria": {
       "has_chest": "2025-05-23 04:18:13 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/burnt/burnt/cooked_mutton": {
-    "criteria": {
-      "has_cooked_mutton": "2025-05-23 04:22:16 +0000"
     },
     "done": true
   },
@@ -2243,81 +2249,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-05-23 04:43:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-05-23 04:43:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-05-23 04:14:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-05-23 04:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-05-23 04:35:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-05-23 04:22:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-05-23 04:14:31 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/warped_drawers": {
     "criteria": {
       "has_chest": "2025-05-23 04:18:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:chicken": "2025-05-23 04:43:00 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-23 04:16:35 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/burnt/burnt/beef": {
-    "criteria": {
-      "has_beef": "2025-05-23 04:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-05-23 04:14:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-23 04:14:31 +0000"
     },
     "done": true
   },
@@ -2327,15 +2261,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
-      "has_water_bucket": "2025-05-23 04:39:53 +0000"
+      "fried_egg": "2025-05-23 04:19:46 +0000"
     },
     "done": true
   },
-  "l2weaponry:recipes/misc/generated/recycle/iron_machete": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_iron_machete": "2025-05-23 04:29:07 +0000"
+      "has_egg": "2025-05-23 04:19:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-23 04:19:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-23 04:19:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-23 04:19:46 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_mutton": {
+    "criteria": {
+      "has_cooked_mutton": "2025-05-23 04:22:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-05-23 04:22:16 +0000"
     },
     "done": true
   },
@@ -2351,45 +2315,303 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "pumpkin_stem": "2025-05-23 04:44:22 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/burnt/burnt/cooked_beef": {
     "criteria": {
       "has_cooked_beef": "2025-05-23 04:27:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
+  "l2weaponry:recipes/misc/generated/recycle/iron_machete": {
     "criteria": {
-      "has_beef": "2025-05-23 04:16:35 +0000"
+      "has_iron_machete": "2025-05-23 04:29:07 +0000"
     },
     "done": true
   },
-  "l2complements:recipes/burnt/burnt/mutton": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_mutton": "2025-05-23 04:14:31 +0000"
+      "has_dandelion": "2025-05-23 04:35:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_beef": "2025-05-23 04:16:35 +0000"
+      "has_azure_bluet": "2025-05-23 04:35:15 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "fried_egg": "2025-05-23 04:19:46 +0000"
+      "has_water_bucket": "2025-05-23 04:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-23 04:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-05-23 04:43:00 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-05-23 04:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-23 04:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-23 04:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "pumpkin_stem": "2025-05-23 04:44:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-23 04:44:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-05-23 04:44:38 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_wall": {
+    "criteria": {
+      "has_amethyst_block": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_slab_from_pumpkin_stonecutting": {
+    "criteria": {
+      "has_pumpkin": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_stairs": {
+    "criteria": {
+      "has_smooth_basalt": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_slab": {
+    "criteria": {
+      "has_calcite": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_planks_wall_from_oak_planks_stonecutting": {
+    "criteria": {
+      "has_oak_planks": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_wall_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_wall": {
+    "criteria": {
+      "has_smooth_basalt": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_slab": {
+    "criteria": {
+      "has_pumpkin": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_stairs_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_wall_from_pumpkin_stonecutting": {
+    "criteria": {
+      "has_pumpkin": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_wall": {
+    "criteria": {
+      "has_dirt": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_stairs": {
+    "criteria": {
+      "has_pumpkin": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_stairs_from_black_wool_stonecutting": {
+    "criteria": {
+      "has_black_wool": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_wall_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_wall": {
+    "criteria": {
+      "has_calcite": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_slab_from_black_wool_stonecutting": {
+    "criteria": {
+      "has_black_wool": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_stairs": {
+    "criteria": {
+      "has_black_wool": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_wall": {
+    "criteria": {
+      "has_pumpkin": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_slab_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_slab": {
+    "criteria": {
+      "has_smooth_basalt": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_stairs_from_pumpkin_stonecutting": {
+    "criteria": {
+      "has_pumpkin": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_wall": {
+    "criteria": {
+      "has_black_wool": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_stairs": {
+    "criteria": {
+      "has_amethyst_block": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_slab": {
+    "criteria": {
+      "has_amethyst_block": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_stairs": {
+    "criteria": {
+      "has_dirt": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_wall_from_black_wool_stonecutting": {
+    "criteria": {
+      "has_black_wool": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_wall_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_slab": {
+    "criteria": {
+      "has_black_wool": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_stairs_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_stairs": {
+    "criteria": {
+      "has_calcite": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-09 23:59:17 +0000"
     },
     "done": true
   },
