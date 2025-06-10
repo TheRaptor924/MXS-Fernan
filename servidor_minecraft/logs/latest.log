@@ -401,3 +401,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 01:33:06.574] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Youlanda'/17842, l='ServerLevel[world]', x=-1522.63, y=64.50, z=-341.28] died, message: 'Youlanda suffocated in a wall'
 [10Jun2025 01:33:06.575] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Youlanda'/17842, l='ServerLevel[world]', x=-1522.63, y=64.50, z=-341.28] died: Youlanda suffocated in a wall
 [10Jun2025 01:37:27.325] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 254.0 μs. 292/292 recipes are parallelized.
+[10Jun2025 01:48:03.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Teleported Ferlein to crospo14]
