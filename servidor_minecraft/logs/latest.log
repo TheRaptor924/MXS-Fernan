@@ -381,3 +381,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 22:37:09.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Teleported Ferlein to Angeltronix7005]
 [10Jun2025 23:00:54.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [10Jun2025 23:00:54.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[10Jun2025 23:04:58.975] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Twanna'/9628, l='ServerLevel[world]', x=-348.32, y=70.00, z=-124.72] died: Twanna was slain by Ferlein
