@@ -2686,6 +2686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-10 00:48:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-06-10 00:35:51 +0000"
@@ -2716,6 +2722,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2025-06-10 00:53:04 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_slab_from_spruce_log_stonecutting": {
     "criteria": {
       "has_spruce_log": "2025-06-10 00:35:49 +0000"
@@ -2725,6 +2737,30 @@
   "enemyexpansion:hunted": {
     "criteria": {
       "hunted_0": "2025-06-10 00:36:48 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 00:53:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2025-06-10 00:53:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 00:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-10 00:48:16 +0000"
     },
     "done": true
   },
@@ -2758,6 +2794,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-06-10 00:53:04 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_emerald_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-06-10 00:31:28 +0000"
@@ -2779,6 +2821,12 @@
   "l2complements:recipes/enchantments/enchantments/life_mending": {
     "criteria": {
       "has_book": "2025-06-10 00:31:52 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-10 00:53:04 +0000"
     },
     "done": true
   },
