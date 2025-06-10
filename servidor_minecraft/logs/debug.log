@@ -4381,3 +4381,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 18:41:12.668] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
 [10Jun2025 18:41:31.041] [Worker-Main-19/DEBUG] [mixin/]: Mixing TreeDecoratorGeneratorMixin from more_slabs_stairs_and_walls-common.mixins.json into net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecorator$Context
 [10Jun2025 18:41:38.602] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[10Jun2025 18:45:43.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 18:45:43.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 18:46:01.189] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_ring_1
+[10Jun2025 18:46:01.200] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_starting_room
+[10Jun2025 18:46:01.208] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_crossroad_1
+[10Jun2025 18:46:01.252] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_crossroad_big
+[10Jun2025 18:46:01.255] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_curve_small
+[10Jun2025 18:46:01.263] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_straight_big
+[10Jun2025 18:46:01.272] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_t_curve_big
+[10Jun2025 18:46:01.277] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_crossroad_small
+[10Jun2025 18:46:01.281] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_t_curve_small
+[10Jun2025 18:46:01.289] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_curve_big
+[10Jun2025 18:46:01.291] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/fallback/conduit_ruin_room_fail
+[10Jun2025 18:46:01.308] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_straight_1
+[10Jun2025 18:46:01.311] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_2
+[10Jun2025 18:46:01.312] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_3
+[10Jun2025 18:46:01.316] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_1
+[10Jun2025 18:46:01.320] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_straight_2
+[10Jun2025 18:46:01.321] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/fallback/conduit_ruin_road_fail
+[10Jun2025 18:46:01.335] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[10Jun2025 18:46:01.433] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[10Jun2025 18:46:03.324] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[10Jun2025 18:46:03.330] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[10Jun2025 18:46:03.344] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[10Jun2025 18:46:17.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[10Jun2025 18:47:15.869] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 1.738 ms. 996/996 recipes are parallelized.
+[10Jun2025 18:50:43.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 18:50:43.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 18:51:44.507] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[10Jun2025 18:51:44.658] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[10Jun2025 18:52:59.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Jun2025 18:52:59.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]

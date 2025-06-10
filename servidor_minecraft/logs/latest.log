@@ -369,3 +369,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 18:36:04.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3223ms or 64 ticks behind
 [10Jun2025 18:36:23.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4965ms or 99 ticks behind
 [10Jun2025 18:39:04.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[10Jun2025 18:46:01.335] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[10Jun2025 18:46:01.433] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[10Jun2025 18:46:17.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[10Jun2025 18:47:15.869] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 1.738 ms. 996/996 recipes are parallelized.
+[10Jun2025 18:51:44.507] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[10Jun2025 18:51:44.658] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[10Jun2025 18:52:59.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Jun2025 18:52:59.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]

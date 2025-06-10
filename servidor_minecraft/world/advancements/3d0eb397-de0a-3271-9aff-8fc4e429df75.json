@@ -7210,5 +7210,29 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stone_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-10 18:46:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_stone_wall": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-10 18:47:12 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stone_wall": {
+    "criteria": {
+      "has_stone": "2025-06-10 18:46:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_stone_wall_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-10 18:47:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
