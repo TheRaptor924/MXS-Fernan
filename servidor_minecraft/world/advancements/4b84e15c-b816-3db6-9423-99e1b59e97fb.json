@@ -8161,21 +8161,201 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-09 05:48:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-06-09 05:10:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-09 05:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2025-06-09 05:48:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_wall": {
+    "criteria": {
+      "has_bone_block": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_polished_blackstone_bricks_stairs_from_cracked_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_polished_blackstone_bricks": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/netherrack_stairs": {
+    "criteria": {
+      "has_netherrack": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_polished_blackstone_bricks_stairs": {
+    "criteria": {
+      "has_cracked_polished_blackstone_bricks": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_polished_blackstone_bricks_wall_from_cracked_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_polished_blackstone_bricks": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_stairs_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_slab": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_stairs_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_wall_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gilded_blackstone_stairs_from_gilded_blackstone_stonecutting": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gilded_blackstone_wall_from_gilded_blackstone_stonecutting": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_wall": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_stairs": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_polished_blackstone_bricks_wall": {
+    "criteria": {
+      "has_cracked_polished_blackstone_bricks": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_slab_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gilded_blackstone_slab_from_gilded_blackstone_stonecutting": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/netherrack_slab": {
+    "criteria": {
+      "has_netherrack": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_polished_blackstone_bricks_slab": {
+    "criteria": {
+      "has_cracked_polished_blackstone_bricks": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gilded_blackstone_stairs": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gilded_blackstone_wall": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_polished_blackstone_bricks_slab_from_cracked_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_polished_blackstone_bricks": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/netherrack_wall": {
+    "criteria": {
+      "has_netherrack": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gilded_blackstone_slab": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_wall_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_stairs": {
+    "criteria": {
+      "has_bone_block": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_slab_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_slab": {
+    "criteria": {
+      "has_bone_block": "2025-06-10 23:17:59 +0000"
     },
     "done": true
   },

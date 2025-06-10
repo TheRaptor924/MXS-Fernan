@@ -382,3 +382,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 23:00:54.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [10Jun2025 23:00:54.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [10Jun2025 23:04:58.975] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Twanna'/9628, l='ServerLevel[world]', x=-348.32, y=70.00, z=-124.72] died: Twanna was slain by Ferlein
+[10Jun2025 23:17:59.850] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.173.123.163:48677] logged in with entity id 14171 at (-365.535619955683, 40.0, -556.6118299624264)
+[10Jun2025 23:17:59.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[10Jun2025 23:17:59.901] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[10Jun2025 23:18:00.825] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[10Jun2025 23:19:45.773] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 278.8 μs. 292/292 recipes are parallelized.

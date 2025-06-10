@@ -7234,6 +7234,48 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_planks_wall_from_oak_planks_stonecutting": {
+    "criteria": {
+      "has_oak_planks": "2025-06-10 23:11:24 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_stairs": {
+    "criteria": {
+      "has_oak_log": "2025-06-10 23:11:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_wall": {
+    "criteria": {
+      "has_oak_log": "2025-06-10 23:11:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_slab": {
+    "criteria": {
+      "has_oak_log": "2025-06-10 23:11:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_stairs_from_oak_log_stonecutting": {
+    "criteria": {
+      "has_oak_log": "2025-06-10 23:11:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_slab_from_oak_log_stonecutting": {
+    "criteria": {
+      "has_oak_log": "2025-06-10 23:11:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_wall_from_oak_log_stonecutting": {
+    "criteria": {
+      "has_oak_log": "2025-06-10 23:11:19 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_stairs_from_smeltingnull": {
     "criteria": {
       "has_stone_brick_stairs": "2025-06-10 22:29:36 +0000"
