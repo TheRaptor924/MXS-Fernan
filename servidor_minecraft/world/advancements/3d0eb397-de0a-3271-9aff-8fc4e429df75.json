@@ -7168,5 +7168,47 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_stairs_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-06-10 17:14:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_wall": {
+    "criteria": {
+      "has_dirt": "2025-06-10 17:14:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_wall_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-06-10 17:14:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-06-10 17:14:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_slab_from_smeltingnull": {
+    "criteria": {
+      "has_stone_brick_slab": "2025-06-10 17:14:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-06-10 17:14:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_stairs": {
+    "criteria": {
+      "has_dirt": "2025-06-10 17:14:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
