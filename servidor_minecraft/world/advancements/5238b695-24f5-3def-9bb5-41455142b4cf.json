@@ -20,6 +20,7 @@
       "minecraft:stony_shore": "2025-05-21 04:23:51 +0000",
       "minecraft:dripstone_caves": "2025-06-10 00:37:48 +0000",
       "minecraft:snowy_taiga": "2025-06-10 00:35:40 +0000",
+      "minecraft:forest": "2025-06-10 01:47:51 +0000",
       "minecraft:deep_dark": "2025-06-10 01:21:56 +0000",
       "minecraft:plains": "2025-05-21 04:18:26 +0000"
     },
@@ -2689,6 +2690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-10 01:57:59 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/dripstone_block_stairs": {
     "criteria": {
       "has_dripstone_block": "2025-06-10 01:02:16 +0000"
@@ -2722,6 +2729,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-06-10 00:31:52 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-10 01:57:59 +0000"
     },
     "done": true
   },
@@ -2773,6 +2786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-10 01:57:59 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-10 00:53:04 +0000"
@@ -2818,6 +2837,12 @@
   "l2complements:recipes/enchantments/enchantments/safeguard": {
     "criteria": {
       "has_book": "2025-06-10 00:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-10 01:57:59 +0000"
     },
     "done": true
   },
