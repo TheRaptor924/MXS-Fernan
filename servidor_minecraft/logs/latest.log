@@ -396,3 +396,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 01:24:59.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Ferlein a server operator
 [10Jun2025 01:25:03.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Teleported Ferlein to crospo14]
 [10Jun2025 01:25:44.034] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[10Jun2025 01:32:50.875] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Solomon'/17554, l='ServerLevel[world]', x=-1514.63, y=63.56, z=-304.28] died, message: 'Solomon suffocated in a wall'
+[10Jun2025 01:32:50.875] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Solomon'/17554, l='ServerLevel[world]', x=-1514.63, y=63.56, z=-304.28] died: Solomon suffocated in a wall
+[10Jun2025 01:33:06.574] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Youlanda'/17842, l='ServerLevel[world]', x=-1522.63, y=64.50, z=-341.28] died, message: 'Youlanda suffocated in a wall'
+[10Jun2025 01:33:06.575] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Youlanda'/17842, l='ServerLevel[world]', x=-1522.63, y=64.50, z=-341.28] died: Youlanda suffocated in a wall
+[10Jun2025 01:37:27.325] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 254.0 μs. 292/292 recipes are parallelized.

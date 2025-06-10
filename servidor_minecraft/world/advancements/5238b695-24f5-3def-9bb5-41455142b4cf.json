@@ -2753,6 +2753,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_stack_upgrade_starter_tier": "2025-06-10 01:33:30 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_slab_from_spruce_log_stonecutting": {
     "criteria": {
       "has_spruce_log": "2025-06-10 00:35:49 +0000"
