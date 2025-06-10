@@ -2696,6 +2696,18 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_plate_shield_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-10 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/storage/sculkium_ingot_unpack": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-10 02:09:10 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/dripstone_block_stairs": {
     "criteria": {
       "has_dripstone_block": "2025-06-10 01:02:16 +0000"
@@ -2762,6 +2774,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_nunchaku_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-10 02:09:10 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_stairs": {
     "criteria": {
       "has_tuff": "2025-06-10 00:53:04 +0000"
@@ -2804,15 +2822,33 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_machete_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-10 02:09:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-06-10 01:11:28 +0000"
     },
     "done": true
   },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_round_shield_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-10 02:09:10 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-10 00:53:04 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_javelin_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-10 02:09:10 +0000"
     },
     "done": true
   },
@@ -2852,6 +2888,24 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/craft/sonic_shooter": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-10 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_spear_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-10 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/storage/sculkium_block_storage": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-10 02:09:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-06-10 00:31:28 +0000"
@@ -2861,6 +2915,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-06-10 00:34:09 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_throwing_axe_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-10 02:09:10 +0000"
     },
     "done": true
   },
@@ -2894,9 +2954,33 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_battle_axe_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-10 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_scythe_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-10 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_hammer_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-10 02:09:10 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/enchantments/enchantments/life_mending": {
     "criteria": {
       "has_book": "2025-06-10 00:31:52 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_dagger_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-10 02:09:10 +0000"
     },
     "done": true
   },
@@ -2915,6 +2999,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_wall_from_spruce_log_stonecutting": {
     "criteria": {
       "has_spruce_log": "2025-06-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/sculkium_claw_enchanted": {
+    "criteria": {
+      "has_sculkium_ingot": "2025-06-10 02:09:10 +0000"
     },
     "done": true
   },
