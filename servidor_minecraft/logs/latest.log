@@ -377,3 +377,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 18:51:44.658] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
 [10Jun2025 18:52:59.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [10Jun2025 18:52:59.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[10Jun2025 18:58:31.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 lost connection: Disconnected
+[10Jun2025 18:58:31.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
+[10Jun2025 18:58:31.567] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[10Jun2025 18:58:31.569] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[10Jun2025 18:58:37.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Jun2025 18:58:37.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Jun2025 18:58:37.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Jun2025 18:58:37.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Jun2025 18:58:37.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Jun2025 18:58:37.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Jun2025 18:58:37.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Jun2025 18:58:37.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Jun2025 18:58:37.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Jun2025 18:58:37.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Jun2025 18:58:37.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Jun2025 18:58:37.682] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
