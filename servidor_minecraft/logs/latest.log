@@ -410,3 +410,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 01:54:43.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was blown up by Crawler
 [10Jun2025 01:54:47.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Teleported crospo14 to Ferlein]
 [10Jun2025 01:54:50.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Teleported crospo14 to Ferlein]
+[10Jun2025 02:12:35.755] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[10Jun2025 02:12:35.804] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[10Jun2025 02:17:10.244] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[10Jun2025 02:17:10.304] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[10Jun2025 02:17:50.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Jun2025 02:17:50.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Jun2025 02:17:50.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crospo14 lost connection: Server closed
+[10Jun2025 02:17:50.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crospo14 left the game
+[10Jun2025 02:17:50.611] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{crospo14} || 5238b695-24f5-3def-9bb5-41455142b4cf
+[10Jun2025 02:17:50.614] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5238b695-24f5-3def-9bb5-41455142b4cf was unloaded
+[10Jun2025 02:17:50.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Jun2025 02:17:50.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Jun2025 02:17:52.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Jun2025 02:17:52.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Jun2025 02:17:52.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Jun2025 02:17:52.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Jun2025 02:17:52.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Jun2025 02:17:52.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Jun2025 02:17:52.553] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
