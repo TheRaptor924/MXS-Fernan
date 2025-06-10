@@ -629,6 +629,7 @@
       "cooked_porkchop": "2025-05-23 04:00:16 +0000",
       "cooked_mutton": "2025-05-23 04:29:25 +0000",
       "beef": "2025-06-10 00:06:59 +0000",
+      "baked_potato": "2025-06-10 00:16:34 +0000",
       "apple": "2025-05-21 04:26:27 +0000",
       "rotten_flesh": "2025-05-21 04:27:12 +0000",
       "carrot": "2025-05-21 04:29:30 +0000"
@@ -2394,12 +2395,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-06-10 00:06:47 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_wall": {
     "criteria": {
       "has_amethyst_block": "2025-06-09 23:59:17 +0000"
@@ -2415,12 +2410,6 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_stairs": {
     "criteria": {
       "has_smooth_basalt": "2025-06-09 23:59:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-06-10 00:07:01 +0000"
     },
     "done": true
   },
@@ -2442,12 +2431,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-06-10 00:06:47 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_wall": {
     "criteria": {
       "has_smooth_basalt": "2025-06-09 23:59:17 +0000"
@@ -2463,12 +2446,6 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_stairs_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2025-06-09 23:59:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-06-10 00:06:47 +0000"
     },
     "done": true
   },
@@ -2490,12 +2467,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2025-06-10 00:06:47 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_stairs": {
     "criteria": {
       "has_pumpkin": "2025-06-09 23:59:17 +0000"
@@ -2505,12 +2476,6 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_stairs_from_black_wool_stonecutting": {
     "criteria": {
       "has_black_wool": "2025-06-09 23:59:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-06-10 00:06:47 +0000"
     },
     "done": true
   },
@@ -2532,33 +2497,15 @@
     },
     "done": true
   },
-  "l2complements:recipes/enchantments/enchantments/snow_walker": {
-    "criteria": {
-      "has_leather": "2025-06-10 00:06:47 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-06-09 23:59:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-06-10 00:06:47 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_slab": {
     "criteria": {
       "has_dirt": "2025-06-09 23:59:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-06-10 00:06:47 +0000"
     },
     "done": true
   },
@@ -2640,12 +2587,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2025-06-10 00:06:47 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_wall_from_smooth_basalt_stonecutting": {
     "criteria": {
       "has_smooth_basalt": "2025-06-09 23:59:17 +0000"
@@ -2664,12 +2605,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-06-10 00:07:01 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_stairs": {
     "criteria": {
       "has_calcite": "2025-06-09 23:59:17 +0000"
@@ -2679,6 +2614,72 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-09 23:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-10 00:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-10 00:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-10 00:06:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-06-10 00:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-10 00:06:47 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/snow_walker": {
+    "criteria": {
+      "has_leather": "2025-06-10 00:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-10 00:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-10 00:06:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-06-10 00:06:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-10 00:07:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-10 00:07:01 +0000"
     },
     "done": true
   },
