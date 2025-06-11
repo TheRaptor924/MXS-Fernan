@@ -8699,9 +8699,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/soul_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/sand_stairs": {
     "criteria": {
       "has_sand": "2025-06-11 02:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/strong_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
     },
     "done": true
   },
@@ -8720,6 +8750,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/sand_slab": {
     "criteria": {
       "has_sand": "2025-06-11 02:10:19 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/black_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
     },
     "done": true
   },
