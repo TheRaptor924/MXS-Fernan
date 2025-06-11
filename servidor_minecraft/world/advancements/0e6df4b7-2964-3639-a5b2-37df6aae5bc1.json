@@ -8117,6 +8117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_wall": {
     "criteria": {
       "has_gravel": "2025-06-11 00:43:51 +0000"
@@ -8135,6 +8141,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_spear": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_slab_from_gravel_stonecutting": {
     "criteria": {
       "has_gravel": "2025-06-11 00:43:51 +0000"
@@ -8150,6 +8162,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_slab": {
     "criteria": {
       "has_dried_kelp_block": "2025-06-11 00:52:35 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_dagger": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
     },
     "done": true
   },
@@ -8180,6 +8198,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/dye_blue_wool_stairs": {
     "criteria": {
       "has_needed_dye": "2025-06-11 00:52:07 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_scythe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
     },
     "done": true
   },
@@ -8219,9 +8243,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-10 23:52:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
     },
     "done": true
   },
@@ -8249,6 +8291,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_javelin": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_stairs_from_iron_block_stonecutting": {
     "criteria": {
       "has_iron_block": "2025-06-11 01:03:34 +0000"
@@ -8261,6 +8309,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_plate_shield": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-11 00:46:38 +0000"
@@ -8270,6 +8324,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_wall_from_bone_block_stonecutting": {
     "criteria": {
       "has_bone_block": "2025-06-11 00:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
     },
     "done": true
   },
@@ -8351,6 +8411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-06-11 00:30:10 +0000"
@@ -8363,9 +8429,21 @@
     },
     "done": true
   },
+  "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/dye_red_wool_wall": {
     "criteria": {
       "has_needed_dye": "2025-06-11 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
     },
     "done": true
   },
@@ -8393,6 +8471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-06-11 00:02:07 +0000"
@@ -8405,9 +8489,21 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_throwing_axe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2025-06-11 00:46:38 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_hammer": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
     },
     "done": true
   },
@@ -8441,9 +8537,27 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_nunchaku": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-10 23:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_round_shield": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
     },
     "done": true
   },
@@ -8462,6 +8576,18 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/grass_block_stairs": {
     "criteria": {
       "has_grass_block": "2025-06-10 23:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
     },
     "done": true
   },
@@ -8501,6 +8627,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_battle_axe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_stairs_from_smeltingnull": {
     "criteria": {
       "has_stone_brick_stairs": "2025-06-10 23:42:35 +0000"
@@ -8510,6 +8642,18 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_wall_from_dried_kelp_block_stonecutting": {
     "criteria": {
       "has_dried_kelp_block": "2025-06-11 00:52:35 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_machete": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_claw": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
     },
     "done": true
   },
@@ -8528,6 +8672,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_slab_from_bone_block_stonecutting": {
     "criteria": {
       "has_bone_block": "2025-06-11 00:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-11 02:01:40 +0000"
     },
     "done": true
   },
