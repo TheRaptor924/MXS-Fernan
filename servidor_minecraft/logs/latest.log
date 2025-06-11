@@ -130,3 +130,6 @@
 [11Jun2025 02:31:36.673] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
 [11Jun2025 02:34:45.942] [Worker-Main-16/INFO] [ModernFix/]: Instantiating Mojang DFU
 [11Jun2025 02:34:48.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2906ms or 58 ticks behind
+[11Jun2025 02:37:10.031] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1021, y=46, z=-1346} BlockPos{x=-1021, y=37, z=-1346}
+[11Jun2025 02:38:03.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Eye Spy]
+[11Jun2025 02:38:12.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [Eye Spy]
