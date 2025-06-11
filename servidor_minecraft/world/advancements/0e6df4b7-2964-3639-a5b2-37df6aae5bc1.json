@@ -868,6 +868,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-16 16:44:28 +0000",
+      "minecraft:blaze": "2025-06-11 00:07:23 +0000",
       "minecraft:skeleton": "2025-04-16 16:13:33 +0000",
       "minecraft:ghast": "2025-05-05 02:03:44 +0000",
       "minecraft:hoglin": "2025-04-25 03:03:48 +0000",
@@ -880,6 +881,7 @@
       "minecraft:evoker": "2025-06-08 04:53:21 +0000",
       "minecraft:phantom": "2025-04-28 03:45:13 +0000",
       "minecraft:witch": "2025-04-20 03:39:57 +0000",
+      "minecraft:wither_skeleton": "2025-06-11 00:02:26 +0000",
       "minecraft:cave_spider": "2025-06-09 05:22:25 +0000",
       "minecraft:piglin": "2025-04-20 03:55:36 +0000",
       "minecraft:enderman": "2025-04-16 17:10:39 +0000",
@@ -3518,6 +3520,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-06-11 00:09:43 +0000",
       "minecraft:nether_wastes": "2025-04-20 03:47:11 +0000",
       "minecraft:soul_sand_valley": "2025-04-20 04:28:18 +0000"
     },
@@ -8164,6 +8167,18 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/grass_block_slab_from_grass_block_stonecutting": {
     "criteria": {
       "has_grass_block": "2025-06-10 23:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-11 00:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-11 00:02:07 +0000"
     },
     "done": true
   },
