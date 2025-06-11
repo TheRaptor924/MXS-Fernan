@@ -8617,21 +8617,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_slab": {
-    "criteria": {
-      "has_needed_dye": "2025-06-11 01:51:18 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/obsidian_stairs": {
     "criteria": {
       "has_obsidian": "2025-06-11 01:23:36 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_nylium_wall": {
-    "criteria": {
-      "has_warped_nylium": "2025-06-11 01:47:00 +0000"
     },
     "done": true
   },
@@ -8641,27 +8629,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-11 01:51:18 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/obsidian_wall_from_obsidian_stonecutting": {
     "criteria": {
       "has_obsidian": "2025-06-11 01:23:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_candle": {
-    "criteria": {
-      "has_light_gray_dye": "2025-06-11 01:51:18 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_nylium_stairs_from_warped_nylium_stonecutting": {
-    "criteria": {
-      "has_warped_nylium": "2025-06-11 01:47:00 +0000"
     },
     "done": true
   },
@@ -8677,39 +8647,21 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_wall": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_nylium_wall": {
     "criteria": {
-      "has_needed_dye": "2025-06-11 01:51:18 +0000"
+      "has_warped_nylium": "2025-06-11 01:47:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_nylium_stairs_from_warped_nylium_stonecutting": {
     "criteria": {
-      "has_warped_fungus": "2025-06-11 01:47:19 +0000"
+      "has_warped_nylium": "2025-06-11 01:47:00 +0000"
     },
     "done": true
   },
   "more_slabs_stairs_and_walls:recipes/building_blocks/warped_nylium_stairs": {
     "criteria": {
       "has_warped_nylium": "2025-06-11 01:47:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-11 01:51:18 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_stairs": {
-    "criteria": {
-      "has_needed_dye": "2025-06-11 01:51:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-06-11 01:51:18 +0000"
     },
     "done": true
   },
@@ -8728,6 +8680,54 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/warped_nylium_slab_from_warped_nylium_stonecutting": {
     "criteria": {
       "has_warped_nylium": "2025-06-11 01:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-06-11 01:47:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-06-11 01:51:18 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_wall": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:18 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:18 +0000"
     },
     "done": true
   },
