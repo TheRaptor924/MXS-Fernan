@@ -8179,6 +8179,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/crying_obsidian_stairs_from_crying_obsidian_stonecutting": {
+    "criteria": {
+      "has_crying_obsidian": "2025-06-10 23:51:34 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_wall": {
     "criteria": {
       "has_bone_block": "2025-06-10 23:17:59 +0000"
@@ -8251,6 +8257,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_block_wall": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 23:53:42 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/gilded_blackstone_wall_from_gilded_blackstone_stonecutting": {
     "criteria": {
       "has_gilded_blackstone": "2025-06-10 23:17:59 +0000"
@@ -8305,6 +8317,30 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/crying_obsidian_wall": {
+    "criteria": {
+      "has_crying_obsidian": "2025-06-10 23:51:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/crying_obsidian_slab_from_crying_obsidian_stonecutting": {
+    "criteria": {
+      "has_crying_obsidian": "2025-06-10 23:51:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/crying_obsidian_stairs": {
+    "criteria": {
+      "has_crying_obsidian": "2025-06-10 23:51:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_block_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-10 23:53:42 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/gilded_blackstone_wall": {
     "criteria": {
       "has_gilded_blackstone": "2025-06-10 23:17:59 +0000"
@@ -8320,6 +8356,18 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_polished_blackstone_bricks_slab_from_cracked_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_cracked_polished_blackstone_bricks": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/crying_obsidian_wall_from_crying_obsidian_stonecutting": {
+    "criteria": {
+      "has_crying_obsidian": "2025-06-10 23:51:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/crying_obsidian_slab": {
+    "criteria": {
+      "has_crying_obsidian": "2025-06-10 23:51:34 +0000"
     },
     "done": true
   },

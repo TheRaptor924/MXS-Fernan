@@ -391,3 +391,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 23:28:21.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Made Ferlein no longer a server operator]
 [10Jun2025 23:29:53.792] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 248.2 μs. 261/262 recipes are parallelized.
 [10Jun2025 23:32:26.685] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/20455, l='ServerLevel[world]', x=-740.00, y=31.00, z=-596.00] as it would cause deadlock
+[10Jun2025 23:54:48.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 lost connection: Disconnected
+[10Jun2025 23:54:48.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
+[10Jun2025 23:54:48.572] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[10Jun2025 23:54:48.573] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[10Jun2025 23:54:48.653] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Jun2025 23:59:35.671] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/31848, l='ServerLevel[world]', x=-1039.00, y=31.00, z=-790.00] as it would cause deadlock

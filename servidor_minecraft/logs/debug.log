@@ -4831,3 +4831,44 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 23:50:37.114] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_port/nether_port_bridge_house_3
 [10Jun2025 23:50:37.119] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_port/nether_port_bridge_path_2
 [10Jun2025 23:50:37.123] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_port/nether_port_bridge_house_2
+[10Jun2025 23:54:28.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 23:54:28.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 23:54:48.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 lost connection: Disconnected
+[10Jun2025 23:54:48.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
+[10Jun2025 23:54:48.572] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[10Jun2025 23:54:48.573] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[10Jun2025 23:54:48.653] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Jun2025 23:57:06.046] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_4
+[10Jun2025 23:57:06.048] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_7
+[10Jun2025 23:57:06.049] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_2
+[10Jun2025 23:57:06.050] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_7
+[10Jun2025 23:57:06.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_6
+[10Jun2025 23:59:28.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 23:59:28.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 23:59:35.671] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/31848, l='ServerLevel[world]', x=-1039.00, y=31.00, z=-790.00] as it would cause deadlock
+[10Jun2025 23:59:38.475] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton
+[10Jun2025 23:59:38.476] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_piglin_sword
+[11Jun2025 00:00:23.490] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_4
+[11Jun2025 00:00:23.491] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_4
+[11Jun2025 00:00:23.492] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_3
+[11Jun2025 00:00:23.493] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_5
+[11Jun2025 00:00:23.493] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_2
+[11Jun2025 00:04:00.890] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_1_crimson
+[11Jun2025 00:04:00.892] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_1_soul
+[11Jun2025 00:04:00.893] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_1_warped
+[11Jun2025 00:04:00.894] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_1_basalt
+[11Jun2025 00:04:00.895] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_empty
+[11Jun2025 00:04:00.895] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_witherskeleton
+[11Jun2025 00:04:00.901] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_plate_1_basalt
+[11Jun2025 00:04:00.918] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_3_basalt
+[11Jun2025 00:04:00.920] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_skeleton
+[11Jun2025 00:04:00.921] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_7_basalt
+[11Jun2025 00:04:00.925] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_9_basalt
+[11Jun2025 00:04:00.925] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_10_basalt
+[11Jun2025 00:04:00.927] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_12_basalt
+[11Jun2025 00:04:00.928] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_5_basalt
+[11Jun2025 00:04:00.929] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_6_basalt
+[11Jun2025 00:04:00.930] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_11_basalt
+[11Jun2025 00:04:00.930] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_4_basalt
+[11Jun2025 00:04:00.932] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_2_basalt
+[11Jun2025 00:04:00.933] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_8_basalt
