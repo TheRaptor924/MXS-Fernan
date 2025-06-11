@@ -8717,6 +8717,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-06-11 03:27:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-06-11 03:14:52 +0000"
@@ -8783,6 +8789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-06-11 03:31:24 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_stairs": {
     "criteria": {
       "has_cracked_stone_bricks": "2025-06-11 02:45:39 +0000"
@@ -8798,6 +8810,12 @@
   "l2complements:recipes/misc/craft/strong_fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-06-11 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-06-11 03:31:08 +0000"
     },
     "done": true
   },

@@ -204,3 +204,33 @@
 [11Jun2025 03:26:17.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
 [11Jun2025 03:26:46.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has reached the goal [The Next Generation]
 [11Jun2025 03:27:02.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has reached the goal [The Next Generation]
+[11Jun2025 03:27:07.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has reached the goal [The Next Generation]
+[11Jun2025 03:27:08.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sasuke6525 was kicked for floating too long!
+[11Jun2025 03:27:08.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sasuke6525 lost connection: Flying is not enabled on this server
+[11Jun2025 03:27:08.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 left the game
+[11Jun2025 03:27:08.756] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{sasuke6525} || 11dbb811-9911-3e57-9646-85b53ec23ca1
+[11Jun2025 03:27:08.756] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11dbb811-9911-3e57-9646-85b53ec23ca1 was unloaded
+[11Jun2025 03:27:14.264] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sasuke6525[/127.43.105.48:53045] logged in with entity id 122714 at (50.99601160209383, -85.6853043550486, -76.44597372705032)
+[11Jun2025 03:27:14.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 joined the game
+[11Jun2025 03:27:14.296] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{sasuke6525} || 11dbb811-9911-3e57-9646-85b53ec23ca1
+[11Jun2025 03:27:14.425] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11dbb811-9911-3e57-9646-85b53ec23ca1 was loaded
+[11Jun2025 03:27:14.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sasuke6525 moved too quickly! 0.0,-19.73852980080686,0.0
+[11Jun2025 03:27:15.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
+[11Jun2025 03:27:15.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 fell from a high place
+[11Jun2025 03:27:19.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
+[11Jun2025 03:28:22.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has reached the goal [The Next Generation]
+[11Jun2025 03:29:27.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
+[11Jun2025 03:29:41.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
+[11Jun2025 03:29:48.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
+[11Jun2025 03:30:31.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
+[11Jun2025 03:30:45.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Remote Getaway]
+[11Jun2025 03:30:49.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [Remote Getaway]
+[11Jun2025 03:31:04.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has made the advancement [Remote Getaway]
+[11Jun2025 03:31:08.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [Remote Getaway]
+[11Jun2025 03:32:21.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
+[11Jun2025 03:33:20.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
+[11Jun2025 03:35:36.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [The City at the End of the Game]
+[11Jun2025 03:35:46.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [The City at the End of the Game]
+[11Jun2025 03:35:53.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has made the advancement [The City at the End of the Game]
+[11Jun2025 03:35:56.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [The City at the End of the Game]
+[11Jun2025 03:36:06.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has completed the challenge [Great View From Up Here]
