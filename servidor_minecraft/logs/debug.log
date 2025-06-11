@@ -7035,3 +7035,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jun2025 03:04:33.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Jun2025 03:06:11.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
 [11Jun2025 03:06:27.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[11Jun2025 03:09:33.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 03:09:33.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 03:11:10.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [Safe Haven]
+[11Jun2025 03:12:51.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has made the advancement [Eye Spy]
+[11Jun2025 03:12:56.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [Eye Spy]
+[11Jun2025 03:14:05.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [The End?]
+[11Jun2025 03:14:08.545] [Server thread/INFO] [betterendisland/]: Scanning for legacy world dragon fight...
+[11Jun2025 03:14:08.576] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
+[11Jun2025 03:14:09.224] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
+[11Jun2025 03:14:09.225] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[11Jun2025 03:14:09.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has made the advancement [The End?]
+[11Jun2025 03:14:10.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3514ms or 70 ticks behind
+[11Jun2025 03:14:10.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved too quickly! 1146.1439148800955,67.32352912385574,1278.3559385340964
+[11Jun2025 03:14:12.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [The End?]
+[11Jun2025 03:14:13.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [The End?]
+[11Jun2025 03:14:37.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 03:14:37.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 03:15:02.401] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[11Jun2025 03:15:02.401] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
+[11Jun2025 03:15:32.562] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[11Jun2025 03:16:30.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[11Jun2025 03:16:43.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has reached the goal [You Need a Mint]
+[11Jun2025 03:16:50.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]

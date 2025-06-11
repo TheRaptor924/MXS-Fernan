@@ -20,6 +20,7 @@
       "minecraft:snowy_plains": "2025-04-16 04:09:11 +0000",
       "minecraft:stony_shore": "2025-04-18 15:29:53 +0000",
       "minecraft:dripstone_caves": "2025-06-08 04:51:04 +0000",
+      "minecraft:snowy_taiga": "2025-06-11 03:10:06 +0000",
       "minecraft:cold_ocean": "2025-04-18 15:29:44 +0000",
       "minecraft:forest": "2025-04-16 03:11:20 +0000",
       "minecraft:savanna": "2025-05-09 23:27:46 +0000",
@@ -7456,6 +7457,18 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-06-11 03:12:51 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_wall": {
     "criteria": {
       "has_dried_kelp_block": "2025-06-11 02:55:06 +0000"
@@ -7465,6 +7478,24 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_wall": {
     "criteria": {
       "has_needed_dye": "2025-06-11 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_wall_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-11 03:14:09 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:06:25 +0000"
     },
     "done": true
   },
@@ -7522,6 +7553,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_stairs": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:06:25 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_stairs_from_pumpkin_stonecutting": {
     "criteria": {
       "has_pumpkin": "2025-06-11 01:00:07 +0000"
@@ -7564,6 +7601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-11 03:14:10 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/emerald_block_slab_from_emerald_block_stonecutting": {
     "criteria": {
       "has_emerald_block": "2025-06-11 00:46:53 +0000"
@@ -7573,6 +7616,18 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/emerald_block_wall": {
     "criteria": {
       "has_emerald_block": "2025-06-11 00:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-11 03:14:09 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_stairs_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:06:25 +0000"
     },
     "done": true
   },

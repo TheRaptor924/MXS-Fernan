@@ -8777,6 +8777,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:05:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-06-11 02:23:33 +0000"
@@ -8798,6 +8804,24 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/coal_block_slab": {
     "criteria": {
       "has_coal_block": "2025-06-11 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_wall_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-11 03:14:13 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:05:34 +0000"
     },
     "done": true
   },
@@ -8828,6 +8852,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/sand_slab": {
     "criteria": {
       "has_sand": "2025-06-11 02:10:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_stairs": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:05:34 +0000"
     },
     "done": true
   },
@@ -8867,6 +8897,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-11 03:14:13 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/sand_slab_from_sand_stonecutting": {
     "criteria": {
       "has_sand": "2025-06-11 02:10:19 +0000"
@@ -8876,6 +8912,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/sand_wall": {
     "criteria": {
       "has_sand": "2025-06-11 02:10:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_stairs_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:05:34 +0000"
     },
     "done": true
   },

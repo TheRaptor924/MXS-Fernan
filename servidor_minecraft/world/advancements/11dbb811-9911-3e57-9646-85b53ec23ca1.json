@@ -12,6 +12,7 @@
       "minecraft:river": "2025-04-19 03:19:10 +0000",
       "minecraft:snowy_plains": "2025-04-19 03:23:39 +0000",
       "minecraft:stony_shore": "2025-04-19 03:26:50 +0000",
+      "minecraft:snowy_taiga": "2025-06-11 03:09:56 +0000",
       "minecraft:grove": "2025-04-28 03:57:55 +0000",
       "minecraft:cold_ocean": "2025-04-20 04:48:24 +0000",
       "minecraft:forest": "2025-04-28 04:13:39 +0000",
@@ -3954,6 +3955,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_snowy": "2025-06-11 03:11:10 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_slab_from_spruce_log_stonecutting": {
     "criteria": {
       "has_spruce_log": "2025-06-11 01:46:59 +0000"
@@ -3972,9 +3979,21 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-06-11 03:12:56 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_stairs_from_oak_log_stonecutting": {
     "criteria": {
       "has_oak_log": "2025-06-11 01:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-11 03:14:05 +0000"
     },
     "done": true
   },
@@ -3993,6 +4012,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_slab_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2025-06-11 01:38:04 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-06-11 03:11:10 +0000"
     },
     "done": true
   },
@@ -4023,6 +4048,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_planks_wall_from_spruce_planks_stonecutting": {
     "criteria": {
       "has_spruce_planks": "2025-06-11 01:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-11 03:14:05 +0000"
     },
     "done": true
   },
