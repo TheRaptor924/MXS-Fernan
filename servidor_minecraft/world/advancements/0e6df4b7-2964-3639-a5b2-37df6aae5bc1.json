@@ -8099,9 +8099,21 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_wall_from_gravel_stonecutting": {
+    "criteria": {
+      "has_gravel": "2025-06-11 00:43:51 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_wall": {
     "criteria": {
       "has_bone_block": "2025-06-11 00:28:53 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_wall": {
+    "criteria": {
+      "has_gravel": "2025-06-11 00:43:51 +0000"
     },
     "done": true
   },
@@ -8114,6 +8126,18 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/netherrack_stairs": {
     "criteria": {
       "has_netherrack": "2025-06-10 23:52:14 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_slab_from_gravel_stonecutting": {
+    "criteria": {
+      "has_gravel": "2025-06-11 00:43:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_stairs": {
+    "criteria": {
+      "has_gravel": "2025-06-11 00:43:51 +0000"
     },
     "done": true
   },
@@ -8195,6 +8219,18 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_red_wool_wall": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_stairs_from_gravel_stonecutting": {
+    "criteria": {
+      "has_gravel": "2025-06-11 00:43:51 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/misc/generated/recycle/totemic_gold_hammer": {
     "criteria": {
       "has_totemic_gold_hammer": "2025-06-10 23:28:38 +0000"
@@ -8213,6 +8249,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_red_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 00:42:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-06-11 00:02:07 +0000"
@@ -8225,9 +8267,21 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_slab": {
+    "criteria": {
+      "has_gravel": "2025-06-11 00:43:51 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/grass_block_stairs": {
     "criteria": {
       "has_grass_block": "2025-06-10 23:40:29 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_red_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 00:42:53 +0000"
     },
     "done": true
   },
