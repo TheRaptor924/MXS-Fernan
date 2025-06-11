@@ -851,6 +851,7 @@
       "cooked_porkchop": "2025-04-18 01:59:52 +0000",
       "cooked_mutton": "2025-04-18 15:06:10 +0000",
       "cooked_beef": "2025-04-16 16:03:42 +0000",
+      "chorus_fruit": "2025-06-11 03:47:14 +0000",
       "beef": "2025-04-16 04:01:26 +0000",
       "baked_potato": "2025-04-23 03:59:48 +0000",
       "porkchop": "2025-04-16 04:01:11 +0000",
@@ -8907,6 +8908,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/sand_stairs_from_sand_stonecutting": {
     "criteria": {
       "has_sand": "2025-06-11 02:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-06-11 03:45:54 +0000"
     },
     "done": true
   },
