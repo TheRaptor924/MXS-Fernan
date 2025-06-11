@@ -125,3 +125,8 @@
 [11Jun2025 02:10:13.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
 [11Jun2025 02:10:13.915] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
 [11Jun2025 02:10:14.759] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[11Jun2025 02:29:28.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Jun2025 02:29:28.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[11Jun2025 02:31:36.673] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[11Jun2025 02:34:45.942] [Worker-Main-16/INFO] [ModernFix/]: Instantiating Mojang DFU
+[11Jun2025 02:34:48.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2906ms or 58 ticks behind
