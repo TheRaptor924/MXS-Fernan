@@ -88,3 +88,14 @@
 [11Jun2025 01:33:43.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1239, y=77, z=-851} BlockPos{x=-1215, y=85, z=-872}
 [11Jun2025 01:35:08.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [11Jun2025 01:35:08.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[11Jun2025 01:38:03.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sasuke6525[/127.43.105.48:33311] logged in with entity id 74920 at (-349.92500001192093, 72.0, -439.1354719164804)
+[11Jun2025 01:38:04.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 joined the game
+[11Jun2025 01:38:04.097] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{sasuke6525} || 11dbb811-9911-3e57-9646-85b53ec23ca1
+[11Jun2025 01:38:04.992] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11dbb811-9911-3e57-9646-85b53ec23ca1 was loaded
+[11Jun2025 01:39:21.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> me haces tp
+[11Jun2025 01:39:32.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor was killed
+[11Jun2025 01:39:32.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed JustRaptor]
+[11Jun2025 01:39:36.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> xd
+[11Jun2025 01:39:48.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> no, no quiero :v
+[11Jun2025 01:41:19.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> las flechas se venden?
+[11Jun2025 01:41:50.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
