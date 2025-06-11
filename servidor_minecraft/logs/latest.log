@@ -79,3 +79,12 @@
 [11Jun2025 01:19:16.326] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/67287, l='ServerLevel[world]', x=-1228.00, y=31.00, z=-1067.00] as it would cause deadlock
 [11Jun2025 01:19:16.493] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/67294, l='ServerLevel[world]', x=-1403.00, y=31.00, z=-1058.00] as it would cause deadlock
 [11Jun2025 01:23:56.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
+[11Jun2025 01:29:18.282] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[11Jun2025 01:29:18.319] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[11Jun2025 01:29:20.381] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64a45[id=<null>,name=sasuke6525,properties={},legacy=false] (/127.43.105.48:37727) lost connection: Disconnected
+[11Jun2025 01:29:30.021] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@148e4ccd[id=<null>,name=sasuke6525,properties={},legacy=false] (/127.43.105.48:35099) lost connection: Disconnected
+[11Jun2025 01:29:38.018] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c96c14f[id=<null>,name=sasuke6525,properties={},legacy=false] (/127.43.105.48:38401) lost connection: Disconnected
+[11Jun2025 01:30:26.125] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4442b9db[id=<null>,name=sasuke6525,properties={},legacy=false] (/127.43.105.48:38079) lost connection: Disconnected
+[11Jun2025 01:33:43.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1239, y=77, z=-851} BlockPos{x=-1215, y=85, z=-872}
+[11Jun2025 01:35:08.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Jun2025 01:35:08.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
