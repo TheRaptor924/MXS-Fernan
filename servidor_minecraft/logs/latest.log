@@ -73,3 +73,9 @@
 [11Jun2025 01:14:44.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> aaaa
 [11Jun2025 01:14:46.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> la verde
 [11Jun2025 01:14:47.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> sip
+[11Jun2025 01:15:56.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ya vengo :3
+[11Jun2025 01:16:15.832] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/65852, l='ServerLevel[world]', x=-1433.00, y=31.00, z=-927.10] as it would cause deadlock
+[11Jun2025 01:16:15.842] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/65855, l='ServerLevel[world]', x=-1363.00, y=31.00, z=-916.00] as it would cause deadlock
+[11Jun2025 01:19:16.326] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/67287, l='ServerLevel[world]', x=-1228.00, y=31.00, z=-1067.00] as it would cause deadlock
+[11Jun2025 01:19:16.493] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/67294, l='ServerLevel[world]', x=-1403.00, y=31.00, z=-1058.00] as it would cause deadlock
+[11Jun2025 01:23:56.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]

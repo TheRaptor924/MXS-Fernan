@@ -8611,5 +8611,41 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2025-06-11 01:23:36 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/obsidian_stairs": {
+    "criteria": {
+      "has_obsidian": "2025-06-11 01:23:36 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/obsidian_slab_from_obsidian_stonecutting": {
+    "criteria": {
+      "has_obsidian": "2025-06-11 01:23:36 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/obsidian_wall_from_obsidian_stonecutting": {
+    "criteria": {
+      "has_obsidian": "2025-06-11 01:23:36 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/obsidian_wall": {
+    "criteria": {
+      "has_obsidian": "2025-06-11 01:23:36 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/obsidian_stairs_from_obsidian_stonecutting": {
+    "criteria": {
+      "has_obsidian": "2025-06-11 01:23:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

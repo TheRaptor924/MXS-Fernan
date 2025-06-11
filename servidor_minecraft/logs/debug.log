@@ -5669,3 +5669,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jun2025 01:14:44.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> aaaa
 [11Jun2025 01:14:46.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> la verde
 [11Jun2025 01:14:47.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> sip
+[11Jun2025 01:15:56.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ya vengo :3
+[11Jun2025 01:16:15.832] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/65852, l='ServerLevel[world]', x=-1433.00, y=31.00, z=-927.10] as it would cause deadlock
+[11Jun2025 01:16:15.842] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/65855, l='ServerLevel[world]', x=-1363.00, y=31.00, z=-916.00] as it would cause deadlock
+[11Jun2025 01:17:15.328] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_center_1
+[11Jun2025 01:17:15.338] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_port/nether_port_bridge_path_6
+[11Jun2025 01:17:15.339] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_port/nether_port_bridge_path_1
+[11Jun2025 01:17:15.340] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_port/nether_port_bridge_house_4
+[11Jun2025 01:17:15.342] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_port/nether_port_bridge_path_2
+[11Jun2025 01:17:15.343] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_port/nether_port_bridge_house_2
+[11Jun2025 01:17:18.704] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_7
+[11Jun2025 01:19:16.326] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/67287, l='ServerLevel[world]', x=-1228.00, y=31.00, z=-1067.00] as it would cause deadlock
+[11Jun2025 01:19:16.493] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/67294, l='ServerLevel[world]', x=-1403.00, y=31.00, z=-1058.00] as it would cause deadlock
+[11Jun2025 01:19:30.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 01:19:30.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 01:23:56.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
+[11Jun2025 01:24:30.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 01:24:30.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
