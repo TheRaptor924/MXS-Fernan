@@ -367,6 +367,7 @@
       "cooked_beef": "2025-04-19 03:21:20 +0000",
       "apple": "2025-04-20 03:41:26 +0000",
       "bread": "2025-04-20 04:51:30 +0000",
+      "golden_apple": "2025-06-11 03:16:19 +0000",
       "rotten_flesh": "2025-04-27 05:00:48 +0000",
       "beetroot": "2025-06-07 02:23:10 +0000",
       "cooked_rabbit": "2025-04-20 04:51:20 +0000",
@@ -1282,6 +1283,7 @@
       "minecraft:piglin": "2025-04-27 05:07:11 +0000",
       "minecraft:stray": "2025-04-20 03:57:53 +0000",
       "minecraft:silverfish": "2025-04-27 04:26:00 +0000",
+      "minecraft:enderman": "2025-06-11 03:16:11 +0000",
       "minecraft:zombie": "2025-04-19 03:45:17 +0000",
       "minecraft:drowned": "2025-06-07 05:37:36 +0000"
     },
@@ -3913,39 +3915,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_stairs_from_spruce_log_stonecutting": {
-    "criteria": {
-      "has_spruce_log": "2025-06-11 01:46:59 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_planks_wall_from_oak_planks_stonecutting": {
-    "criteria": {
-      "has_oak_planks": "2025-06-11 01:49:54 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_slab": {
-    "criteria": {
-      "has_spruce_log": "2025-06-11 01:46:59 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_stairs": {
-    "criteria": {
-      "has_oak_log": "2025-06-11 01:44:31 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_stairs_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2025-06-11 01:38:04 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_wall": {
-    "criteria": {
-      "has_oak_log": "2025-06-11 01:44:31 +0000"
     },
     "done": true
   },
@@ -3955,45 +3927,9 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_snowy": "2025-06-11 03:11:10 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_slab_from_spruce_log_stonecutting": {
-    "criteria": {
-      "has_spruce_log": "2025-06-11 01:46:59 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_wall_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2025-06-11 01:38:04 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_slab": {
-    "criteria": {
-      "has_oak_log": "2025-06-11 01:44:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold_betterstrongholds": "2025-06-11 03:12:56 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_stairs_from_oak_log_stonecutting": {
-    "criteria": {
-      "has_oak_log": "2025-06-11 01:44:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-06-11 03:14:05 +0000"
     },
     "done": true
   },
@@ -4003,27 +3939,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_planks_wall": {
-    "criteria": {
-      "has_spruce_fence": "2025-06-11 01:49:35 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_slab_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2025-06-11 01:38:04 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-06-11 03:11:10 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_slab_from_oak_log_stonecutting": {
-    "criteria": {
-      "has_oak_log": "2025-06-11 01:44:31 +0000"
     },
     "done": true
   },
@@ -4033,27 +3951,63 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_stairs": {
+    "criteria": {
+      "has_oak_log": "2025-06-11 01:44:31 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_wall": {
+    "criteria": {
+      "has_oak_log": "2025-06-11 01:44:31 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_slab": {
+    "criteria": {
+      "has_oak_log": "2025-06-11 01:44:31 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_stairs_from_oak_log_stonecutting": {
+    "criteria": {
+      "has_oak_log": "2025-06-11 01:44:31 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_slab_from_oak_log_stonecutting": {
+    "criteria": {
+      "has_oak_log": "2025-06-11 01:44:31 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_wall_from_oak_log_stonecutting": {
     "criteria": {
       "has_oak_log": "2025-06-11 01:44:31 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_wall_from_spruce_log_stonecutting": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_stairs_from_spruce_log_stonecutting": {
     "criteria": {
       "has_spruce_log": "2025-06-11 01:46:59 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_planks_wall_from_spruce_planks_stonecutting": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_slab": {
     "criteria": {
-      "has_spruce_planks": "2025-06-11 01:49:57 +0000"
+      "has_spruce_log": "2025-06-11 01:46:59 +0000"
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_slab_from_spruce_log_stonecutting": {
     "criteria": {
-      "entered_end": "2025-06-11 03:14:05 +0000"
+      "has_spruce_log": "2025-06-11 01:46:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_wall_from_spruce_log_stonecutting": {
+    "criteria": {
+      "has_spruce_log": "2025-06-11 01:46:59 +0000"
     },
     "done": true
   },
@@ -4066,6 +4020,126 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_wall": {
     "criteria": {
       "has_spruce_log": "2025-06-11 01:46:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_planks_wall": {
+    "criteria": {
+      "has_spruce_fence": "2025-06-11 01:49:35 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_planks_wall_from_oak_planks_stonecutting": {
+    "criteria": {
+      "has_oak_planks": "2025-06-11 01:49:54 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_planks_wall_from_spruce_planks_stonecutting": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-11 01:49:57 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_snowy": "2025-06-11 03:11:10 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-06-11 03:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-06-11 03:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-11 03:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-11 03:14:05 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_stairs": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_slab": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_wall": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:41 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/ender_reach": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-11 03:16:40 +0000"
     },
     "done": true
   },

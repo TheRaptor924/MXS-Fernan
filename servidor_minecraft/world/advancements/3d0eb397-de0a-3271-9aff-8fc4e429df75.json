@@ -7355,63 +7355,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_wall_from_gravel_stonecutting": {
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
-      "has_gravel": "2025-06-11 01:43:41 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_slab_from_pumpkin_stonecutting": {
-    "criteria": {
-      "has_pumpkin": "2025-06-11 01:00:07 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_wall": {
-    "criteria": {
-      "has_gravel": "2025-06-11 01:43:41 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_slab_from_gravel_stonecutting": {
-    "criteria": {
-      "has_gravel": "2025-06-11 01:43:41 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_stairs": {
-    "criteria": {
-      "has_gravel": "2025-06-11 01:43:41 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/generated_tools/sculkium/recycle/sculkium_leggings": {
-    "criteria": {
-      "has_sculkium_leggings": "2025-06-11 02:54:18 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_slab": {
-    "criteria": {
-      "has_dried_kelp_block": "2025-06-11 02:55:06 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_stairs": {
-    "criteria": {
-      "has_dried_kelp_block": "2025-06-11 02:55:06 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_slab": {
-    "criteria": {
-      "has_pumpkin": "2025-06-11 01:00:07 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_slab": {
-    "criteria": {
-      "has_needed_dye": "2025-06-11 01:51:38 +0000"
+      "has_netherite_upgrade_smithing_template": "2025-06-11 00:17:41 +0000"
     },
     "done": true
   },
@@ -7433,177 +7379,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_wall_from_pumpkin_stonecutting": {
-    "criteria": {
-      "has_pumpkin": "2025-06-11 01:00:07 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_stairs": {
-    "criteria": {
-      "has_pumpkin": "2025-06-11 01:00:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-11 01:51:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_candle": {
-    "criteria": {
-      "has_light_gray_dye": "2025-06-11 01:51:38 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab_from_glass_stonecutting": {
-    "criteria": {
-      "has_glass": "2025-06-11 03:06:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold_betterstrongholds": "2025-06-11 03:12:51 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_wall": {
-    "criteria": {
-      "has_dried_kelp_block": "2025-06-11 02:55:06 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_wall": {
-    "criteria": {
-      "has_needed_dye": "2025-06-11 01:51:38 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_wall_from_glass_stonecutting": {
-    "criteria": {
-      "has_glass": "2025-06-11 03:06:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-06-11 03:14:09 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab": {
-    "criteria": {
-      "has_glass": "2025-06-11 03:06:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-11 01:51:38 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/generated_tools/sculkium/recycle/sculkium_chestplate": {
-    "criteria": {
-      "has_sculkium_chestplate": "2025-06-11 02:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-06-11 00:17:41 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_stairs": {
-    "criteria": {
-      "has_needed_dye": "2025-06-11 01:51:38 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_stairs_from_gravel_stonecutting": {
-    "criteria": {
-      "has_gravel": "2025-06-11 01:43:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-06-11 02:00:24 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_wall": {
-    "criteria": {
-      "has_pumpkin": "2025-06-11 01:00:07 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/emerald_block_slab": {
     "criteria": {
       "has_emerald_block": "2025-06-11 00:46:53 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_stairs_from_dried_kelp_block_stonecutting": {
-    "criteria": {
-      "has_dried_kelp_block": "2025-06-11 02:55:06 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_stairs": {
-    "criteria": {
-      "has_glass": "2025-06-11 03:06:25 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_stairs_from_pumpkin_stonecutting": {
-    "criteria": {
-      "has_pumpkin": "2025-06-11 01:00:07 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_slab_from_dried_kelp_block_stonecutting": {
-    "criteria": {
-      "has_dried_kelp_block": "2025-06-11 02:55:06 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/combat/generated_tools/sculkium/craft/sculkium_leggings": {
-    "criteria": {
-      "has_sculkium_leggings": "2025-06-11 02:54:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-06-11 01:51:38 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_slab": {
-    "criteria": {
-      "has_gravel": "2025-06-11 01:43:41 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/combat/generated_tools/sculkium/craft/sculkium_chestplate": {
-    "criteria": {
-      "has_sculkium_chestplate": "2025-06-11 02:54:15 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_wall_from_dried_kelp_block_stonecutting": {
-    "criteria": {
-      "has_dried_kelp_block": "2025-06-11 02:55:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-06-11 03:14:10 +0000"
     },
     "done": true
   },
@@ -7619,15 +7397,243 @@
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_slab_from_pumpkin_stonecutting": {
     "criteria": {
-      "entered_end": "2025-06-11 03:14:09 +0000"
+      "has_pumpkin": "2025-06-11 01:00:07 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_slab": {
+    "criteria": {
+      "has_pumpkin": "2025-06-11 01:00:07 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_wall_from_pumpkin_stonecutting": {
+    "criteria": {
+      "has_pumpkin": "2025-06-11 01:00:07 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_stairs": {
+    "criteria": {
+      "has_pumpkin": "2025-06-11 01:00:07 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_wall": {
+    "criteria": {
+      "has_pumpkin": "2025-06-11 01:00:07 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_stairs_from_pumpkin_stonecutting": {
+    "criteria": {
+      "has_pumpkin": "2025-06-11 01:00:07 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_wall_from_gravel_stonecutting": {
+    "criteria": {
+      "has_gravel": "2025-06-11 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_wall": {
+    "criteria": {
+      "has_gravel": "2025-06-11 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_slab_from_gravel_stonecutting": {
+    "criteria": {
+      "has_gravel": "2025-06-11 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_stairs": {
+    "criteria": {
+      "has_gravel": "2025-06-11 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_stairs_from_gravel_stonecutting": {
+    "criteria": {
+      "has_gravel": "2025-06-11 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_slab": {
+    "criteria": {
+      "has_gravel": "2025-06-11 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-06-11 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_wall": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-11 02:00:24 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/generated_tools/sculkium/recycle/sculkium_chestplate": {
+    "criteria": {
+      "has_sculkium_chestplate": "2025-06-11 02:54:15 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/combat/generated_tools/sculkium/craft/sculkium_chestplate": {
+    "criteria": {
+      "has_sculkium_chestplate": "2025-06-11 02:54:15 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/generated_tools/sculkium/recycle/sculkium_leggings": {
+    "criteria": {
+      "has_sculkium_leggings": "2025-06-11 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/combat/generated_tools/sculkium/craft/sculkium_leggings": {
+    "criteria": {
+      "has_sculkium_leggings": "2025-06-11 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_slab": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-11 02:55:06 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_stairs": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-11 02:55:06 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_wall": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-11 02:55:06 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_stairs_from_dried_kelp_block_stonecutting": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-11 02:55:06 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_slab_from_dried_kelp_block_stonecutting": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-11 02:55:06 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_wall_from_dried_kelp_block_stonecutting": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-11 02:55:06 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:06:25 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_wall_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:06:25 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:06:25 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_stairs": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:06:25 +0000"
     },
     "done": true
   },
   "more_slabs_stairs_and_walls:recipes/building_blocks/glass_stairs_from_glass_stonecutting": {
     "criteria": {
       "has_glass": "2025-06-11 03:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-06-11 03:12:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-11 03:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-11 03:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-11 03:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-06-11 03:19:19 +0000"
     },
     "done": true
   },
