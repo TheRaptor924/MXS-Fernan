@@ -7390,6 +7390,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:38 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/emerald_block_wall_from_emerald_block_stonecutting": {
     "criteria": {
       "has_emerald_block": "2025-06-11 00:46:53 +0000"
@@ -7420,9 +7426,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-06-11 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_wall": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-06-11 00:17:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:38 +0000"
     },
     "done": true
   },
@@ -7447,6 +7483,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_stairs_from_pumpkin_stonecutting": {
     "criteria": {
       "has_pumpkin": "2025-06-11 01:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:51:38 +0000"
     },
     "done": true
   },

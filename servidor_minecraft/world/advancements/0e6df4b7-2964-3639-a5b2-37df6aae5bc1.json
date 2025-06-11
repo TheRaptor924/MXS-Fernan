@@ -8171,6 +8171,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:54:24 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/dye_blue_wool_stairs": {
     "criteria": {
       "has_needed_dye": "2025-06-11 00:52:07 +0000"
@@ -8231,6 +8237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:54:24 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_stairs": {
     "criteria": {
       "has_tuff": "2025-06-11 00:46:38 +0000"
@@ -8258,6 +8270,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_wall_from_bone_block_stonecutting": {
     "criteria": {
       "has_bone_block": "2025-06-11 00:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-06-11 01:54:24 +0000"
     },
     "done": true
   },
@@ -8291,6 +8309,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_wall": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:54:24 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/stone_wall": {
     "criteria": {
       "has_stone": "2025-06-10 23:33:03 +0000"
@@ -8321,9 +8345,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:54:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-06-11 00:30:10 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_gray_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:54:24 +0000"
     },
     "done": true
   },
@@ -8408,6 +8444,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-10 23:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 01:54:24 +0000"
     },
     "done": true
   },
