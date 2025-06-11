@@ -25,3 +25,34 @@
 [11Jun2025 00:38:28.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1136, y=69, z=-576} BlockPos{x=-1088, y=81, z=-606}
 [11Jun2025 00:41:40.045] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
 [11Jun2025 00:41:40.094] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[11Jun2025 01:00:50.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-270, y=87, z=-262} BlockPos{x=-271, y=87, z=-262}
+[11Jun2025 01:02:55.520] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
+[11Jun2025 01:02:55.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[11Jun2025 01:02:55.521] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[11Jun2025 01:02:55.521] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[11Jun2025 01:03:02.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.173.123.163:54955] logged in with entity id 59222 at (-1210.281167839479, 102.00133597911214, -625.1398499513396)
+[11Jun2025 01:03:02.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[11Jun2025 01:03:02.199] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[11Jun2025 01:03:02.353] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[11Jun2025 01:03:12.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Jun2025 01:03:12.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[11Jun2025 01:04:03.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Kicked JustRaptor: Kicked by an operator]
+[11Jun2025 01:04:03.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Kicked by an operator
+[11Jun2025 01:04:03.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[11Jun2025 01:04:03.120] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[11Jun2025 01:04:03.121] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[11Jun2025 01:04:17.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.173.123.163:50971] logged in with entity id 59782 at (-1234.2996955996828, 99.0, -653.158911150441)
+[11Jun2025 01:04:17.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[11Jun2025 01:04:17.109] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[11Jun2025 01:04:17.258] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[11Jun2025 01:04:56.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Kicked JustRaptor: Kicked by an operator]
+[11Jun2025 01:04:56.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Kicked by an operator
+[11Jun2025 01:04:56.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[11Jun2025 01:04:56.818] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[11Jun2025 01:04:56.819] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[11Jun2025 01:05:07.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.173.123.163:35199] logged in with entity id 60216 at (-1242.5543361202658, 85.0, -668.8067004766182)
+[11Jun2025 01:05:07.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[11Jun2025 01:05:07.212] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[11Jun2025 01:05:07.360] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[11Jun2025 01:05:13.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Jun2025 01:05:13.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]

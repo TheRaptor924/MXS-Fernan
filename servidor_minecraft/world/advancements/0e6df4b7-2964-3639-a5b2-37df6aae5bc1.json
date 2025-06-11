@@ -8105,6 +8105,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_slab_from_pumpkin_stonecutting": {
+    "criteria": {
+      "has_pumpkin": "2025-06-11 01:04:29 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_wall": {
     "criteria": {
       "has_bone_block": "2025-06-11 00:28:53 +0000"
@@ -8159,6 +8165,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_slab": {
+    "criteria": {
+      "has_pumpkin": "2025-06-11 01:04:29 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/dye_blue_wool_stairs": {
     "criteria": {
       "has_needed_dye": "2025-06-11 00:52:07 +0000"
@@ -8177,9 +8189,21 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_slab": {
+    "criteria": {
+      "has_iron_block": "2025-06-11 01:03:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-06-10 23:41:13 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_wall_from_pumpkin_stonecutting": {
+    "criteria": {
+      "has_pumpkin": "2025-06-11 01:04:29 +0000"
     },
     "done": true
   },
@@ -8201,9 +8225,21 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_stairs": {
+    "criteria": {
+      "has_pumpkin": "2025-06-11 01:04:29 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_stairs": {
     "criteria": {
       "has_tuff": "2025-06-11 00:46:38 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_stairs_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-06-11 01:03:34 +0000"
     },
     "done": true
   },
@@ -8237,6 +8273,18 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_wall": {
+    "criteria": {
+      "has_iron_block": "2025-06-11 01:03:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_stairs": {
+    "criteria": {
+      "has_iron_block": "2025-06-11 01:03:34 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_wall": {
     "criteria": {
       "has_dried_kelp_block": "2025-06-11 00:52:35 +0000"
@@ -8252,6 +8300,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-06-11 00:16:39 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_slab_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-06-11 01:03:34 +0000"
     },
     "done": true
   },
@@ -8291,6 +8345,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_wall": {
+    "criteria": {
+      "has_pumpkin": "2025-06-11 01:04:29 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/grass_block_slab_from_grass_block_stonecutting": {
     "criteria": {
       "has_grass_block": "2025-06-10 23:40:29 +0000"
@@ -8324,6 +8384,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_blue_wool_wall": {
     "criteria": {
       "has_needed_dye": "2025-06-11 00:52:10 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pumpkin_stairs_from_pumpkin_stonecutting": {
+    "criteria": {
+      "has_pumpkin": "2025-06-11 01:04:29 +0000"
     },
     "done": true
   },
@@ -8384,6 +8450,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-11 00:46:38 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_wall_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-06-11 01:03:34 +0000"
     },
     "done": true
   },
