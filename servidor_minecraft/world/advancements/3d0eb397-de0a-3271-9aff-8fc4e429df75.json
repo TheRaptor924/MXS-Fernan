@@ -7644,6 +7644,30 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-06-11 03:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-06-11 03:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-06-11 03:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-06-11 03:36:58 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/obsidian_slab": {
     "criteria": {
       "has_obsidian": "2025-06-11 03:39:00 +0000"
@@ -7656,21 +7680,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-06-11 03:31:28 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/obsidian_slab_from_obsidian_stonecutting": {
     "criteria": {
       "has_obsidian": "2025-06-11 03:39:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2025-06-11 03:31:04 +0000"
     },
     "done": true
   },
@@ -7689,18 +7701,6 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/obsidian_stairs_from_obsidian_stonecutting": {
     "criteria": {
       "has_obsidian": "2025-06-11 03:39:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2025-06-11 03:36:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-06-11 03:35:53 +0000"
     },
     "done": true
   },

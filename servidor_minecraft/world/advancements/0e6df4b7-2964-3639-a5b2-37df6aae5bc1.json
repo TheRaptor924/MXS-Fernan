@@ -8701,153 +8701,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_stairs": {
-    "criteria": {
-      "has_end_stone": "2025-06-11 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/coal_block_slab_from_coal_block_stonecutting": {
-    "criteria": {
-      "has_coal_block": "2025-06-11 02:42:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2025-06-11 03:27:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-06-11 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-06-11 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-06-11 02:42:15 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/craft/soul_fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/sand_stairs": {
     "criteria": {
       "has_sand": "2025-06-11 02:10:19 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/coal_block_stairs": {
-    "criteria": {
-      "has_coal_block": "2025-06-11 02:42:15 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_wall": {
-    "criteria": {
-      "has_gold_block": "2025-06-11 02:40:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/coal_block_wall": {
-    "criteria": {
-      "has_coal_block": "2025-06-11 02:42:15 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-06-11 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_wall_from_gold_block_stonecutting": {
-    "criteria": {
-      "has_gold_block": "2025-06-11 02:40:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-06-11 03:31:24 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_stairs": {
-    "criteria": {
-      "has_cracked_stone_bricks": "2025-06-11 02:45:39 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_wall": {
-    "criteria": {
-      "has_cracked_stone_bricks": "2025-06-11 02:45:39 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/craft/strong_fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2025-06-11 03:31:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-06-11 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab_from_glass_stonecutting": {
-    "criteria": {
-      "has_glass": "2025-06-11 03:05:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-06-11 03:44:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold_betterstrongholds": "2025-06-11 02:38:12 +0000"
     },
     "done": true
   },
@@ -8857,147 +8713,15 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/coal_block_slab": {
-    "criteria": {
-      "has_coal_block": "2025-06-11 02:42:15 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_wall_from_glass_stonecutting": {
-    "criteria": {
-      "has_glass": "2025-06-11 03:05:34 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_slab": {
-    "criteria": {
-      "has_end_stone": "2025-06-11 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-06-11 03:14:13 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab": {
-    "criteria": {
-      "has_glass": "2025-06-11 03:05:34 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_stairs": {
-    "criteria": {
-      "has_gold_block": "2025-06-11 02:40:08 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_wall_from_cracked_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_cracked_stone_bricks": "2025-06-11 02:45:39 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_slab_from_cracked_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_cracked_stone_bricks": "2025-06-11 02:45:39 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/sand_stairs_from_sand_stonecutting": {
     "criteria": {
       "has_sand": "2025-06-11 02:10:19 +0000"
     },
     "done": true
   },
-  "minecraft:end/levitate": {
-    "criteria": {
-      "levitated": "2025-06-11 03:45:54 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/sand_slab": {
     "criteria": {
       "has_sand": "2025-06-11 02:10:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-06-11 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-06-11 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": "2025-06-11 03:16:43 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_stairs": {
-    "criteria": {
-      "has_glass": "2025-06-11 03:05:34 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_wall": {
-    "criteria": {
-      "has_end_stone": "2025-06-11 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/coal_block_wall_from_coal_block_stonecutting": {
-    "criteria": {
-      "has_coal_block": "2025-06-11 02:42:15 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_slab_from_gold_block_stonecutting": {
-    "criteria": {
-      "has_gold_block": "2025-06-11 02:40:08 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_slab": {
-    "criteria": {
-      "has_gold_block": "2025-06-11 02:40:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-06-11 03:35:46 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/coal_block_stairs_from_coal_block_stonecutting": {
-    "criteria": {
-      "has_coal_block": "2025-06-11 02:42:15 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_stairs_from_gold_block_stonecutting": {
-    "criteria": {
-      "has_gold_block": "2025-06-11 02:40:08 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/craft/black_fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-06-11 03:14:13 +0000"
     },
     "done": true
   },
@@ -9013,9 +8737,255 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/soul_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/strong_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/black_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-11 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-06-11 02:38:12 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_wall": {
+    "criteria": {
+      "has_gold_block": "2025-06-11 02:40:08 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_wall_from_gold_block_stonecutting": {
+    "criteria": {
+      "has_gold_block": "2025-06-11 02:40:08 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_stairs": {
+    "criteria": {
+      "has_gold_block": "2025-06-11 02:40:08 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_slab_from_gold_block_stonecutting": {
+    "criteria": {
+      "has_gold_block": "2025-06-11 02:40:08 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_slab": {
+    "criteria": {
+      "has_gold_block": "2025-06-11 02:40:08 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_stairs_from_gold_block_stonecutting": {
+    "criteria": {
+      "has_gold_block": "2025-06-11 02:40:08 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/coal_block_slab_from_coal_block_stonecutting": {
+    "criteria": {
+      "has_coal_block": "2025-06-11 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-06-11 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/coal_block_stairs": {
+    "criteria": {
+      "has_coal_block": "2025-06-11 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/coal_block_wall": {
+    "criteria": {
+      "has_coal_block": "2025-06-11 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/coal_block_slab": {
+    "criteria": {
+      "has_coal_block": "2025-06-11 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/coal_block_wall_from_coal_block_stonecutting": {
+    "criteria": {
+      "has_coal_block": "2025-06-11 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/coal_block_stairs_from_coal_block_stonecutting": {
+    "criteria": {
+      "has_coal_block": "2025-06-11 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_stairs": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-06-11 02:45:39 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_wall": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-06-11 02:45:39 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_wall_from_cracked_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-06-11 02:45:39 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_slab_from_cracked_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-06-11 02:45:39 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_slab": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-06-11 02:45:39 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_stairs_from_cracked_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-06-11 02:45:39 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:05:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_wall_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:05:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:05:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_stairs": {
+    "criteria": {
+      "has_glass": "2025-06-11 03:05:34 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/glass_stairs_from_glass_stonecutting": {
     "criteria": {
       "has_glass": "2025-06-11 03:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-11 03:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-11 03:14:13 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_stairs": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_slab": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/end_stone_wall": {
+    "criteria": {
+      "has_end_stone": "2025-06-11 03:14:52 +0000"
     },
     "done": true
   },
@@ -9031,15 +9001,45 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_slab": {
+  "minecraft:end/dragon_breath": {
     "criteria": {
-      "has_cracked_stone_bricks": "2025-06-11 02:45:39 +0000"
+      "dragon_breath": "2025-06-11 03:16:43 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_stairs_from_cracked_stone_bricks_stonecutting": {
+  "minecraft:end/dragon_egg": {
     "criteria": {
-      "has_cracked_stone_bricks": "2025-06-11 02:45:39 +0000"
+      "dragon_egg": "2025-06-11 03:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-06-11 03:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-06-11 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-06-11 03:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-06-11 03:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-06-11 03:45:54 +0000"
     },
     "done": true
   },

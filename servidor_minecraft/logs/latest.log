@@ -1,272 +1,400 @@
-[11Jun2025 00:11:13.538] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/36113, l='ServerLevel[world]', x=-1286.00, y=31.00, z=-501.00] as it would cause deadlock
-[11Jun2025 00:11:56.770] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/36383, l='ServerLevel[world]', x=-1298.00, y=31.00, z=-499.00] as it would cause deadlock
-[11Jun2025 00:11:59.885] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/36401, l='ServerLevel[world]', x=318.00, y=31.00, z=390.00] as it would cause deadlock
-[11Jun2025 00:12:17.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[11Jun2025 00:12:17.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
-[11Jun2025 00:12:35.087] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/36694, l='ServerLevel[world]', x=-1327.00, y=31.00, z=-524.00] as it would cause deadlock
-[11Jun2025 00:12:45.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angeltronix7005[/127.195.112.170:57703] logged in with entity id 36762 at (-255.71437842879777, 70.0, -289.0152522420324)
-[11Jun2025 00:12:45.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 joined the game
-[11Jun2025 00:12:45.662] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
-[11Jun2025 00:12:45.903] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
-[11Jun2025 00:13:08.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
-[11Jun2025 00:13:10.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
-[11Jun2025 00:13:20.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[11Jun2025 00:13:20.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
-[11Jun2025 00:16:03.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to JustRaptor]
-[11Jun2025 00:16:14.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
-[11Jun2025 00:23:39.828] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/41004, l='ServerLevel[world]', x=-1323.00, y=31.00, z=-830.00] as it would cause deadlock
-[11Jun2025 00:31:02.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Ferlein]
-[11Jun2025 00:31:19.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
-[11Jun2025 00:31:55.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :v
-[11Jun2025 00:32:15.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> nada que hacer :v
-[11Jun2025 00:32:33.773] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/44919, l='ServerLevel[world]', x=-1405.00, y=31.00, z=-542.00] as it would cause deadlock
-[11Jun2025 00:37:41.723] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
-[11Jun2025 00:37:41.823] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
-[11Jun2025 00:38:28.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1136, y=69, z=-576} BlockPos{x=-1088, y=81, z=-606}
-[11Jun2025 00:41:40.045] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
-[11Jun2025 00:41:40.094] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
-[11Jun2025 01:00:50.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-270, y=87, z=-262} BlockPos{x=-271, y=87, z=-262}
-[11Jun2025 01:02:55.520] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
-[11Jun2025 01:02:55.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
-[11Jun2025 01:02:55.521] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
-[11Jun2025 01:02:55.521] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
-[11Jun2025 01:03:02.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.173.123.163:54955] logged in with entity id 59222 at (-1210.281167839479, 102.00133597911214, -625.1398499513396)
-[11Jun2025 01:03:02.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
-[11Jun2025 01:03:02.199] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
-[11Jun2025 01:03:02.353] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
-[11Jun2025 01:03:12.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[11Jun2025 01:03:12.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
-[11Jun2025 01:04:03.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Kicked JustRaptor: Kicked by an operator]
-[11Jun2025 01:04:03.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Kicked by an operator
-[11Jun2025 01:04:03.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
-[11Jun2025 01:04:03.120] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
-[11Jun2025 01:04:03.121] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
-[11Jun2025 01:04:17.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.173.123.163:50971] logged in with entity id 59782 at (-1234.2996955996828, 99.0, -653.158911150441)
-[11Jun2025 01:04:17.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
-[11Jun2025 01:04:17.109] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
-[11Jun2025 01:04:17.258] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
-[11Jun2025 01:04:56.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Kicked JustRaptor: Kicked by an operator]
-[11Jun2025 01:04:56.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Kicked by an operator
-[11Jun2025 01:04:56.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
-[11Jun2025 01:04:56.818] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
-[11Jun2025 01:04:56.819] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
-[11Jun2025 01:05:07.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.173.123.163:35199] logged in with entity id 60216 at (-1242.5543361202658, 85.0, -668.8067004766182)
-[11Jun2025 01:05:07.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
-[11Jun2025 01:05:07.212] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
-[11Jun2025 01:05:07.360] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
-[11Jun2025 01:05:13.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[11Jun2025 01:05:13.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
-[11Jun2025 01:05:50.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved too quickly! 0.2511351159450328,-4.0,-9.385219987456566
-[11Jun2025 01:09:19.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> me escriben cualquier cosa
-[11Jun2025 01:09:24.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> no los escucho mucho
-[11Jun2025 01:10:10.448] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/63157, l='ServerLevel[world]', x=-1431.00, y=31.00, z=-904.00] as it would cause deadlock
-[11Jun2025 01:13:43.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> me haces tp?
-[11Jun2025 01:13:47.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> a donde?
-[11Jun2025 01:13:52.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> a la luna
-[11Jun2025 01:14:01.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was killed
-[11Jun2025 01:14:01.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed Ferlein]
-[11Jun2025 01:14:06.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> listo :3
-[11Jun2025 01:14:08.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> igual funciono
-[11Jun2025 01:14:15.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> asi que el que pierde eres tu
-[11Jun2025 01:14:29.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> me devuelves mi mochila agronoma?
-[11Jun2025 01:14:41.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> cual?
-[11Jun2025 01:14:44.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> aaaa
-[11Jun2025 01:14:46.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> la verde
-[11Jun2025 01:14:47.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> sip
-[11Jun2025 01:15:56.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ya vengo :3
-[11Jun2025 01:16:15.832] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/65852, l='ServerLevel[world]', x=-1433.00, y=31.00, z=-927.10] as it would cause deadlock
-[11Jun2025 01:16:15.842] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/65855, l='ServerLevel[world]', x=-1363.00, y=31.00, z=-916.00] as it would cause deadlock
-[11Jun2025 01:19:16.326] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/67287, l='ServerLevel[world]', x=-1228.00, y=31.00, z=-1067.00] as it would cause deadlock
-[11Jun2025 01:19:16.493] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/67294, l='ServerLevel[world]', x=-1403.00, y=31.00, z=-1058.00] as it would cause deadlock
-[11Jun2025 01:23:56.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
-[11Jun2025 01:29:18.282] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
-[11Jun2025 01:29:18.319] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
-[11Jun2025 01:29:20.381] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64a45[id=<null>,name=sasuke6525,properties={},legacy=false] (/127.43.105.48:37727) lost connection: Disconnected
-[11Jun2025 01:29:30.021] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@148e4ccd[id=<null>,name=sasuke6525,properties={},legacy=false] (/127.43.105.48:35099) lost connection: Disconnected
-[11Jun2025 01:29:38.018] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c96c14f[id=<null>,name=sasuke6525,properties={},legacy=false] (/127.43.105.48:38401) lost connection: Disconnected
-[11Jun2025 01:30:26.125] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4442b9db[id=<null>,name=sasuke6525,properties={},legacy=false] (/127.43.105.48:38079) lost connection: Disconnected
-[11Jun2025 01:33:43.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1239, y=77, z=-851} BlockPos{x=-1215, y=85, z=-872}
-[11Jun2025 01:35:08.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[11Jun2025 01:35:08.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
-[11Jun2025 01:38:03.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sasuke6525[/127.43.105.48:33311] logged in with entity id 74920 at (-349.92500001192093, 72.0, -439.1354719164804)
-[11Jun2025 01:38:04.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 joined the game
-[11Jun2025 01:38:04.097] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{sasuke6525} || 11dbb811-9911-3e57-9646-85b53ec23ca1
-[11Jun2025 01:38:04.992] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11dbb811-9911-3e57-9646-85b53ec23ca1 was loaded
-[11Jun2025 01:39:21.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> me haces tp
-[11Jun2025 01:39:32.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor was killed
-[11Jun2025 01:39:32.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed JustRaptor]
-[11Jun2025 01:39:36.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> xd
-[11Jun2025 01:39:48.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> no, no quiero :v
-[11Jun2025 01:41:19.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> las flechas se venden?
-[11Jun2025 01:41:50.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
-[11Jun2025 01:49:47.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
-[11Jun2025 01:51:24.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> tp a ti
-[11Jun2025 01:51:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
-[11Jun2025 01:56:57.664] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 87.03 μs. 0/148 recipes are parallelized.
-[11Jun2025 02:06:15.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was impaled by JustRaptor
-[11Jun2025 02:06:23.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to JustRaptor]
-[11Jun2025 02:07:55.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
-[11Jun2025 02:08:11.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Ferlein]
-[11Jun2025 02:08:55.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
-[11Jun2025 02:08:55.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
-[11Jun2025 02:08:55.063] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
-[11Jun2025 02:08:55.064] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
-[11Jun2025 02:09:14.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Kicked Ferlein: Kicked by an operator]
-[11Jun2025 02:09:14.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Kicked by an operator
-[11Jun2025 02:09:14.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
-[11Jun2025 02:09:14.613] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
-[11Jun2025 02:09:14.613] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
-[11Jun2025 02:09:24.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferlein[/127.59.10.170:47321] logged in with entity id 88231 at (-295.7142965431781, 71.0, -126.46284557631013)
-[11Jun2025 02:09:24.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein joined the game
-[11Jun2025 02:09:25.020] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
-[11Jun2025 02:09:25.138] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was loaded
-[11Jun2025 02:09:48.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
-[11Jun2025 02:10:13.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.173.123.163:46825] logged in with entity id 88853 at (-288.3916413572355, 71.0, -141.19265032742211)
-[11Jun2025 02:10:13.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
-[11Jun2025 02:10:13.915] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
-[11Jun2025 02:10:14.759] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
-[11Jun2025 02:29:28.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[11Jun2025 02:29:28.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
-[11Jun2025 02:31:36.673] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
-[11Jun2025 02:34:45.942] [Worker-Main-16/INFO] [ModernFix/]: Instantiating Mojang DFU
-[11Jun2025 02:34:48.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2906ms or 58 ticks behind
-[11Jun2025 02:37:10.031] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1021, y=46, z=-1346} BlockPos{x=-1021, y=37, z=-1346}
-[11Jun2025 02:38:03.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Eye Spy]
-[11Jun2025 02:38:12.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [Eye Spy]
-[11Jun2025 02:49:57.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> -.-
-[11Jun2025 02:52:16.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
-[11Jun2025 02:52:22.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to sasuke6525]
-[11Jun2025 03:02:41.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
-[11Jun2025 03:03:07.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
-[11Jun2025 03:06:11.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
-[11Jun2025 03:06:27.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
-[11Jun2025 03:11:10.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [Safe Haven]
-[11Jun2025 03:12:51.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has made the advancement [Eye Spy]
-[11Jun2025 03:12:56.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [Eye Spy]
-[11Jun2025 03:14:05.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [The End?]
-[11Jun2025 03:14:08.545] [Server thread/INFO] [betterendisland/]: Scanning for legacy world dragon fight...
-[11Jun2025 03:14:08.576] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
-[11Jun2025 03:14:09.224] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
-[11Jun2025 03:14:09.225] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
-[11Jun2025 03:14:09.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has made the advancement [The End?]
-[11Jun2025 03:14:10.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3514ms or 70 ticks behind
-[11Jun2025 03:14:10.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved too quickly! 1146.1439148800955,67.32352912385574,1278.3559385340964
-[11Jun2025 03:14:12.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [The End?]
-[11Jun2025 03:14:13.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [The End?]
-[11Jun2025 03:15:02.401] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
-[11Jun2025 03:15:02.401] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
-[11Jun2025 03:15:32.562] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
-[11Jun2025 03:16:30.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
-[11Jun2025 03:16:43.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has reached the goal [You Need a Mint]
-[11Jun2025 03:16:50.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
-[11Jun2025 03:19:19.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has reached the goal [You Need a Mint]
-[11Jun2025 03:22:01.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has reached the goal [You Need a Mint]
-[11Jun2025 03:23:30.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 was kicked for floating too long!
-[11Jun2025 03:23:30.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 lost connection: Flying is not enabled on this server
-[11Jun2025 03:23:30.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
-[11Jun2025 03:23:30.458] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
-[11Jun2025 03:23:30.459] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
-[11Jun2025 03:23:38.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angeltronix7005[/127.195.112.170:55211] logged in with entity id 122198 at (21.975812172535747, 68.50850492566622, 42.310714211957766)
-[11Jun2025 03:23:38.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 joined the game
-[11Jun2025 03:23:38.901] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
-[11Jun2025 03:23:39.012] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
-[11Jun2025 03:24:03.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor was kicked for floating too long!
-[11Jun2025 03:24:03.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Flying is not enabled on this server
-[11Jun2025 03:24:03.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
-[11Jun2025 03:24:03.604] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
-[11Jun2025 03:24:03.605] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
-[11Jun2025 03:24:12.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.173.123.163:40451] logged in with entity id 122234 at (31.13586551943629, 72.3617585340333, 24.69219466135263)
-[11Jun2025 03:24:12.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
-[11Jun2025 03:24:12.802] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
-[11Jun2025 03:24:12.924] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
-[11Jun2025 03:24:42.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sasuke6525 was kicked for floating too long!
-[11Jun2025 03:24:42.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sasuke6525 lost connection: Flying is not enabled on this server
-[11Jun2025 03:24:42.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 left the game
-[11Jun2025 03:24:42.703] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{sasuke6525} || 11dbb811-9911-3e57-9646-85b53ec23ca1
-[11Jun2025 03:24:42.704] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11dbb811-9911-3e57-9646-85b53ec23ca1 was unloaded
-[11Jun2025 03:24:47.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Free the End]
-[11Jun2025 03:24:48.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sasuke6525[/127.43.105.48:37539] logged in with entity id 122273 at (23.86933903285697, 72.3617585340333, 0.03483399861513463)
-[11Jun2025 03:24:48.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 joined the game
-[11Jun2025 03:24:48.496] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{sasuke6525} || 11dbb811-9911-3e57-9646-85b53ec23ca1
-[11Jun2025 03:24:48.608] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11dbb811-9911-3e57-9646-85b53ec23ca1 was loaded
-[11Jun2025 03:25:00.002] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
-[11Jun2025 03:26:03.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sasuke6525 was kicked for floating too long!
-[11Jun2025 03:26:03.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sasuke6525 lost connection: Flying is not enabled on this server
-[11Jun2025 03:26:03.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 left the game
-[11Jun2025 03:26:03.706] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{sasuke6525} || 11dbb811-9911-3e57-9646-85b53ec23ca1
-[11Jun2025 03:26:03.707] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11dbb811-9911-3e57-9646-85b53ec23ca1 was unloaded
-[11Jun2025 03:26:10.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sasuke6525[/127.43.105.48:55761] logged in with entity id 122450 at (55.45501665046386, 20.28733341023827, -77.31880538815659)
-[11Jun2025 03:26:10.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 joined the game
-[11Jun2025 03:26:10.278] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{sasuke6525} || 11dbb811-9911-3e57-9646-85b53ec23ca1
-[11Jun2025 03:26:10.379] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11dbb811-9911-3e57-9646-85b53ec23ca1 was loaded
-[11Jun2025 03:26:13.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
-[11Jun2025 03:26:13.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 fell from a high place
-[11Jun2025 03:26:17.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
-[11Jun2025 03:26:46.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has reached the goal [The Next Generation]
-[11Jun2025 03:27:02.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has reached the goal [The Next Generation]
-[11Jun2025 03:27:07.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has reached the goal [The Next Generation]
-[11Jun2025 03:27:08.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sasuke6525 was kicked for floating too long!
-[11Jun2025 03:27:08.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sasuke6525 lost connection: Flying is not enabled on this server
-[11Jun2025 03:27:08.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 left the game
-[11Jun2025 03:27:08.756] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{sasuke6525} || 11dbb811-9911-3e57-9646-85b53ec23ca1
-[11Jun2025 03:27:08.756] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11dbb811-9911-3e57-9646-85b53ec23ca1 was unloaded
-[11Jun2025 03:27:14.264] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sasuke6525[/127.43.105.48:53045] logged in with entity id 122714 at (50.99601160209383, -85.6853043550486, -76.44597372705032)
-[11Jun2025 03:27:14.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 joined the game
-[11Jun2025 03:27:14.296] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{sasuke6525} || 11dbb811-9911-3e57-9646-85b53ec23ca1
-[11Jun2025 03:27:14.425] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11dbb811-9911-3e57-9646-85b53ec23ca1 was loaded
-[11Jun2025 03:27:14.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sasuke6525 moved too quickly! 0.0,-19.73852980080686,0.0
-[11Jun2025 03:27:15.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
-[11Jun2025 03:27:15.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 fell from a high place
-[11Jun2025 03:27:19.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
-[11Jun2025 03:28:22.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has reached the goal [The Next Generation]
-[11Jun2025 03:29:27.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
-[11Jun2025 03:29:41.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
-[11Jun2025 03:29:48.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
-[11Jun2025 03:30:31.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
-[11Jun2025 03:30:45.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Remote Getaway]
-[11Jun2025 03:30:49.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [Remote Getaway]
-[11Jun2025 03:31:04.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has made the advancement [Remote Getaway]
-[11Jun2025 03:31:08.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [Remote Getaway]
-[11Jun2025 03:32:21.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
-[11Jun2025 03:33:20.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
-[11Jun2025 03:35:36.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [The City at the End of the Game]
-[11Jun2025 03:35:46.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [The City at the End of the Game]
-[11Jun2025 03:35:53.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has made the advancement [The City at the End of the Game]
-[11Jun2025 03:35:56.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [The City at the End of the Game]
-[11Jun2025 03:36:06.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has completed the challenge [Great View From Up Here]
-[11Jun2025 03:43:31.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
-[11Jun2025 03:44:18.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has reached the goal [Sky's the Limit]
-[11Jun2025 03:44:22.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Ferlein]
-[11Jun2025 03:44:27.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has reached the goal [Sky's the Limit]
-[11Jun2025 03:44:37.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
-[11Jun2025 03:44:51.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
-[11Jun2025 03:44:51.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 fell from a high place
-[11Jun2025 03:44:54.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
-[11Jun2025 03:44:59.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
-[11Jun2025 03:45:54.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
-[11Jun2025 03:45:54.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has completed the challenge [Great View From Up Here]
-[11Jun2025 03:46:32.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
-[11Jun2025 03:47:14.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -6.276962361342953,-6.0,-6.334309294776062
-[11Jun2025 03:47:31.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
-[11Jun2025 03:47:32.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! 7.877607992355479,-6.0,-6.524936277672168
-[11Jun2025 03:47:37.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
-[11Jun2025 03:48:10.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
-[11Jun2025 03:48:38.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[11Jun2025 03:48:38.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[11Jun2025 03:48:38.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Server closed
-[11Jun2025 03:48:38.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
-[11Jun2025 03:48:38.735] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
-[11Jun2025 03:48:38.736] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
-[11Jun2025 03:48:38.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sasuke6525 lost connection: Server closed
-[11Jun2025 03:48:38.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 left the game
-[11Jun2025 03:48:38.757] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{sasuke6525} || 11dbb811-9911-3e57-9646-85b53ec23ca1
-[11Jun2025 03:48:38.758] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 11dbb811-9911-3e57-9646-85b53ec23ca1 was unloaded
-[11Jun2025 03:48:38.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[11Jun2025 03:48:39.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[11Jun2025 03:48:39.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[11Jun2025 03:48:39.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[11Jun2025 03:48:44.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11Jun2025 03:48:44.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11Jun2025 03:48:44.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11Jun2025 03:48:44.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[11Jun2025 03:48:45.709] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[11Jun2025 03:49:39.862] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[11Jun2025 03:49:39.867] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[11Jun2025 03:49:40.935] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[11Jun2025 03:49:41.015] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MXS-Fernan/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[11Jun2025 03:49:41.484] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[11Jun2025 03:49:41.486] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11Jun2025 03:49:41.489] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11Jun2025 03:49:41.493] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11Jun2025 03:49:41.851] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[11Jun2025 03:49:41.857] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[11Jun2025 03:49:45.608] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[11Jun2025 03:49:45.735] [main/ERROR] [mixin/]: Mixin config fcl.mixins.json does not specify "minVersion" property
+[11Jun2025 03:49:45.933] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[11Jun2025 03:49:45.935] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[11Jun2025 03:49:45.953] [main/WARN] [mixin/]: Reference map 'limitedchunks.refmap.json' for limitedchunks.mixins.json could not be read. If this is a development environment you can ignore this message
+[11Jun2025 03:49:46.152] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.21.0+mc1.20.1: 88 options available, 1 override(s) found
+[11Jun2025 03:49:46.153] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
+[11Jun2025 03:49:46.153] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[11Jun2025 03:49:46.196] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[11Jun2025 03:49:46.437] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[11Jun2025 03:49:46.597] [main/INFO] [Puzzles Lib/]: Loading 59 mods:
+	- advancednetherite 2.1.3
+	- architectury 9.2.14
+	- betterendisland 1.20-Forge-2.0.6
+	- betterfortresses 1.20-Forge-2.0.6
+	- betterjungletemples 1.20-Forge-2.0.5
+	- betterstrongholds 1.20-Forge-4.0.3
+	- cloth_config 11.1.136
+	- collective 8.1
+	- connectivity 1.20.1-7.1
+	- cupboard 1.20.1-2.7
+	- enchantinginfuser 8.0.3
+	- enemyexpansion 2.3.1
+	- fallingtree 4.3.4
+	- farmersdelight 1.20.1-1.2.7
+	- fastasyncworldsave 1.20.1-2.4
+	- fastsuite 5.1.0
+	- fcl 20.24
+	- ferritecore 6.0.1
+	- forge 47.3.7
+	- fsmm 3.0.9
+	- fsmmshop 2.0.3
+	- geckolib 4.7.1.2
+	- healingcampfire 6.2
+	- jei 15.20.0.106
+	- journeymap 5.10.3
+	- ksyxis 1.3.3
+	- l2complements 2.5.3
+		\-- l2damagetracker 0.4.0
+	- l2library 2.5.1
+		|-- l2itemselector 0.1.9
+		|-- l2screentracker 0.1.4
+		\-- l2tabs 0.3.3
+	- l2weaponry 2.5.0
+	- limitedchunks 1.8
+	- mcwpaintings 1.0.5
+	- memoryleakfix 1.1.5
+	- minecraft 1.20.1
+	- modernfix 5.21.0+mc1.20.1
+	- more_slabs_stairs_and_walls 4.0.0
+	- moregateways 1.1.0
+	- mr_dungeons_andtaverns 3.0.3.f
+	- nerb 0.4.1
+	- oceanic_delight 1.0.3
+	- octolib 0.5.0.1
+	- parcool 3.3.1.0
+	- placebo 8.6.3
+	- puzzleslib 8.1.32
+		|-- mixinextras 0.4.1
+		\-- puzzlesaccessapi 20.1.1
+	- rotten_flesh_to_leather 2.0.0
+	- rusticdelight 1.4.1
+	- skinnedlanterns 1.20.1-1.3.5
+	- smoothchunk 1.20.1-4.1
+	- sophisticatedbackpacks 3.23.11.1222
+	- sophisticatedcore 1.2.42.946
+	- starlight 1.1.2+forge.1cda73c
+	- storagedrawers 12.9.13
+	- villagernames 8.2
+	- yungsapi 1.20-Forge-4.0.6
+[11Jun2025 03:49:46.634] [main/WARN] [mixin/]: Reference map 'itemselector.refmap.json' for l2itemselector.mixins.json could not be read. If this is a development environment you can ignore this message
+[11Jun2025 03:49:46.961] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[11Jun2025 03:49:47.076] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[11Jun2025 03:49:48.840] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[11Jun2025 03:49:48.842] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[11Jun2025 03:49:49.092] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[11Jun2025 03:49:50.384] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (14.36 s after launch)
+[11Jun2025 03:49:50.585] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[11Jun2025 03:49:50.586] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[11Jun2025 03:49:50.742] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[11Jun2025 03:49:50.743] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[11Jun2025 03:49:53.126] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2733 milliseconds
+[11Jun2025 03:49:53.921] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[11Jun2025 03:49:53.924] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[11Jun2025 03:49:53.992] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[11Jun2025 03:49:53.993] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[11Jun2025 03:49:58.016] [modloading-worker-0/INFO] [Collective/]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[11Jun2025 03:49:58.381] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[11Jun2025 03:49:58.381] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[11Jun2025 03:49:58.828] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
+[11Jun2025 03:49:58.829] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
+[11Jun2025 03:49:58.830] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (1 ms)
+[11Jun2025 03:49:58.834] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.1.
+[11Jun2025 03:49:58.861] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[11Jun2025 03:49:59.228] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[11Jun2025 03:49:59.251] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[11Jun2025 03:49:59.327] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[11Jun2025 03:50:00.028] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[11Jun2025 03:50:03.460] [modloading-worker-0/INFO] [com.limitedchunks.LimitedChunks/]: Limited chunkloading initialized
+[11Jun2025 03:50:03.461] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[11Jun2025 03:50:03.611] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[11Jun2025 03:50:03.614] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[11Jun2025 03:50:03.615] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[11Jun2025 03:50:03.618] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[11Jun2025 03:50:03.618] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[11Jun2025 03:50:03.618] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[11Jun2025 03:50:03.618] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[11Jun2025 03:50:03.619] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[11Jun2025 03:50:03.625] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[11Jun2025 03:50:03.625] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[11Jun2025 03:50:03.753] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[11Jun2025 03:50:03.975] [main/INFO] [journeymap/]: Initializing Packet Registries
+[11Jun2025 03:50:04.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
+[11Jun2025 03:50:04.077] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[11Jun2025 03:50:04.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[11Jun2025 03:50:04.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[11Jun2025 03:50:04.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[11Jun2025 03:50:04.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[11Jun2025 03:50:04.558] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[11Jun2025 03:50:04.558] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[11Jun2025 03:50:04.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[11Jun2025 03:50:04.807] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
+[11Jun2025 03:50:04.873] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.3 Target: null
+[11Jun2025 03:50:04.873] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[11Jun2025 03:50:04.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
+[11Jun2025 03:50:04.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[11Jun2025 03:50:05.012] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[11Jun2025 03:50:05.012] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[11Jun2025 03:50:05.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[11Jun2025 03:50:05.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[11Jun2025 03:50:05.041] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
+[11Jun2025 03:50:05.338] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11Jun2025 03:50:05.518] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[11Jun2025 03:50:06.070] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/assets/.mcassetsroot' uses unexpected schema
+[11Jun2025 03:50:06.071] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/data/.mcassetsroot' uses unexpected schema
+[11Jun2025 03:50:09.540] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[11Jun2025 03:50:09.541] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_flutterfly as it is missing following references: #forge:is_magical (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[11Jun2025 03:50:10.501] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/cataclysm_ignis
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'cataclysm:ignitium_ingot'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23208!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23208!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11Jun2025 03:50:10.738] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/cataclysm_ender
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'cataclysm:void_jaw'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23208!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23208!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11Jun2025 03:50:10.752] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23208!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23208!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11Jun2025 03:50:11.750] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/wild_cotton as it's serializer returned null
+[11Jun2025 03:50:11.782] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/wild_bell_peppers as it's serializer returned null
+[11Jun2025 03:50:11.850] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe rusticdelight:brewing/coffee as it's serializer returned null
+[11Jun2025 03:50:11.860] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:netherexp: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
+[11Jun2025 03:50:11.936] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe oceanic_delight:jeed_instant_breath: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
+[11Jun2025 03:50:11.954] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:alexs_hell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
+[11Jun2025 03:50:11.955] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe oceanic_delight:jeed_comfort: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
+[11Jun2025 03:50:11.966] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:born_zombie: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
+[11Jun2025 03:50:11.971] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/coffee as it's serializer returned null
+[11Jun2025 03:50:11.989] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide: com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+[11Jun2025 03:50:12.076] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:cataclysm_ignis: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
+[11Jun2025 03:50:12.080] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:born_skeleton: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
+[11Jun2025 03:50:12.129] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/bell_peppers as it's serializer returned null
+[11Jun2025 03:50:12.135] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:deeperdarker: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
+[11Jun2025 03:50:12.158] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe oceanic_delight:jeed_nourishment: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
+[11Jun2025 03:50:12.164] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:cataclysm_ender: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
+[11Jun2025 03:50:12.183] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/cotton as it's serializer returned null
+[11Jun2025 03:50:12.185] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/wild_coffee as it's serializer returned null
+[11Jun2025 03:50:12.203] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[11Jun2025 03:50:12.204] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[11Jun2025 03:50:12.532] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4289 advancements
+[11Jun2025 03:50:12.539] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[11Jun2025 03:50:12.570] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[11Jun2025 03:50:12.606] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:is_flutterfly
+[11Jun2025 03:50:12.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[11Jun2025 03:50:12.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[11Jun2025 03:50:12.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[11Jun2025 03:50:12.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[11Jun2025 03:50:12.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[11Jun2025 03:50:12.994] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[11Jun2025 03:50:13.130] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11Jun2025 03:50:13.130] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[11Jun2025 03:50:13.131] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11Jun2025 03:50:13.131] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[11Jun2025 03:50:13.155] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[11Jun2025 03:50:13.182] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[11Jun2025 03:50:13.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[11Jun2025 03:50:13.971] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[11Jun2025 03:50:13.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[11Jun2025 03:50:14.187] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 212 ms
+[11Jun2025 03:50:14.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.036s)! For help, type "help"
+[11Jun2025 03:50:14.243] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[11Jun2025 03:50:14.285] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[11Jun2025 03:50:14.286] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+[11Jun2025 03:50:14.287] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: limitedchunks.json
+[11Jun2025 03:50:14.289] [Server thread/WARN] [ModernFix/]: Dedicated server took 38.262 seconds to load
+[11Jun2025 03:50:22.282] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferlein[/127.59.10.170:48525] logged in with entity id 1 at (572.4189486580899, 59.0, -848.582441448232)
+[11Jun2025 03:50:22.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein joined the game
+[11Jun2025 03:50:22.661] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[11Jun2025 03:50:23.464] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was loaded
+[11Jun2025 03:50:41.554] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angeltronix7005[/127.195.112.170:50461] logged in with entity id 88 at (50.51339440918231, 72.0, -72.27772055583874)
+[11Jun2025 03:50:41.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 joined the game
+[11Jun2025 03:50:41.674] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[11Jun2025 03:50:41.963] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
+[11Jun2025 03:51:19.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.173.123.163:48345] logged in with entity id 188 at (1068.831747564871, 57.0, -1438.3305279143901)
+[11Jun2025 03:51:19.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[11Jun2025 03:51:19.603] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[11Jun2025 03:51:19.837] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[11Jun2025 03:52:10.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
+[11Jun2025 03:52:10.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[11Jun2025 03:52:10.359] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[11Jun2025 03:52:10.364] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[11Jun2025 03:52:12.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Disconnected
+[11Jun2025 03:52:12.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
+[11Jun2025 03:52:12.260] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[11Jun2025 03:52:12.263] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
+[11Jun2025 03:52:16.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 lost connection: Disconnected
+[11Jun2025 03:52:16.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
+[11Jun2025 03:52:16.249] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[11Jun2025 03:52:16.251] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[11Jun2025 03:52:19.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Jun2025 03:52:19.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Jun2025 03:52:19.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Jun2025 03:52:19.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Jun2025 03:52:20.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Jun2025 03:52:21.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Jun2025 03:52:21.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Jun2025 03:52:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Jun2025 03:52:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Jun2025 03:52:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Jun2025 03:52:21.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Jun2025 03:52:21.727] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
