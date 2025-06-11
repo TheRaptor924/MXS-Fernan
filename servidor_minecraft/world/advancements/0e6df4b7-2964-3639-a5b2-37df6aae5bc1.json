@@ -8141,9 +8141,27 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_slab": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-11 00:52:35 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_stairs": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-11 00:52:35 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/grass_block_slab": {
     "criteria": {
       "has_grass_block": "2025-06-10 23:40:29 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_blue_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 00:52:07 +0000"
     },
     "done": true
   },
@@ -8165,6 +8183,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_blue_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 00:52:07 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-10 23:52:14 +0000"
@@ -8177,9 +8201,21 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2025-06-11 00:46:38 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-10 23:52:14 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-11 00:46:38 +0000"
     },
     "done": true
   },
@@ -8195,6 +8231,18 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2025-06-11 00:46:38 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_wall": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-11 00:52:35 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/stone_wall": {
     "criteria": {
       "has_stone": "2025-06-10 23:33:03 +0000"
@@ -8204,6 +8252,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-06-11 00:16:39 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-11 00:46:38 +0000"
     },
     "done": true
   },
@@ -8255,9 +8309,33 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-06-11 00:46:38 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_stairs_from_dried_kelp_block_stonecutting": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-11 00:52:35 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_blue_wool_wall": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 00:52:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-06-11 00:02:07 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_slab_from_dried_kelp_block_stonecutting": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-11 00:52:35 +0000"
     },
     "done": true
   },
@@ -8285,15 +8363,39 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_blue_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 00:52:10 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/netherrack_wall": {
     "criteria": {
       "has_netherrack": "2025-06-10 23:52:14 +0000"
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_light_blue_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 00:52:10 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-11 00:46:38 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_stairs_from_smeltingnull": {
     "criteria": {
       "has_stone_brick_stairs": "2025-06-10 23:42:35 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dried_kelp_block_wall_from_dried_kelp_block_stonecutting": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-11 00:52:35 +0000"
     },
     "done": true
   },
@@ -8312,6 +8414,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_slab_from_bone_block_stonecutting": {
     "criteria": {
       "has_bone_block": "2025-06-11 00:28:53 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_blue_wool_wall": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 00:52:07 +0000"
     },
     "done": true
   },

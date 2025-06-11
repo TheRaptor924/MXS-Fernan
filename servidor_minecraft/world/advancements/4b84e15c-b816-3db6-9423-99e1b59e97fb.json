@@ -8569,6 +8569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-06-11 00:49:07 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_stairs": {
     "criteria": {
       "has_bone_block": "2025-06-10 23:17:59 +0000"
@@ -8590,6 +8596,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_stairs": {
     "criteria": {
       "has_cherry_log": "2025-06-11 00:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-06-11 00:49:07 +0000"
     },
     "done": true
   },
