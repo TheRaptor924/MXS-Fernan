@@ -1,24 +1,24 @@
-[11Jun2025 03:49:39.862] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[11Jun2025 03:49:39.867] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[11Jun2025 03:49:40.935] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[11Jun2025 03:49:41.015] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MXS-Fernan/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[11Jun2025 03:49:41.484] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[11Jun2025 03:49:41.486] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[11Jun2025 03:49:41.489] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[11Jun2025 03:49:41.493] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[11Jun2025 03:49:41.851] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[11Jun2025 03:49:41.857] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
-[11Jun2025 03:49:45.608] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[11Jun2025 03:49:45.735] [main/ERROR] [mixin/]: Mixin config fcl.mixins.json does not specify "minVersion" property
-[11Jun2025 03:49:45.933] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[11Jun2025 03:49:45.935] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[11Jun2025 03:49:45.953] [main/WARN] [mixin/]: Reference map 'limitedchunks.refmap.json' for limitedchunks.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jun2025 03:49:46.152] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.21.0+mc1.20.1: 88 options available, 1 override(s) found
-[11Jun2025 03:49:46.153] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
-[11Jun2025 03:49:46.153] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[11Jun2025 03:49:46.196] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[11Jun2025 03:49:46.437] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jun2025 03:49:46.597] [main/INFO] [Puzzles Lib/]: Loading 59 mods:
+[11Jun2025 03:53:45.478] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[11Jun2025 03:53:45.483] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[11Jun2025 03:53:46.112] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[11Jun2025 03:53:46.194] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MXS-Fernan/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[11Jun2025 03:53:46.720] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[11Jun2025 03:53:46.721] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11Jun2025 03:53:46.723] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11Jun2025 03:53:46.726] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11Jun2025 03:53:47.067] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[11Jun2025 03:53:47.069] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[11Jun2025 03:53:50.830] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[11Jun2025 03:53:50.978] [main/ERROR] [mixin/]: Mixin config fcl.mixins.json does not specify "minVersion" property
+[11Jun2025 03:53:51.146] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[11Jun2025 03:53:51.147] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[11Jun2025 03:53:51.169] [main/WARN] [mixin/]: Reference map 'limitedchunks.refmap.json' for limitedchunks.mixins.json could not be read. If this is a development environment you can ignore this message
+[11Jun2025 03:53:51.336] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.21.0+mc1.20.1: 88 options available, 1 override(s) found
+[11Jun2025 03:53:51.338] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
+[11Jun2025 03:53:51.340] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[11Jun2025 03:53:51.365] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[11Jun2025 03:53:51.609] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[11Jun2025 03:53:51.786] [main/INFO] [Puzzles Lib/]: Loading 59 mods:
 	- advancednetherite 2.1.3
 	- architectury 9.2.14
 	- betterendisland 1.20-Forge-2.0.6
@@ -78,74 +78,74 @@
 	- storagedrawers 12.9.13
 	- villagernames 8.2
 	- yungsapi 1.20-Forge-4.0.6
-[11Jun2025 03:49:46.634] [main/WARN] [mixin/]: Reference map 'itemselector.refmap.json' for l2itemselector.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jun2025 03:49:46.961] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[11Jun2025 03:49:47.076] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[11Jun2025 03:49:48.840] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[11Jun2025 03:49:48.842] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[11Jun2025 03:49:49.092] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[11Jun2025 03:49:50.384] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (14.36 s after launch)
-[11Jun2025 03:49:50.585] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[11Jun2025 03:49:50.586] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[11Jun2025 03:49:50.742] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[11Jun2025 03:49:50.743] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[11Jun2025 03:49:53.126] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2733 milliseconds
-[11Jun2025 03:49:53.921] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[11Jun2025 03:49:53.924] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[11Jun2025 03:49:53.992] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[11Jun2025 03:49:53.993] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[11Jun2025 03:49:58.016] [modloading-worker-0/INFO] [Collective/]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
-[11Jun2025 03:49:58.381] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[11Jun2025 03:49:58.381] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[11Jun2025 03:49:58.828] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
-[11Jun2025 03:49:58.829] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
-[11Jun2025 03:49:58.830] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (1 ms)
-[11Jun2025 03:49:58.834] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.1.
-[11Jun2025 03:49:58.861] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[11Jun2025 03:49:59.228] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[11Jun2025 03:49:59.251] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[11Jun2025 03:49:59.327] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[11Jun2025 03:50:00.028] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
-[11Jun2025 03:50:03.460] [modloading-worker-0/INFO] [com.limitedchunks.LimitedChunks/]: Limited chunkloading initialized
-[11Jun2025 03:50:03.461] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
-[11Jun2025 03:50:03.611] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[11Jun2025 03:50:03.614] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
-[11Jun2025 03:50:03.615] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
-[11Jun2025 03:50:03.618] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
-[11Jun2025 03:50:03.618] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
-[11Jun2025 03:50:03.618] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
-[11Jun2025 03:50:03.618] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
-[11Jun2025 03:50:03.619] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
-[11Jun2025 03:50:03.625] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
-[11Jun2025 03:50:03.625] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
-[11Jun2025 03:50:03.753] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[11Jun2025 03:50:03.975] [main/INFO] [journeymap/]: Initializing Packet Registries
-[11Jun2025 03:50:04.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
-[11Jun2025 03:50:04.077] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[11Jun2025 03:50:04.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
-[11Jun2025 03:50:04.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[11Jun2025 03:50:04.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[11Jun2025 03:50:04.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[11Jun2025 03:50:04.558] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[11Jun2025 03:50:04.558] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[11Jun2025 03:50:04.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[11Jun2025 03:50:04.807] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
-[11Jun2025 03:50:04.873] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.3 Target: null
-[11Jun2025 03:50:04.873] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[11Jun2025 03:50:04.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
-[11Jun2025 03:50:04.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[11Jun2025 03:50:05.012] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[11Jun2025 03:50:05.012] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[11Jun2025 03:50:05.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
-[11Jun2025 03:50:05.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
-[11Jun2025 03:50:05.041] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
-[11Jun2025 03:50:05.338] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11Jun2025 03:50:05.518] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[11Jun2025 03:50:06.070] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/assets/.mcassetsroot' uses unexpected schema
-[11Jun2025 03:50:06.071] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/data/.mcassetsroot' uses unexpected schema
-[11Jun2025 03:50:09.540] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
-[11Jun2025 03:50:09.541] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_flutterfly as it is missing following references: #forge:is_magical (from enemyexpansion-2.3.1-forge-1.20.1.jar)
-[11Jun2025 03:50:10.501] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/cataclysm_ignis
+[11Jun2025 03:53:51.821] [main/WARN] [mixin/]: Reference map 'itemselector.refmap.json' for l2itemselector.mixins.json could not be read. If this is a development environment you can ignore this message
+[11Jun2025 03:53:52.094] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[11Jun2025 03:53:52.171] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[11Jun2025 03:53:54.021] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[11Jun2025 03:53:54.023] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[11Jun2025 03:53:54.213] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[11Jun2025 03:53:55.377] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (13.32 s after launch)
+[11Jun2025 03:53:55.706] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[11Jun2025 03:53:55.712] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[11Jun2025 03:53:55.976] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[11Jun2025 03:53:55.978] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[11Jun2025 03:53:57.915] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2531 milliseconds
+[11Jun2025 03:53:58.634] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[11Jun2025 03:53:58.635] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[11Jun2025 03:53:58.700] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[11Jun2025 03:53:58.701] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[11Jun2025 03:54:02.511] [modloading-worker-0/INFO] [Collective/]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[11Jun2025 03:54:02.938] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[11Jun2025 03:54:02.938] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[11Jun2025 03:54:03.352] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
+[11Jun2025 03:54:03.353] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
+[11Jun2025 03:54:03.355] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (2 ms)
+[11Jun2025 03:54:03.361] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.1.
+[11Jun2025 03:54:03.370] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[11Jun2025 03:54:03.729] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[11Jun2025 03:54:03.762] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[11Jun2025 03:54:03.854] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[11Jun2025 03:54:04.421] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[11Jun2025 03:54:07.983] [modloading-worker-0/INFO] [com.limitedchunks.LimitedChunks/]: Limited chunkloading initialized
+[11Jun2025 03:54:07.986] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[11Jun2025 03:54:08.160] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[11Jun2025 03:54:08.163] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[11Jun2025 03:54:08.164] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[11Jun2025 03:54:08.164] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[11Jun2025 03:54:08.164] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[11Jun2025 03:54:08.166] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[11Jun2025 03:54:08.167] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[11Jun2025 03:54:08.167] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[11Jun2025 03:54:08.167] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[11Jun2025 03:54:08.167] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[11Jun2025 03:54:08.239] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[11Jun2025 03:54:08.255] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[11Jun2025 03:54:08.576] [main/INFO] [journeymap/]: Initializing Packet Registries
+[11Jun2025 03:54:08.581] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
+[11Jun2025 03:54:08.997] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[11Jun2025 03:54:08.998] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[11Jun2025 03:54:09.095] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[11Jun2025 03:54:09.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[11Jun2025 03:54:09.107] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[11Jun2025 03:54:09.108] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[11Jun2025 03:54:09.289] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[11Jun2025 03:54:09.290] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
+[11Jun2025 03:54:09.301] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.3 Target: null
+[11Jun2025 03:54:09.301] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[11Jun2025 03:54:09.313] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
+[11Jun2025 03:54:09.314] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[11Jun2025 03:54:09.439] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[11Jun2025 03:54:09.440] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[11Jun2025 03:54:09.456] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[11Jun2025 03:54:09.456] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[11Jun2025 03:54:09.470] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
+[11Jun2025 03:54:10.021] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11Jun2025 03:54:10.213] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[11Jun2025 03:54:10.680] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/assets/.mcassetsroot' uses unexpected schema
+[11Jun2025 03:54:10.681] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MXS-Fernan/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/data/.mcassetsroot' uses unexpected schema
+[11Jun2025 03:54:13.954] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[11Jun2025 03:54:13.956] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_flutterfly as it is missing following references: #forge:is_magical (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[11Jun2025 03:54:15.310] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/cataclysm_ignis
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'cataclysm:ignitium_ingot'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -197,7 +197,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[11Jun2025 03:50:10.738] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/cataclysm_ender
+[11Jun2025 03:54:15.491] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/cataclysm_ender
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'cataclysm:void_jaw'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -249,7 +249,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[11Jun2025 03:50:10.752] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
+[11Jun2025 03:54:15.505] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -301,26 +301,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[11Jun2025 03:50:11.750] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/wild_cotton as it's serializer returned null
-[11Jun2025 03:50:11.782] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/wild_bell_peppers as it's serializer returned null
-[11Jun2025 03:50:11.850] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe rusticdelight:brewing/coffee as it's serializer returned null
-[11Jun2025 03:50:11.860] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:netherexp: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
-[11Jun2025 03:50:11.936] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe oceanic_delight:jeed_instant_breath: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
-[11Jun2025 03:50:11.954] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:alexs_hell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
-[11Jun2025 03:50:11.955] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe oceanic_delight:jeed_comfort: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
-[11Jun2025 03:50:11.966] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:born_zombie: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
-[11Jun2025 03:50:11.971] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/coffee as it's serializer returned null
-[11Jun2025 03:50:11.989] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide: com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
-[11Jun2025 03:50:12.076] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:cataclysm_ignis: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
-[11Jun2025 03:50:12.080] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:born_skeleton: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
-[11Jun2025 03:50:12.129] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/bell_peppers as it's serializer returned null
-[11Jun2025 03:50:12.135] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:deeperdarker: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
-[11Jun2025 03:50:12.158] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe oceanic_delight:jeed_nourishment: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
-[11Jun2025 03:50:12.164] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:cataclysm_ender: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
-[11Jun2025 03:50:12.183] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/cotton as it's serializer returned null
-[11Jun2025 03:50:12.185] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/wild_coffee as it's serializer returned null
-[11Jun2025 03:50:12.203] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[11Jun2025 03:50:12.204] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
+[11Jun2025 03:54:16.589] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/wild_cotton as it's serializer returned null
+[11Jun2025 03:54:16.610] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/wild_bell_peppers as it's serializer returned null
+[11Jun2025 03:54:16.640] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe rusticdelight:brewing/coffee as it's serializer returned null
+[11Jun2025 03:54:16.651] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:netherexp: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
+[11Jun2025 03:54:16.717] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe oceanic_delight:jeed_instant_breath: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
+[11Jun2025 03:54:16.737] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:alexs_hell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
+[11Jun2025 03:54:16.738] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe oceanic_delight:jeed_comfort: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
+[11Jun2025 03:54:16.748] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:born_zombie: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
+[11Jun2025 03:54:16.761] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/coffee as it's serializer returned null
+[11Jun2025 03:54:16.777] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide: com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+[11Jun2025 03:54:16.850] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:cataclysm_ignis: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
+[11Jun2025 03:54:16.856] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:born_skeleton: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
+[11Jun2025 03:54:16.902] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/bell_peppers as it's serializer returned null
+[11Jun2025 03:54:16.905] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:deeperdarker: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
+[11Jun2025 03:54:16.925] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe oceanic_delight:jeed_nourishment: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
+[11Jun2025 03:54:16.929] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe gateways:cataclysm_ender: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'gateways:gate_recipe'
+[11Jun2025 03:54:16.956] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/cotton as it's serializer returned null
+[11Jun2025 03:54:16.961] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe botanypots:rusticdelight/crop/wild_coffee as it's serializer returned null
+[11Jun2025 03:54:16.976] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[11Jun2025 03:54:16.977] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -336,65 +336,87 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[11Jun2025 03:50:12.532] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4289 advancements
-[11Jun2025 03:50:12.539] [main/INFO] [placebo/]: Registered 0 additional recipes.
-[11Jun2025 03:50:12.570] [main/INFO] [placebo/]: Registered 0 gear_sets.
-[11Jun2025 03:50:12.606] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:is_flutterfly
-[11Jun2025 03:50:12.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[11Jun2025 03:50:12.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[11Jun2025 03:50:12.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[11Jun2025 03:50:12.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[11Jun2025 03:50:12.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[11Jun2025 03:50:12.994] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[11Jun2025 03:50:13.130] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11Jun2025 03:50:13.130] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[11Jun2025 03:50:13.131] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11Jun2025 03:50:13.131] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[11Jun2025 03:50:13.155] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[11Jun2025 03:50:13.182] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
-[11Jun2025 03:50:13.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[11Jun2025 03:50:13.971] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
-[11Jun2025 03:50:13.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[11Jun2025 03:50:14.187] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 212 ms
-[11Jun2025 03:50:14.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.036s)! For help, type "help"
-[11Jun2025 03:50:14.243] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[11Jun2025 03:50:14.285] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
-[11Jun2025 03:50:14.286] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
-[11Jun2025 03:50:14.287] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: limitedchunks.json
-[11Jun2025 03:50:14.289] [Server thread/WARN] [ModernFix/]: Dedicated server took 38.262 seconds to load
-[11Jun2025 03:50:22.282] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferlein[/127.59.10.170:48525] logged in with entity id 1 at (572.4189486580899, 59.0, -848.582441448232)
-[11Jun2025 03:50:22.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein joined the game
-[11Jun2025 03:50:22.661] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
-[11Jun2025 03:50:23.464] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was loaded
-[11Jun2025 03:50:41.554] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angeltronix7005[/127.195.112.170:50461] logged in with entity id 88 at (50.51339440918231, 72.0, -72.27772055583874)
-[11Jun2025 03:50:41.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 joined the game
-[11Jun2025 03:50:41.674] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
-[11Jun2025 03:50:41.963] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
-[11Jun2025 03:51:19.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.173.123.163:48345] logged in with entity id 188 at (1068.831747564871, 57.0, -1438.3305279143901)
-[11Jun2025 03:51:19.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
-[11Jun2025 03:51:19.603] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
-[11Jun2025 03:51:19.837] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
-[11Jun2025 03:52:10.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
-[11Jun2025 03:52:10.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
-[11Jun2025 03:52:10.359] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
-[11Jun2025 03:52:10.364] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
-[11Jun2025 03:52:12.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Disconnected
-[11Jun2025 03:52:12.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
-[11Jun2025 03:52:12.260] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
-[11Jun2025 03:52:12.263] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
-[11Jun2025 03:52:16.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 lost connection: Disconnected
-[11Jun2025 03:52:16.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
-[11Jun2025 03:52:16.249] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
-[11Jun2025 03:52:16.251] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
-[11Jun2025 03:52:19.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[11Jun2025 03:52:19.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[11Jun2025 03:52:19.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[11Jun2025 03:52:19.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[11Jun2025 03:52:20.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[11Jun2025 03:52:21.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[11Jun2025 03:52:21.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[11Jun2025 03:52:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11Jun2025 03:52:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11Jun2025 03:52:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11Jun2025 03:52:21.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[11Jun2025 03:52:21.727] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[11Jun2025 03:54:17.339] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4289 advancements
+[11Jun2025 03:54:17.345] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[11Jun2025 03:54:17.382] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[11Jun2025 03:54:17.397] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:is_flutterfly
+[11Jun2025 03:54:17.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[11Jun2025 03:54:17.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[11Jun2025 03:54:17.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[11Jun2025 03:54:17.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[11Jun2025 03:54:17.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[11Jun2025 03:54:18.013] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[11Jun2025 03:54:18.189] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11Jun2025 03:54:18.190] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[11Jun2025 03:54:18.191] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11Jun2025 03:54:18.191] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[11Jun2025 03:54:18.209] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[11Jun2025 03:54:18.239] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[11Jun2025 03:54:18.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[11Jun2025 03:54:18.963] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[11Jun2025 03:54:18.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[11Jun2025 03:54:19.141] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 177 ms
+[11Jun2025 03:54:19.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (0.935s)! For help, type "help"
+[11Jun2025 03:54:19.180] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[11Jun2025 03:54:19.289] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[11Jun2025 03:54:19.290] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+[11Jun2025 03:54:19.291] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: limitedchunks.json
+[11Jun2025 03:54:19.294] [Server thread/WARN] [ModernFix/]: Dedicated server took 37.237 seconds to load
+[11Jun2025 03:54:29.954] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angeltronix7005[/127.195.112.170:50973] logged in with entity id 1 at (-257.5094141759481, 74.0, -296.5940262759419)
+[11Jun2025 03:54:30.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 joined the game
+[11Jun2025 03:54:30.324] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[11Jun2025 03:54:31.630] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
+[11Jun2025 03:54:40.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferlein[/127.59.10.170:34631] logged in with entity id 183 at (517.9784967229466, 59.0, -992.5552869886205)
+[11Jun2025 03:54:40.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein joined the game
+[11Jun2025 03:54:40.750] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[11Jun2025 03:54:41.058] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was loaded
+[11Jun2025 03:54:58.073] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.173.123.163:58651] logged in with entity id 419 at (1068.831747564871, 57.0, -1438.3305279143901)
+[11Jun2025 03:54:58.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[11Jun2025 03:54:58.127] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[11Jun2025 03:54:58.328] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[11Jun2025 03:56:00.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Ferlein]
+[11Jun2025 04:00:59.387] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.534 ms. 2566/2624 recipes are parallelized.
+[11Jun2025 04:02:30.612] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[11Jun2025 04:02:30.683] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[11Jun2025 04:03:48.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -10.027005306306137,-0.7012968536522166,-1.005529983880706
+[11Jun2025 04:07:49.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein fell out of the world
+[11Jun2025 04:08:04.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[11Jun2025 04:08:19.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[11Jun2025 04:13:33.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[11Jun2025 04:14:18.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[11Jun2025 04:14:52.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[11Jun2025 04:15:00.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[11Jun2025 04:16:56.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to JustRaptor]
+[11Jun2025 04:18:23.334] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[11Jun2025 04:18:23.393] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[11Jun2025 04:22:15.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set the time to 1000]
+[11Jun2025 04:22:51.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
+[11Jun2025 04:23:02.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has reached the goal [Sky's the Limit]
+[11Jun2025 04:25:07.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
+[11Jun2025 04:32:17.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-349, y=51, z=-201} BlockPos{x=-349, y=52, z=-201}
+[11Jun2025 04:41:12.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Disconnected
+[11Jun2025 04:41:12.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
+[11Jun2025 04:41:12.507] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[11Jun2025 04:41:12.508] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
+[11Jun2025 04:41:40.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 lost connection: Disconnected
+[11Jun2025 04:41:40.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
+[11Jun2025 04:41:40.006] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[11Jun2025 04:41:40.008] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[11Jun2025 04:41:43.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
+[11Jun2025 04:41:43.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[11Jun2025 04:41:43.560] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[11Jun2025 04:41:43.562] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[11Jun2025 04:42:05.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Jun2025 04:42:05.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[11Jun2025 04:42:09.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Jun2025 04:42:09.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Jun2025 04:42:09.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Jun2025 04:42:09.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Jun2025 04:42:09.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Jun2025 04:42:09.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Jun2025 04:42:09.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Jun2025 04:42:09.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Jun2025 04:42:09.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Jun2025 04:42:09.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Jun2025 04:42:09.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Jun2025 04:42:09.919] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

@@ -1333,6 +1333,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-12 02:46:22 +0000",
+      "sweet_berries": "2025-06-11 04:05:39 +0000",
       "cooked_beef": "2025-04-16 15:16:47 +0000",
       "baked_potato": "2025-04-28 02:57:43 +0000",
       "potato": "2025-05-30 17:16:08 +0000",
@@ -7701,6 +7702,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/obsidian_stairs_from_obsidian_stonecutting": {
     "criteria": {
       "has_obsidian": "2025-06-11 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-06-11 04:23:02 +0000"
     },
     "done": true
   },
