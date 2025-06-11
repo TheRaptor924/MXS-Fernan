@@ -7234,9 +7234,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_planks_wall_from_oak_planks_stonecutting": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_stairs_from_smeltingnull": {
     "criteria": {
-      "has_oak_planks": "2025-06-10 23:11:24 +0000"
+      "has_stone_brick_stairs": "2025-06-10 22:29:36 +0000"
     },
     "done": true
   },
@@ -7246,33 +7246,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_wall": {
-    "criteria": {
-      "has_diamond_block": "2025-06-10 23:31:57 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_slab": {
-    "criteria": {
-      "has_iron_block": "2025-06-10 23:46:18 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_wall": {
     "criteria": {
       "has_oak_log": "2025-06-10 23:11:19 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_slab": {
-    "criteria": {
-      "has_diamond_block": "2025-06-10 23:31:57 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_stairs_from_iron_block_stonecutting": {
-    "criteria": {
-      "has_iron_block": "2025-06-10 23:46:18 +0000"
     },
     "done": true
   },
@@ -7282,39 +7258,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_wall": {
-    "criteria": {
-      "has_iron_block": "2025-06-10 23:46:18 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_stairs": {
-    "criteria": {
-      "has_iron_block": "2025-06-10 23:46:18 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_stairs_from_oak_log_stonecutting": {
     "criteria": {
       "has_oak_log": "2025-06-10 23:11:19 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_slab_from_iron_block_stonecutting": {
-    "criteria": {
-      "has_iron_block": "2025-06-10 23:46:18 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_stairs_from_diamond_block_stonecutting": {
-    "criteria": {
-      "has_diamond_block": "2025-06-10 23:31:57 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_stairs": {
-    "criteria": {
-      "has_diamond_block": "2025-06-10 23:31:57 +0000"
     },
     "done": true
   },
@@ -7330,9 +7276,33 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_wall_from_iron_block_stonecutting": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_planks_wall_from_oak_planks_stonecutting": {
     "criteria": {
-      "has_iron_block": "2025-06-10 23:46:18 +0000"
+      "has_oak_planks": "2025-06-10 23:11:24 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_wall": {
+    "criteria": {
+      "has_diamond_block": "2025-06-10 23:31:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_slab": {
+    "criteria": {
+      "has_diamond_block": "2025-06-10 23:31:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_stairs_from_diamond_block_stonecutting": {
+    "criteria": {
+      "has_diamond_block": "2025-06-10 23:31:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_stairs": {
+    "criteria": {
+      "has_diamond_block": "2025-06-10 23:31:57 +0000"
     },
     "done": true
   },
@@ -7342,15 +7312,51 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_stairs_from_smeltingnull": {
-    "criteria": {
-      "has_stone_brick_stairs": "2025-06-10 22:29:36 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_wall_from_diamond_block_stonecutting": {
     "criteria": {
       "has_diamond_block": "2025-06-10 23:31:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_slab": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:46:18 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_stairs_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:46:18 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_wall": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:46:18 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_stairs": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:46:18 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_slab_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:46:18 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_wall_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 23:46:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-11 00:17:41 +0000"
     },
     "done": true
   },

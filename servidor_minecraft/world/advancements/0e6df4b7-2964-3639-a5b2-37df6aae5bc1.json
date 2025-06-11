@@ -8152,6 +8152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-11 00:16:39 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/netherrack_slab": {
     "criteria": {
       "has_netherrack": "2025-06-10 23:52:14 +0000"
@@ -8203,6 +8209,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_stairs_from_smeltingnull": {
     "criteria": {
       "has_stone_brick_stairs": "2025-06-10 23:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-11 00:16:39 +0000"
     },
     "done": true
   },
