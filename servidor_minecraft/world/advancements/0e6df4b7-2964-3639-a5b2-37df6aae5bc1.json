@@ -883,6 +883,7 @@
       "minecraft:zombified_piglin": "2025-06-11 00:29:50 +0000",
       "minecraft:witch": "2025-04-20 03:39:57 +0000",
       "minecraft:wither_skeleton": "2025-06-11 00:02:26 +0000",
+      "minecraft:shulker": "2025-06-11 03:35:51 +0000",
       "minecraft:cave_spider": "2025-06-09 05:22:25 +0000",
       "minecraft:piglin": "2025-04-20 03:55:36 +0000",
       "minecraft:enderman": "2025-04-16 17:10:39 +0000",
@@ -8831,6 +8832,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-06-11 03:44:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-06-11 02:23:33 +0000"
@@ -8954,6 +8961,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_slab": {
     "criteria": {
       "has_gold_block": "2025-06-11 02:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-06-11 03:35:46 +0000"
     },
     "done": true
   },

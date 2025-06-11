@@ -7956,3 +7956,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jun2025 03:35:53.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has made the advancement [The City at the End of the Game]
 [11Jun2025 03:35:56.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 has made the advancement [The City at the End of the Game]
 [11Jun2025 03:36:06.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has completed the challenge [Great View From Up Here]
+[11Jun2025 03:39:37.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 03:39:37.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 03:43:31.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
+[11Jun2025 03:44:18.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has reached the goal [Sky's the Limit]
+[11Jun2025 03:44:22.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Ferlein]
+[11Jun2025 03:44:27.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has reached the goal [Sky's the Limit]
+[11Jun2025 03:44:37.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 03:44:37.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 03:44:37.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to sasuke6525]
+[11Jun2025 03:44:51.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
+[11Jun2025 03:44:51.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sasuke6525 fell from a high place
+[11Jun2025 03:44:54.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
+[11Jun2025 03:44:59.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported sasuke6525 to Angeltronix7005]
+[11Jun2025 03:45:54.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
+[11Jun2025 03:45:54.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has completed the challenge [Great View From Up Here]
+[11Jun2025 03:46:32.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]

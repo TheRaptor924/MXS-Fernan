@@ -1497,6 +1497,7 @@
       "minecraft:witch": "2025-04-19 05:07:43 +0000",
       "minecraft:wither_skeleton": "2025-05-10 01:00:59 +0000",
       "minecraft:ender_dragon": "2025-06-11 03:24:47 +0000",
+      "minecraft:shulker": "2025-06-11 03:36:15 +0000",
       "minecraft:cave_spider": "2025-05-30 18:08:50 +0000",
       "minecraft:piglin": "2025-04-20 03:59:39 +0000",
       "minecraft:silverfish": "2025-04-16 04:25:07 +0000",
@@ -8997,9 +8998,33 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-06-11 03:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-06-11 03:39:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/kill_dragon": {
     "criteria": {
       "killed_dragon": "2025-06-11 03:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-06-11 03:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-06-11 03:35:36 +0000"
     },
     "done": true
   },
