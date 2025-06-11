@@ -880,6 +880,7 @@
       "minecraft:slime": "2025-04-29 03:54:54 +0000",
       "minecraft:evoker": "2025-06-08 04:53:21 +0000",
       "minecraft:phantom": "2025-04-28 03:45:13 +0000",
+      "minecraft:zombified_piglin": "2025-06-11 00:29:50 +0000",
       "minecraft:witch": "2025-04-20 03:39:57 +0000",
       "minecraft:wither_skeleton": "2025-06-11 00:02:26 +0000",
       "minecraft:cave_spider": "2025-06-09 05:22:25 +0000",
@@ -8098,6 +8099,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_wall": {
+    "criteria": {
+      "has_bone_block": "2025-06-11 00:28:53 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/grass_block_wall_from_grass_block_stonecutting": {
     "criteria": {
       "has_grass_block": "2025-06-10 23:40:29 +0000"
@@ -8113,6 +8120,18 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/grass_block_slab": {
     "criteria": {
       "has_grass_block": "2025-06-10 23:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-11 00:28:53 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_stairs_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-06-11 00:28:53 +0000"
     },
     "done": true
   },
@@ -8140,6 +8159,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_wall_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-06-11 00:28:53 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/grass_block_wall": {
     "criteria": {
       "has_grass_block": "2025-06-10 23:40:29 +0000"
@@ -8161,6 +8186,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/netherrack_slab": {
     "criteria": {
       "has_netherrack": "2025-06-10 23:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-11 00:30:10 +0000"
     },
     "done": true
   },
@@ -8212,15 +8243,33 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_stairs": {
+    "criteria": {
+      "has_bone_block": "2025-06-11 00:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-06-11 00:16:39 +0000"
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_slab_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-06-11 00:28:53 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/grass_block_stairs_from_grass_block_stonecutting": {
     "criteria": {
       "has_grass_block": "2025-06-10 23:40:29 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_slab": {
+    "criteria": {
+      "has_bone_block": "2025-06-11 00:28:53 +0000"
     },
     "done": true
   },

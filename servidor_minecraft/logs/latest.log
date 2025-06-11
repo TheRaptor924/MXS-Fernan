@@ -15,3 +15,8 @@
 [11Jun2025 00:16:03.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to JustRaptor]
 [11Jun2025 00:16:14.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
 [11Jun2025 00:23:39.828] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/41004, l='ServerLevel[world]', x=-1323.00, y=31.00, z=-830.00] as it would cause deadlock
+[11Jun2025 00:31:02.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Ferlein]
+[11Jun2025 00:31:19.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
+[11Jun2025 00:31:55.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :v
+[11Jun2025 00:32:15.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> nada que hacer :v
+[11Jun2025 00:32:33.773] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/44919, l='ServerLevel[world]', x=-1405.00, y=31.00, z=-542.00] as it would cause deadlock

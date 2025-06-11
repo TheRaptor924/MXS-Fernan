@@ -8209,15 +8209,45 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glowstone_stairs_from_glowstone_stonecutting": {
+    "criteria": {
+      "has_glowstone": "2025-06-11 00:26:37 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_planks_wall_from_cherry_planks_stonecutting": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-11 00:25:53 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/mud_wall": {
+    "criteria": {
+      "has_mud": "2025-06-11 00:27:46 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_wall": {
     "criteria": {
       "has_gold_block": "2025-06-11 00:16:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-06-11 00:27:46 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_polished_blackstone_bricks_wall_from_cracked_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_cracked_polished_blackstone_bricks": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_soil_wall_from_soul_soil_stonecutting": {
+    "criteria": {
+      "has_soul_soil": "2025-06-11 00:25:51 +0000"
     },
     "done": true
   },
@@ -8233,6 +8263,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_slab_from_cherry_log_stonecutting": {
+    "criteria": {
+      "has_cherry_log": "2025-06-11 00:25:53 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_wall_from_gold_block_stonecutting": {
     "criteria": {
       "has_gold_block": "2025-06-11 00:16:58 +0000"
@@ -8245,6 +8281,18 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/mud_wall_from_mud_stonecutting": {
+    "criteria": {
+      "has_mud": "2025-06-11 00:27:46 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_soil_slab_from_soul_soil_stonecutting": {
+    "criteria": {
+      "has_soul_soil": "2025-06-11 00:25:51 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_stairs_from_iron_block_stonecutting": {
     "criteria": {
       "has_iron_block": "2025-06-10 23:17:59 +0000"
@@ -8254,6 +8302,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_wall_from_cherry_log_stonecutting": {
+    "criteria": {
+      "has_cherry_log": "2025-06-11 00:25:53 +0000"
     },
     "done": true
   },
@@ -8287,6 +8341,18 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glowstone_wall": {
+    "criteria": {
+      "has_glowstone": "2025-06-11 00:26:37 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glowstone_wall_from_glowstone_stonecutting": {
+    "criteria": {
+      "has_glowstone": "2025-06-11 00:26:37 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/iron_block_stairs": {
     "criteria": {
       "has_iron_block": "2025-06-10 23:17:59 +0000"
@@ -8311,6 +8377,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/mud_stairs_from_mud_stonecutting": {
+    "criteria": {
+      "has_mud": "2025-06-11 00:27:46 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/netherrack_slab": {
     "criteria": {
       "has_netherrack": "2025-06-10 23:17:59 +0000"
@@ -8329,15 +8401,45 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/mud_slab_from_mud_stonecutting": {
+    "criteria": {
+      "has_mud": "2025-06-11 00:27:46 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/gilded_blackstone_stairs": {
     "criteria": {
       "has_gilded_blackstone": "2025-06-10 23:17:59 +0000"
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_slab": {
+    "criteria": {
+      "has_cherry_log": "2025-06-11 00:25:53 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/mud_stairs": {
+    "criteria": {
+      "has_mud": "2025-06-11 00:27:46 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/mud_slab": {
+    "criteria": {
+      "has_mud": "2025-06-11 00:27:46 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/crying_obsidian_wall": {
     "criteria": {
       "has_crying_obsidian": "2025-06-10 23:51:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glowstone_slab": {
+    "criteria": {
+      "has_glowstone": "2025-06-11 00:26:37 +0000"
     },
     "done": true
   },
@@ -8359,6 +8461,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glowstone_stairs": {
+    "criteria": {
+      "has_glowstone": "2025-06-11 00:26:37 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/gilded_blackstone_wall": {
     "criteria": {
       "has_gilded_blackstone": "2025-06-10 23:17:59 +0000"
@@ -8371,15 +8479,51 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_soil_wall": {
+    "criteria": {
+      "has_soul_soil": "2025-06-11 00:25:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_soil_stairs_from_soul_soil_stonecutting": {
+    "criteria": {
+      "has_soul_soil": "2025-06-11 00:25:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glowstone_slab_from_glowstone_stonecutting": {
+    "criteria": {
+      "has_glowstone": "2025-06-11 00:26:37 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_soil_slab": {
+    "criteria": {
+      "has_soul_soil": "2025-06-11 00:25:51 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_polished_blackstone_bricks_slab_from_cracked_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_cracked_polished_blackstone_bricks": "2025-06-10 23:17:59 +0000"
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_wall": {
+    "criteria": {
+      "has_cherry_log": "2025-06-11 00:25:53 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/crying_obsidian_wall_from_crying_obsidian_stonecutting": {
     "criteria": {
       "has_crying_obsidian": "2025-06-10 23:51:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_stairs_from_cherry_log_stonecutting": {
+    "criteria": {
+      "has_cherry_log": "2025-06-11 00:25:53 +0000"
     },
     "done": true
   },
@@ -8434,6 +8578,18 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_slab_from_bone_block_stonecutting": {
     "criteria": {
       "has_bone_block": "2025-06-10 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_soil_stairs": {
+    "criteria": {
+      "has_soul_soil": "2025-06-11 00:25:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_stairs": {
+    "criteria": {
+      "has_cherry_log": "2025-06-11 00:25:53 +0000"
     },
     "done": true
   },
