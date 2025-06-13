@@ -7795,6 +7795,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_planks_wall": {
+    "criteria": {
+      "has_spruce_fence": "2025-06-13 04:42:44 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_slab_from_birch_log_stonecutting": {
     "criteria": {
       "has_birch_log": "2025-06-13 04:30:58 +0000"
@@ -7804,6 +7810,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_log_wall_from_spruce_log_stonecutting": {
     "criteria": {
       "has_spruce_log": "2025-06-13 04:30:48 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_planks_wall_from_spruce_planks_stonecutting": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-13 04:40:05 +0000"
     },
     "done": true
   },
