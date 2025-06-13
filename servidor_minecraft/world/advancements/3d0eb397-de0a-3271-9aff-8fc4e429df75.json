@@ -7711,9 +7711,45 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/grass_block_wall_from_grass_block_stonecutting": {
+    "criteria": {
+      "has_grass_block": "2025-06-13 03:50:01 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/grass_block_slab": {
+    "criteria": {
+      "has_grass_block": "2025-06-13 03:50:01 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/grass_block_wall": {
+    "criteria": {
+      "has_grass_block": "2025-06-13 03:50:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-06-13 03:35:13 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/grass_block_slab_from_grass_block_stonecutting": {
+    "criteria": {
+      "has_grass_block": "2025-06-13 03:50:01 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/grass_block_stairs": {
+    "criteria": {
+      "has_grass_block": "2025-06-13 03:50:01 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/grass_block_stairs_from_grass_block_stonecutting": {
+    "criteria": {
+      "has_grass_block": "2025-06-13 03:50:01 +0000"
     },
     "done": true
   },
