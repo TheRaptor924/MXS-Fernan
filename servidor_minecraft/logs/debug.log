@@ -4701,3 +4701,44 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 03:36:23.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> no supiste que la nube se fue a la vrg?
 [13Jun2025 03:36:39.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> yo las veo normales
 [13Jun2025 03:38:23.371] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.974 ms. 2566/2624 recipes are parallelized.
+[13Jun2025 03:40:00.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 03:40:00.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 03:45:00.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 03:45:00.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 03:46:04.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
+[13Jun2025 03:46:45.212] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[13Jun2025 03:46:45.373] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[13Jun2025 03:46:45.394] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[13Jun2025 03:46:45.405] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[13Jun2025 03:46:45.414] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[13Jun2025 03:46:45.423] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[13Jun2025 03:46:45.432] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[13Jun2025 03:46:45.529] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[13Jun2025 03:46:45.613] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_ring_1
+[13Jun2025 03:46:45.645] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_starting_room
+[13Jun2025 03:46:45.675] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_crossroad_1
+[13Jun2025 03:46:45.725] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_crossroad_big
+[13Jun2025 03:46:45.729] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_curve_small
+[13Jun2025 03:46:45.739] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_straight_big
+[13Jun2025 03:46:45.748] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_t_curve_big
+[13Jun2025 03:46:45.752] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_crossroad_small
+[13Jun2025 03:46:45.758] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_t_curve_small
+[13Jun2025 03:46:45.767] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_curve_big
+[13Jun2025 03:46:45.771] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/fallback/conduit_ruin_room_fail
+[13Jun2025 03:46:45.791] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_straight_1
+[13Jun2025 03:46:45.795] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_2
+[13Jun2025 03:46:45.797] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_3
+[13Jun2025 03:46:45.800] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_1
+[13Jun2025 03:46:45.804] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_straight_2
+[13Jun2025 03:46:45.807] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/fallback/conduit_ruin_road_fail
+[13Jun2025 03:46:45.821] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[13Jun2025 03:46:45.925] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[13Jun2025 03:46:46.035] [Worker-Main-4/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[13Jun2025 03:46:46.039] [Worker-Main-4/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[13Jun2025 03:46:46.040] [Worker-Main-4/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jun2025 03:46:46.040] [Worker-Main-4/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jun2025 03:46:46.040] [Worker-Main-4/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jun2025 03:46:46.040] [Worker-Main-4/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jun2025 03:46:46.040] [Worker-Main-4/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[13Jun2025 03:46:47.052] [Worker-Main-4/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[13Jun2025 03:46:47.057] [Worker-Main-4/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier

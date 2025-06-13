@@ -382,3 +382,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 03:36:23.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> no supiste que la nube se fue a la vrg?
 [13Jun2025 03:36:39.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> yo las veo normales
 [13Jun2025 03:38:23.371] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.974 ms. 2566/2624 recipes are parallelized.
+[13Jun2025 03:46:04.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
+[13Jun2025 03:46:45.821] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[13Jun2025 03:46:45.925] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
