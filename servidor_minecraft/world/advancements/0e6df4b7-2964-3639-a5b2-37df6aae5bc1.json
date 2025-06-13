@@ -9199,5 +9199,89 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_stairs_from_birch_log_stonecutting": {
+    "criteria": {
+      "has_birch_log": "2025-06-13 04:13:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-13 04:13:39 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_stairs": {
+    "criteria": {
+      "has_oak_log": "2025-06-13 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_wall": {
+    "criteria": {
+      "has_oak_log": "2025-06-13 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_wall_from_birch_log_stonecutting": {
+    "criteria": {
+      "has_birch_log": "2025-06-13 04:13:39 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_stairs": {
+    "criteria": {
+      "has_birch_log": "2025-06-13 04:13:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-13 04:13:39 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_wall": {
+    "criteria": {
+      "has_birch_log": "2025-06-13 04:13:39 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_slab": {
+    "criteria": {
+      "has_oak_log": "2025-06-13 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_stairs_from_oak_log_stonecutting": {
+    "criteria": {
+      "has_oak_log": "2025-06-13 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_slab_from_birch_log_stonecutting": {
+    "criteria": {
+      "has_birch_log": "2025-06-13 04:13:39 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_slab_from_oak_log_stonecutting": {
+    "criteria": {
+      "has_oak_log": "2025-06-13 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_wall_from_oak_log_stonecutting": {
+    "criteria": {
+      "has_oak_log": "2025-06-13 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_slab": {
+    "criteria": {
+      "has_birch_log": "2025-06-13 04:13:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
