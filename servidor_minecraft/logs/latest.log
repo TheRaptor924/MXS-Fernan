@@ -410,3 +410,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 04:30:16.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-186, y=67, z=-176} BlockPos{x=-187, y=68, z=-174}
 [14Jun2025 04:30:16.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=67, z=-176} BlockPos{x=-187, y=68, z=-176}
 [14Jun2025 04:30:17.685] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-186, y=67, z=-178} BlockPos{x=-187, y=68, z=-177}
+[14Jun2025 04:39:02.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> zzzzz pliz
+[14Jun2025 04:40:01.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]

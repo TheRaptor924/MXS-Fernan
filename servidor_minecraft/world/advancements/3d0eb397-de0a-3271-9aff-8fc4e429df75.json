@@ -7837,5 +7837,41 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_spruce_log_slab_from_stripped_spruce_log_stonecutting": {
+    "criteria": {
+      "has_stripped_spruce_log": "2025-06-14 04:36:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_spruce_log_wall": {
+    "criteria": {
+      "has_stripped_spruce_log": "2025-06-14 04:36:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_spruce_log_stairs_from_stripped_spruce_log_stonecutting": {
+    "criteria": {
+      "has_stripped_spruce_log": "2025-06-14 04:36:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_spruce_log_stairs": {
+    "criteria": {
+      "has_stripped_spruce_log": "2025-06-14 04:36:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_spruce_log_wall_from_stripped_spruce_log_stonecutting": {
+    "criteria": {
+      "has_stripped_spruce_log": "2025-06-14 04:36:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_spruce_log_slab": {
+    "criteria": {
+      "has_stripped_spruce_log": "2025-06-14 04:36:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
