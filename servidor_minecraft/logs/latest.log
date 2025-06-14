@@ -459,3 +459,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 05:00:06.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> tp
 [14Jun2025 05:00:27.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> tp
 [14Jun2025 05:00:38.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to JustRaptor]
+[14Jun2025 05:01:15.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> te lo dejo en el cofre
+[14Jun2025 05:01:20.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ye vengo voy a tomar agua
+[14Jun2025 05:03:10.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> volví
+[14Jun2025 05:03:43.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> en el cofre
+[14Jun2025 05:03:51.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> grax
+[14Jun2025 05:04:23.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[14Jun2025 05:04:36.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-388, y=77, z=-200} BlockPos{x=-387, y=77, z=-201}
+[14Jun2025 05:04:36.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-388, y=77, z=-200} BlockPos{x=-387, y=77, z=-201}
+[14Jun2025 05:04:36.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-388, y=77, z=-200} BlockPos{x=-387, y=77, z=-201}
+[14Jun2025 05:04:37.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-388, y=77, z=-200} BlockPos{x=-387, y=77, z=-201}
+[14Jun2025 05:04:37.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-388, y=77, z=-200} BlockPos{x=-387, y=77, z=-201}
+[14Jun2025 05:04:37.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-388, y=77, z=-200} BlockPos{x=-387, y=77, z=-201}
+[14Jun2025 05:04:37.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-388, y=77, z=-200} BlockPos{x=-387, y=77, z=-201}
+[14Jun2025 05:05:00.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> asi gastas mas el hacha
+[14Jun2025 05:05:48.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> pareciera sordo
+[14Jun2025 05:06:05.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> No problem por el hacha jejeje
+[14Jun2025 05:07:19.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-302, y=70, z=-298} BlockPos{x=-302, y=68, z=-298}
