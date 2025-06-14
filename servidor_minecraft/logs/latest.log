@@ -373,3 +373,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 03:58:33.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
 [14Jun2025 03:59:26.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Spectator Mode]
 [14Jun2025 03:59:32.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[14Jun2025 04:03:54.714] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferlein[/127.59.10.170:39225] logged in with entity id 1557 at (-288.39615450537735, 74.0, -301.4204087445869)
+[14Jun2025 04:03:54.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein joined the game
+[14Jun2025 04:03:54.823] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[14Jun2025 04:03:55.904] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was loaded
+[14Jun2025 04:03:59.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> wenas
+[14Jun2025 04:04:27.889] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.976 ms. 2566/2626 recipes are parallelized.
+[14Jun2025 04:07:12.943] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[14Jun2025 04:07:13.069] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
