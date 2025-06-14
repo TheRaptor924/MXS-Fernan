@@ -381,3 +381,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 04:04:27.889] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.976 ms. 2566/2626 recipes are parallelized.
 [14Jun2025 04:07:12.943] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
 [14Jun2025 04:07:13.069] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[14Jun2025 04:12:38.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.173.123.163:42431] logged in with entity id 4645 at (-297.16350801041114, 91.0, -321.1405683141652)
+[14Jun2025 04:12:38.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[14Jun2025 04:12:38.770] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[14Jun2025 04:12:39.653] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[14Jun2025 04:16:34.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> en la mesa de crafteo pon la pechera y las elitras
+[14Jun2025 04:16:48.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> io se, yo le pasé el mod a kno jsjs
+[14Jun2025 04:16:54.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> a :v
+[14Jun2025 04:16:57.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-297, y=69, z=-293} BlockPos{x=-297, y=68, z=-293}
+[14Jun2025 04:17:55.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> si no tiene hojas no cuenta como arbol?
+[14Jun2025 04:18:12.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> deberia contar
+[14Jun2025 04:18:13.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> nani?
+[14Jun2025 04:18:28.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no sera tema de la durabilidad del hacha?
+[14Jun2025 04:18:35.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> está completa
+[14Jun2025 04:19:16.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> capas el mod es asi para evitar que se rompa una cada echa de troncos
+[14Jun2025 04:19:39.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> tene sentido
+[14Jun2025 04:19:44.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-302, y=95, z=-323} BlockPos{x=-302, y=96, z=-324}
+[14Jun2025 04:20:21.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-302, y=96, z=-321} BlockPos{x=-303, y=95, z=-323}
