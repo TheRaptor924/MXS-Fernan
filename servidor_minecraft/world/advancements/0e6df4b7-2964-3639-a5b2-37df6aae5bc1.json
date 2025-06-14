@@ -9289,9 +9289,39 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bookshelf_stairs": {
+    "criteria": {
+      "has_bookshelf": "2025-06-14 04:37:23 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_sandstone_wall_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-14 04:41:42 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2025-06-14 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bookshelf_slab": {
+    "criteria": {
+      "has_bookshelf": "2025-06-14 04:37:23 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bookshelf_wall": {
+    "criteria": {
+      "has_bookshelf": "2025-06-14 04:37:23 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bookshelf_slab_from_bookshelf_stonecutting": {
+    "criteria": {
+      "has_bookshelf": "2025-06-14 04:37:23 +0000"
     },
     "done": true
   },
@@ -9307,9 +9337,27 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_sandstone_wall": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-14 04:41:42 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_quartz_wall": {
     "criteria": {
       "has_smooth_quartz": "2025-06-14 04:32:06 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bookshelf_stairs_from_bookshelf_stonecutting": {
+    "criteria": {
+      "has_bookshelf": "2025-06-14 04:37:23 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bookshelf_wall_from_bookshelf_stonecutting": {
+    "criteria": {
+      "has_bookshelf": "2025-06-14 04:37:23 +0000"
     },
     "done": true
   },

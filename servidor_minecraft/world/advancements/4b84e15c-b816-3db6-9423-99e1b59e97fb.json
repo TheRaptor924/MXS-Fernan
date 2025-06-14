@@ -9448,5 +9448,17 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_sandstone_wall_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-14 04:37:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_sandstone_wall": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-14 04:37:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
