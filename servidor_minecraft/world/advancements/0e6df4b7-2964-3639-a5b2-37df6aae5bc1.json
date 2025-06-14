@@ -9302,6 +9302,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_block_wall": {
+    "criteria": {
+      "has_quartz_block": "2025-06-14 05:19:12 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2025-06-14 04:32:06 +0000"
@@ -9341,6 +9347,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_sandstone_wall": {
     "criteria": {
       "has_smooth_sandstone": "2025-06-14 04:41:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_block_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-14 05:19:12 +0000"
     },
     "done": true
   },
