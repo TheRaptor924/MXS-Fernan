@@ -5006,3 +5006,79 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 04:50:49.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> alv
 [14Jun2025 04:50:55.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> mentiras, me da flojera lavar la sarten
 [14Jun2025 04:50:59.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> y los platos
+[14Jun2025 04:51:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> me pasa igual, a mi me gusta cocinar pero no lavar na
+[14Jun2025 04:51:24.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 04:51:24.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 04:51:31.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> igual hoy me tocó comer afuera desayuno y almuerzo
+[14Jun2025 04:51:38.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> rico
+[14Jun2025 04:51:39.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :4
+[14Jun2025 04:51:40.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> y eso?
+[14Jun2025 04:51:42.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :3*
+[14Jun2025 04:51:56.042] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-183, y=68, z=-185}) doesn't have enough leaves around top most log
+[14Jun2025 04:52:06.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> me tocó llevar el carro a que le miraran el aire acondicionado y lo desvaratamos todo y no lo pudimos armar
+[14Jun2025 04:52:11.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_heart
+[14Jun2025 04:52:11.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_sa
+[14Jun2025 04:52:11.461] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sb
+[14Jun2025 04:52:11.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_a
+[14Jun2025 04:52:11.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sra
+[14Jun2025 04:52:11.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_c
+[14Jun2025 04:52:11.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_sb
+[14Jun2025 04:52:11.476] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_1
+[14Jun2025 04:52:11.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_1
+[14Jun2025 04:52:11.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_2
+[14Jun2025 04:52:11.485] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_4
+[14Jun2025 04:52:11.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_5
+[14Jun2025 04:52:11.493] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_3
+[14Jun2025 04:52:11.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_srb
+[14Jun2025 04:52:11.499] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_lb
+[14Jun2025 04:52:11.501] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_src
+[14Jun2025 04:52:11.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_lc
+[14Jun2025 04:52:11.505] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_b
+[14Jun2025 04:52:11.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_sra
+[14Jun2025 04:52:11.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_b
+[14Jun2025 04:52:11.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_hallway_lock
+[14Jun2025 04:52:11.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_3
+[14Jun2025 04:52:11.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_4
+[14Jun2025 04:52:11.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_5x6_2
+[14Jun2025 04:52:11.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_b
+[14Jun2025 04:52:11.555] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_c
+[14Jun2025 04:52:11.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sa
+[14Jun2025 04:52:11.559] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_c
+[14Jun2025 04:52:11.560] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_srb
+[14Jun2025 04:52:11.563] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_2
+[14Jun2025 04:52:11.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_1
+[14Jun2025 04:52:11.569] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_6
+[14Jun2025 04:52:11.573] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_4
+[14Jun2025 04:52:11.580] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_5x6_3
+[14Jun2025 04:52:11.584] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_5
+[14Jun2025 04:52:16.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> xd
+[14Jun2025 04:52:16.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> dehecho está en un parkeadero jsjs
+[14Jun2025 04:52:17.459] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:stray_fort/stray_fort_1
+[14Jun2025 04:52:21.752] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_stairs
+[14Jun2025 04:52:21.783] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_lock
+[14Jun2025 04:52:23.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[14Jun2025 04:52:23.732] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[14Jun2025 04:52:23.733] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_snowy
+[14Jun2025 04:52:23.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[14Jun2025 04:52:23.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_snowy
+[14Jun2025 04:52:23.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_snowy
+[14Jun2025 04:52:23.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_snowy
+[14Jun2025 04:52:24.384] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_8b
+[14Jun2025 04:52:26.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2227ms or 44 ticks behind
+[14Jun2025 04:52:28.145] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_3
+[14Jun2025 04:52:28.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[14Jun2025 04:52:37.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> todo el día, desde las 8 hasta las 9 de la noche y no terminamos eso
+[14Jun2025 04:52:45.715] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_29
+[14Jun2025 04:52:46.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> a la vrg
+[14Jun2025 04:52:51.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> hay castillo pilager
+[14Jun2025 04:52:58.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1000, y=113, z=51} BlockPos{x=-1000, y=114, z=51}
+[14Jun2025 04:53:05.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> encontraste?
+[14Jun2025 04:53:09.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> sip
+[14Jun2025 04:56:27.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 04:56:27.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 04:59:45.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> necesito mas roble
+[14Jun2025 04:59:48.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> digo
+[14Jun2025 04:59:50.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> abeto
+[14Jun2025 05:00:06.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> tp
+[14Jun2025 05:00:27.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> tp
+[14Jun2025 05:00:38.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to JustRaptor]

@@ -436,3 +436,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 04:50:49.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> alv
 [14Jun2025 04:50:55.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> mentiras, me da flojera lavar la sarten
 [14Jun2025 04:50:59.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> y los platos
+[14Jun2025 04:51:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> me pasa igual, a mi me gusta cocinar pero no lavar na
+[14Jun2025 04:51:31.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> igual hoy me tocó comer afuera desayuno y almuerzo
+[14Jun2025 04:51:38.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> rico
+[14Jun2025 04:51:39.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :4
+[14Jun2025 04:51:40.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> y eso?
+[14Jun2025 04:51:42.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :3*
+[14Jun2025 04:52:06.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> me tocó llevar el carro a que le miraran el aire acondicionado y lo desvaratamos todo y no lo pudimos armar
+[14Jun2025 04:52:16.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> xd
+[14Jun2025 04:52:16.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> dehecho está en un parkeadero jsjs
+[14Jun2025 04:52:26.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2227ms or 44 ticks behind
+[14Jun2025 04:52:28.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[14Jun2025 04:52:37.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> todo el día, desde las 8 hasta las 9 de la noche y no terminamos eso
+[14Jun2025 04:52:46.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> a la vrg
+[14Jun2025 04:52:51.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> hay castillo pilager
+[14Jun2025 04:52:58.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1000, y=113, z=51} BlockPos{x=-1000, y=114, z=51}
+[14Jun2025 04:53:05.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> encontraste?
+[14Jun2025 04:53:09.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> sip
+[14Jun2025 04:59:45.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> necesito mas roble
+[14Jun2025 04:59:48.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> digo
+[14Jun2025 04:59:50.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> abeto
+[14Jun2025 05:00:06.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> tp
+[14Jun2025 05:00:27.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> tp
+[14Jun2025 05:00:38.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to JustRaptor]
