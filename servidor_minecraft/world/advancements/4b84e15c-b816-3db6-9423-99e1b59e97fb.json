@@ -9550,5 +9550,47 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_stairs_from_birch_log_stonecutting": {
+    "criteria": {
+      "has_birch_log": "2025-06-15 19:20:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_wall_from_birch_log_stonecutting": {
+    "criteria": {
+      "has_birch_log": "2025-06-15 19:20:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_stairs": {
+    "criteria": {
+      "has_birch_log": "2025-06-15 19:20:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_wall": {
+    "criteria": {
+      "has_birch_log": "2025-06-15 19:20:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_planks_wall_from_birch_planks_stonecutting": {
+    "criteria": {
+      "has_birch_planks": "2025-06-15 19:20:54 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_slab_from_birch_log_stonecutting": {
+    "criteria": {
+      "has_birch_log": "2025-06-15 19:20:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_slab": {
+    "criteria": {
+      "has_birch_log": "2025-06-15 19:20:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
