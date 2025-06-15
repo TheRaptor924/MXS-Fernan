@@ -374,3 +374,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 18:28:20.312] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 8.566 ms. 2566/2626 recipes are parallelized.
 [15Jun2025 18:30:59.258] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
 [15Jun2025 18:30:59.344] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[15Jun2025 19:01:35.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Disconnected
+[15Jun2025 19:01:35.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
+[15Jun2025 19:01:35.418] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[15Jun2025 19:01:35.419] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
+[15Jun2025 19:01:40.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Jun2025 19:01:40.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[15Jun2025 19:03:28.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angeltronix7005[/127.195.112.170:58607] logged in with entity id 12789 at (-180.28971201428848, 68.0, -191.30000001192093)
+[15Jun2025 19:03:28.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 joined the game
+[15Jun2025 19:03:28.665] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[15Jun2025 19:03:29.591] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
+[15Jun2025 19:03:31.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferlein[/127.59.10.170:43945] logged in with entity id 13126 at (-206.277201662304, 68.0, -222.3841235846207)
+[15Jun2025 19:03:31.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein joined the game
+[15Jun2025 19:03:31.637] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[15Jun2025 19:03:32.687] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was loaded
+[15Jun2025 19:04:16.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.173.123.163:46399] logged in with entity id 13312 at (-384.52986293922817, 78.0, -185.5358376454685)
+[15Jun2025 19:04:16.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[15Jun2025 19:04:16.641] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[15Jun2025 19:04:17.254] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[15Jun2025 19:04:25.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> uis
+[15Jun2025 19:04:25.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> holap
+[15Jun2025 19:04:26.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> wenas
+[15Jun2025 19:04:27.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> buenas
+[15Jun2025 19:04:29.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :3
+[15Jun2025 19:04:47.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no mire sus obejas, nada malo les paso pero no las mire
+[15Jun2025 19:05:01.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> -.-
+[15Jun2025 19:05:08.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> y ese robo a mono alrmada que fue?
+[15Jun2025 19:05:18.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> socialismo
+[15Jun2025 19:05:22.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> xd
+[15Jun2025 19:05:27.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> esto no que era capitalista?
+[15Jun2025 19:05:27.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Varias cosas pasaron
+[15Jun2025 19:05:35.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> invasion a propiedad privada
+[15Jun2025 19:05:42.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> es que necesitamos mucha lana amarilla
+[15Jun2025 19:05:50.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> y da hueva conseguir tanto tinte
+[15Jun2025 19:05:54.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Manipulación no autorizada
+[15Jun2025 19:06:01.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> espera, las pintaron=?
