@@ -390,3 +390,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 16:51:32.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> wenas
 [15Jun2025 16:51:39.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> buenas
 [15Jun2025 16:51:42.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> estoy en discord
+[15Jun2025 16:51:50.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> estoy viendo videos de españoles reaccionando a la evau
+[15Jun2025 16:51:55.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> que son los icfes de alla
+[15Jun2025 16:52:03.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> a weño
+[15Jun2025 16:52:08.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> una chica saco 1.7 en matematicas
+[15Jun2025 16:54:28.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=63, z=-167} BlockPos{x=-175, y=62, z=-167}
+[15Jun2025 16:57:32.623] [Worker-Main-51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[15Jun2025 16:57:32.715] [Worker-Main-51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
