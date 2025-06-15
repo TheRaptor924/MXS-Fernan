@@ -5383,3 +5383,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 23:47:05.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Jun2025 23:47:19.657] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
 [15Jun2025 23:48:12.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[15Jun2025 23:52:05.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 23:52:05.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 23:52:29.873] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
+[15Jun2025 23:53:25.149] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
+[15Jun2025 23:57:05.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 23:57:05.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 23:58:51.005] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-163, y=75, z=-174}) doesn't have enough leaves around top most log
