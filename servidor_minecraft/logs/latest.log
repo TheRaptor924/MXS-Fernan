@@ -424,3 +424,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 19:43:31.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
 [15Jun2025 19:43:31.817] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
 [15Jun2025 19:43:31.818] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[15Jun2025 19:48:42.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Jun2025 19:48:42.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[15Jun2025 19:56:27.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Jun2025 19:56:27.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]

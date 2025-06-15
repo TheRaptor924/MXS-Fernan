@@ -9544,6 +9544,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_stairs": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/jungle_planks_wall_from_jungle_planks_stonecutting": {
     "criteria": {
       "has_jungle_planks": "2025-06-15 19:08:34 +0000"
@@ -9580,6 +9586,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_wall_from_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_wall": {
     "criteria": {
       "has_birch_log": "2025-06-15 19:20:51 +0000"
@@ -9598,9 +9610,21 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_stairs_from_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/birch_planks_wall_from_birch_planks_stonecutting": {
     "criteria": {
       "has_birch_planks": "2025-06-15 19:20:54 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_slab": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
     },
     "done": true
   },
@@ -9619,6 +9643,18 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_sandstone_wall_from_smelting_sandstone": {
     "criteria": {
       "has_sandstone_wall": "2025-06-15 19:31:22 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_slab_from_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_wall": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
     },
     "done": true
   },
