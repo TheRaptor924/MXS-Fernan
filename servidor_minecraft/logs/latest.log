@@ -428,3 +428,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 19:48:42.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [15Jun2025 19:56:27.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [15Jun2025 19:56:27.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[15Jun2025 20:13:29.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Jun2025 20:13:29.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
