@@ -443,3 +443,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 21:12:39.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved too quickly! 0.7953714247405514,2.0,10.069759302178454
 [15Jun2025 21:20:45.779] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 197.8 μs. 292/292 recipes are parallelized.
 [15Jun2025 21:39:42.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[15Jun2025 21:48:39.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[15Jun2025 21:56:55.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Jun2025 21:56:55.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[15Jun2025 21:57:14.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-414, y=79, z=-174} BlockPos{x=-415, y=84, z=-169}

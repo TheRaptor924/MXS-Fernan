@@ -9670,6 +9670,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_sandstone_wall_from_smelting_sandstone": {
+    "criteria": {
+      "has_sandstone_wall": "2025-06-15 21:53:20 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/dye_white_wool_wall": {
     "criteria": {
       "has_needed_dye": "2025-06-15 19:38:00 +0000"
