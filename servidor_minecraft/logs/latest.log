@@ -441,3 +441,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 21:11:19.903] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
 [15Jun2025 21:11:20.595] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
 [15Jun2025 21:12:39.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved too quickly! 0.7953714247405514,2.0,10.069759302178454
+[15Jun2025 21:20:45.779] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 197.8 μs. 292/292 recipes are parallelized.

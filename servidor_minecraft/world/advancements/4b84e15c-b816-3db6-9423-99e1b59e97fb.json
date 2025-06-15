@@ -9574,6 +9574,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_stairs": {
+    "criteria": {
+      "has_sand": "2025-06-15 21:20:30 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_slab": {
     "criteria": {
       "has_quartz_bricks": "2025-06-15 20:58:35 +0000"
@@ -9628,6 +9634,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_wall_from_sand_stonecutting": {
+    "criteria": {
+      "has_sand": "2025-06-15 21:20:30 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_stairs": {
     "criteria": {
       "has_quartz_bricks": "2025-06-15 20:58:35 +0000"
@@ -9655,6 +9667,18 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_slab": {
     "criteria": {
       "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_stairs_from_sand_stonecutting": {
+    "criteria": {
+      "has_sand": "2025-06-15 21:20:30 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_slab": {
+    "criteria": {
+      "has_sand": "2025-06-15 21:20:30 +0000"
     },
     "done": true
   },
@@ -9706,9 +9730,21 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_slab_from_sand_stonecutting": {
+    "criteria": {
+      "has_sand": "2025-06-15 21:20:30 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_slab_from_yellow_wool_stonecutting": {
     "criteria": {
       "has_yellow_wool": "2025-06-15 19:36:18 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_wall": {
+    "criteria": {
+      "has_sand": "2025-06-15 21:20:30 +0000"
     },
     "done": true
   },
