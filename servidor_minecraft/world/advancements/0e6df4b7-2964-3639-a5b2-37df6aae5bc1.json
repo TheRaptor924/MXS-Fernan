@@ -4972,6 +4972,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2025-06-15 18:30:06 +0000",
       "minecraft:cow": "2025-05-03 03:07:33 +0000"
     },
     "done": false
@@ -9458,21 +9459,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_slab": {
-    "criteria": {
-      "has_yellow_wool": "2025-06-15 17:38:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2025-06-15 17:38:41 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_wall_from_yellow_wool_stonecutting": {
-    "criteria": {
-      "has_yellow_wool": "2025-06-15 17:38:59 +0000"
     },
     "done": true
   },
@@ -9482,21 +9471,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_wall": {
-    "criteria": {
-      "has_yellow_wool": "2025-06-15 17:38:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_yellow_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-15 17:38:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_carpet": {
-    "criteria": {
-      "has_yellow_wool": "2025-06-15 17:38:59 +0000"
     },
     "done": true
   },
@@ -9506,15 +9483,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_bed": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_yellow_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 17:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 17:38:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_slab": {
     "criteria": {
       "has_yellow_wool": "2025-06-15 17:38:59 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_yellow_wool_stairs": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_wall_from_yellow_wool_stonecutting": {
     "criteria": {
-      "has_needed_dye": "2025-06-15 17:38:41 +0000"
+      "has_yellow_wool": "2025-06-15 17:38:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_wall": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-15 17:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-15 17:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-15 17:38:59 +0000"
     },
     "done": true
   },
@@ -9539,12 +9546,6 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_stairs": {
     "criteria": {
       "has_yellow_wool": "2025-06-15 17:38:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-15 17:38:41 +0000"
     },
     "done": true
   },
