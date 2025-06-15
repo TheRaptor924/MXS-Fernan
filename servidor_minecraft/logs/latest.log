@@ -372,3 +372,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 16:04:43.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set the time to 1000]
 [15Jun2025 16:12:42.592] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 1.599 ms. 996/996 recipes are parallelized.
 [15Jun2025 16:19:30.151] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.110 ms. 2566/2626 recipes are parallelized.
+[15Jun2025 16:34:59.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Jun2025 16:34:59.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[15Jun2025 16:35:23.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 lost connection: Disconnected
+[15Jun2025 16:35:23.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
+[15Jun2025 16:35:23.924] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[15Jun2025 16:35:23.925] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[15Jun2025 16:35:23.964] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Jun2025 16:35:47.611] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angeltronix7005[/127.195.112.170:52227] logged in with entity id 7336 at (-169.38026670070457, 72.0, -168.58048448234248)
+[15Jun2025 16:35:47.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 joined the game
+[15Jun2025 16:35:47.705] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[15Jun2025 16:35:47.817] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
