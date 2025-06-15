@@ -7879,15 +7879,15 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_planks_wall_from_birch_planks_stonecutting": {
-    "criteria": {
-      "has_birch_planks": "2025-06-15 05:11:09 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_sandstone_wall": {
     "criteria": {
       "has_smooth_sandstone": "2025-06-15 05:10:44 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_planks_wall_from_birch_planks_stonecutting": {
+    "criteria": {
+      "has_birch_planks": "2025-06-15 05:11:09 +0000"
     },
     "done": true
   },
