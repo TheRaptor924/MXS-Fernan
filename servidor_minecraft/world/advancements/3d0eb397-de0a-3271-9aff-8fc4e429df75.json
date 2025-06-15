@@ -8005,12 +8005,6 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_planks_wall_from_dark_oak_planks_stonecutting": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-06-15 18:04:27 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_stairs_from_dark_oak_log_stonecutting": {
     "criteria": {
       "has_dark_oak_log": "2025-06-15 18:04:11 +0000"
@@ -8032,6 +8026,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_wall": {
     "criteria": {
       "has_dark_oak_log": "2025-06-15 18:04:11 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_planks_wall_from_dark_oak_planks_stonecutting": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-15 18:04:27 +0000"
     },
     "done": true
   },

@@ -9496,15 +9496,21 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/honey_block_stairs": {
-    "criteria": {
-      "has_honey_block": "2025-06-15 05:10:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
     "criteria": {
       "has_lapis_ore": "2025-06-15 05:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-06-15 05:10:07 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/honey_block_stairs": {
+    "criteria": {
+      "has_honey_block": "2025-06-15 05:10:43 +0000"
     },
     "done": true
   },
@@ -9538,9 +9544,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/jungle_planks_wall_from_jungle_planks_stonecutting": {
     "criteria": {
-      "has_lapis_ore": "2025-06-15 05:10:07 +0000"
+      "has_jungle_planks": "2025-06-15 19:08:34 +0000"
     },
     "done": true
   },
