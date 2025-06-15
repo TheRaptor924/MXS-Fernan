@@ -9550,9 +9550,21 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_slab": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_stairs_from_birch_log_stonecutting": {
     "criteria": {
       "has_birch_log": "2025-06-15 19:20:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_wall_from_yellow_wool_stonecutting": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
     },
     "done": true
   },
@@ -9574,9 +9586,27 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_wall": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/birch_planks_wall_from_birch_planks_stonecutting": {
     "criteria": {
       "has_birch_planks": "2025-06-15 19:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
     },
     "done": true
   },
@@ -9589,6 +9619,30 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_sandstone_wall_from_smelting_sandstone": {
     "criteria": {
       "has_sandstone_wall": "2025-06-15 19:31:22 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_stairs_from_yellow_wool_stonecutting": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_slab_from_yellow_wool_stonecutting": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_stairs": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
     },
     "done": true
   },

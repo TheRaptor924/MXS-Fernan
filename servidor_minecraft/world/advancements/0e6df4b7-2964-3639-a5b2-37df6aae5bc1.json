@@ -9586,5 +9586,23 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_white_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 19:38:00 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_white_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 19:38:00 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_white_wool_wall": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 19:38:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
