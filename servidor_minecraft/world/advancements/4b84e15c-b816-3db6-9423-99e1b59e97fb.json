@@ -9640,6 +9640,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-06-15 22:18:26 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_slab_from_quartz_bricks_stonecutting": {
     "criteria": {
       "has_quartz_bricks": "2025-06-15 20:58:35 +0000"
@@ -9673,6 +9679,18 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_stairs_from_dark_oak_log_stonecutting": {
     "criteria": {
       "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_wall_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-06-15 22:18:26 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab": {
+    "criteria": {
+      "has_glass": "2025-06-15 22:18:26 +0000"
     },
     "done": true
   },
@@ -9730,6 +9748,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_stairs": {
+    "criteria": {
+      "has_glass": "2025-06-15 22:18:26 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_sandstone_wall_from_smelting_sandstone": {
     "criteria": {
       "has_sandstone_wall": "2025-06-15 19:31:22 +0000"
@@ -9781,6 +9805,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/sand_wall": {
     "criteria": {
       "has_sand": "2025-06-15 21:20:30 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_stairs_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-06-15 22:18:26 +0000"
     },
     "done": true
   },
