@@ -4815,3 +4815,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 04:42:13.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Jun2025 04:47:13.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jun2025 04:47:13.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:51:14.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was killed
+[15Jun2025 04:51:14.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed Ferlein]
+[15Jun2025 04:51:28.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was killed
+[15Jun2025 04:51:28.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed Ferlein]
+[15Jun2025 04:51:39.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was killed
+[15Jun2025 04:51:39.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed Ferlein]
+[15Jun2025 04:51:52.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was killed
+[15Jun2025 04:51:52.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed Ferlein]
+[15Jun2025 04:52:13.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 04:52:13.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:52:36.773] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 716.4 μs. 996/996 recipes are parallelized.
+[15Jun2025 04:55:00.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was killed
+[15Jun2025 04:55:00.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed Ferlein]
+[15Jun2025 04:57:01.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was killed
+[15Jun2025 04:57:01.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed Ferlein]
+[15Jun2025 04:57:11.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was killed
+[15Jun2025 04:57:11.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed Ferlein]
+[15Jun2025 04:57:13.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 04:57:13.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:57:18.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was killed
+[15Jun2025 04:57:18.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed Ferlein]
+[15Jun2025 04:57:26.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was killed
+[15Jun2025 04:57:26.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed Ferlein]
+[15Jun2025 04:57:33.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was killed
+[15Jun2025 04:57:33.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed Ferlein]
+[15Jun2025 04:58:45.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor was killed
+[15Jun2025 04:58:45.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed JustRaptor]
+[15Jun2025 04:59:39.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor was killed
+[15Jun2025 04:59:39.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed JustRaptor]
