@@ -9404,5 +9404,53 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_stairs": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 05:08:52 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_wall_from_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 05:08:52 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_planks_wall_from_dark_oak_planks_stonecutting": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-15 05:08:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_stairs_from_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 05:08:52 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_planks_wall_from_birch_planks_stonecutting": {
+    "criteria": {
+      "has_birch_planks": "2025-06-15 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_slab": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 05:08:52 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_slab_from_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 05:08:52 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_wall": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 05:08:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

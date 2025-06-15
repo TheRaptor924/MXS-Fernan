@@ -9496,5 +9496,53 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/honey_block_stairs": {
+    "criteria": {
+      "has_honey_block": "2025-06-15 05:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-06-15 05:10:07 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/honey_block_wall": {
+    "criteria": {
+      "has_honey_block": "2025-06-15 05:10:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/honey_block_slab": {
+    "criteria": {
+      "has_honey_block": "2025-06-15 05:10:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/honey_block_slab_from_honey_block_stonecutting": {
+    "criteria": {
+      "has_honey_block": "2025-06-15 05:10:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/honey_block_stairs_from_honey_block_stonecutting": {
+    "criteria": {
+      "has_honey_block": "2025-06-15 05:10:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/honey_block_wall_from_honey_block_stonecutting": {
+    "criteria": {
+      "has_honey_block": "2025-06-15 05:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-06-15 05:10:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
