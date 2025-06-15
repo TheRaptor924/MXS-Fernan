@@ -9616,6 +9616,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stone_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-15 22:45:20 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_wall": {
     "criteria": {
       "has_birch_log": "2025-06-15 19:20:51 +0000"
@@ -9676,6 +9682,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stone_wall": {
+    "criteria": {
+      "has_stone": "2025-06-15 22:45:20 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_stairs_from_dark_oak_log_stonecutting": {
     "criteria": {
       "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
@@ -9715,6 +9727,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/sand_stairs_from_sand_stonecutting": {
     "criteria": {
       "has_sand": "2025-06-15 21:20:30 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_slab_from_smeltingnull": {
+    "criteria": {
+      "has_stone_brick_slab": "2025-06-15 22:47:01 +0000"
     },
     "done": true
   },
