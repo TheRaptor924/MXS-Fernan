@@ -9460,5 +9460,41 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/jungle_leaves_stairs_from_jungle_leaves_stonecutting": {
+    "criteria": {
+      "has_jungle_leaves": "2025-06-14 05:29:09 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/jungle_leaves_wall_from_jungle_leaves_stonecutting": {
+    "criteria": {
+      "has_jungle_leaves": "2025-06-14 05:29:09 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/jungle_leaves_slab": {
+    "criteria": {
+      "has_jungle_leaves": "2025-06-14 05:29:09 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/jungle_leaves_stairs": {
+    "criteria": {
+      "has_jungle_leaves": "2025-06-14 05:29:09 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/jungle_leaves_slab_from_jungle_leaves_stonecutting": {
+    "criteria": {
+      "has_jungle_leaves": "2025-06-14 05:29:09 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/jungle_leaves_wall": {
+    "criteria": {
+      "has_jungle_leaves": "2025-06-14 05:29:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
