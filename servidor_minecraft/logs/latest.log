@@ -432,3 +432,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 20:13:29.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [15Jun2025 21:06:17.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-395, y=87, z=-168} BlockPos{x=-396, y=87, z=-164}
 [15Jun2025 21:06:43.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-395, y=87, z=-168} BlockPos{x=-392, y=87, z=-170}
+[15Jun2025 21:08:33.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Jun2025 21:08:33.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[15Jun2025 21:08:42.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-395, y=87, z=-168} BlockPos{x=-393, y=81, z=-156}
+[15Jun2025 21:08:42.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-395, y=87, z=-168} BlockPos{x=-393, y=82, z=-156}
+[15Jun2025 21:11:19.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angeltronix7005[/127.195.112.170:47151] logged in with entity id 47830 at (-258.42314076246885, 87.5625, -281.68887955003555)
+[15Jun2025 21:11:19.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 joined the game
+[15Jun2025 21:11:19.903] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[15Jun2025 21:11:20.595] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
+[15Jun2025 21:12:39.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved too quickly! 0.7953714247405514,2.0,10.069759302178454
