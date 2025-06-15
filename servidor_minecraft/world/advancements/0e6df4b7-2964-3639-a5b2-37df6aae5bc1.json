@@ -873,6 +873,7 @@
       "minecraft:pillager": "2025-04-16 16:44:28 +0000",
       "minecraft:blaze": "2025-06-11 00:07:23 +0000",
       "minecraft:skeleton": "2025-04-16 16:13:33 +0000",
+      "minecraft:ravager": "2025-06-15 23:28:10 +0000",
       "minecraft:ghast": "2025-05-05 02:03:44 +0000",
       "minecraft:hoglin": "2025-04-25 03:03:48 +0000",
       "minecraft:vindicator": "2025-06-08 04:52:44 +0000",
@@ -9709,6 +9710,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/dye_white_wool_slab": {
     "criteria": {
       "has_needed_dye": "2025-06-15 19:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-06-15 23:28:39 +0000"
     },
     "done": true
   },

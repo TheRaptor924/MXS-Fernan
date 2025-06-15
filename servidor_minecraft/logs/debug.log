@@ -5353,3 +5353,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 23:27:18.849] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
 [15Jun2025 23:27:20.948] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
 [15Jun2025 23:27:31.599] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
+[15Jun2025 23:28:39.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has completed the challenge [Hero of the Village]
+[15Jun2025 23:29:08.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Jun2025 23:29:08.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[15Jun2025 23:29:23.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Jun2025 23:29:23.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[15Jun2025 23:30:37.038] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
+[15Jun2025 23:30:37.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Gamerule doFireTick is now set to: false]
+[15Jun2025 23:31:29.350] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
+[15Jun2025 23:31:57.750] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
+[15Jun2025 23:32:05.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 23:32:05.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 23:37:05.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 23:37:05.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 23:38:07.426] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
