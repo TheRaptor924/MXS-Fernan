@@ -9665,6 +9665,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_slab_from_verdant_froglight_stonecutting": {
+    "criteria": {
+      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_stairs_from_black_wool_stonecutting": {
     "criteria": {
       "has_black_wool": "2025-06-15 23:18:42 +0000"
@@ -9728,6 +9734,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_slab_from_quartz_bricks_stonecutting": {
     "criteria": {
       "has_quartz_bricks": "2025-06-15 20:56:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_slab": {
+    "criteria": {
+      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
     },
     "done": true
   },
@@ -9845,6 +9857,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_stairs_from_verdant_froglight_stonecutting": {
+    "criteria": {
+      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
     "criteria": {
       "has_cut_copper_slab": "2025-06-16 00:09:07 +0000"
@@ -9860,6 +9878,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/dye_black_wool_stairs": {
     "criteria": {
       "has_needed_dye": "2025-06-15 23:15:10 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_stairs": {
+    "criteria": {
+      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
     },
     "done": true
   },
@@ -9989,6 +10013,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_wall_from_verdant_froglight_stonecutting": {
+    "criteria": {
+      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2025-06-16 00:12:24 +0000"
@@ -10079,6 +10109,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_wall": {
+    "criteria": {
+      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-06-16 00:20:47 +0000"
@@ -10100,6 +10136,12 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-16 00:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-16 01:09:14 +0000"
     },
     "done": true
   },
