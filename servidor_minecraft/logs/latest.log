@@ -399,3 +399,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Jun2025 04:25:03.994] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 306.3 μs. 292/292 recipes are parallelized.
 [16Jun2025 04:26:18.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set the time to 1000]
 [16Jun2025 04:37:09.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzz
+[16Jun2025 04:48:37.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-191, y=64, z=-205} BlockPos{x=-191, y=63, z=-205}
+[16Jun2025 04:48:43.497] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-192, y=64, z=-212} BlockPos{x=-192, y=63, z=-212}
+[16Jun2025 04:48:52.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ef
+[16Jun2025 04:51:21.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-190, y=64, z=-211} BlockPos{x=-191, y=63, z=-211}
+[16Jun2025 04:51:25.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-190, y=64, z=-207} BlockPos{x=-190, y=63, z=-207}
+[16Jun2025 04:53:11.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> zzzzzzzzz
