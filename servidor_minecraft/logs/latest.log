@@ -386,3 +386,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Jun2025 03:57:08.576] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 8.916 ms. 2566/2626 recipes are parallelized.
 [16Jun2025 04:02:19.617] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 680.2 μs. 996/996 recipes are parallelized.
 [16Jun2025 04:03:46.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[16Jun2025 04:04:20.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[16Jun2025 04:05:13.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set JustRaptor's game mode to Spectator Mode]
+[16Jun2025 04:06:48.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[16Jun2025 04:09:48.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Spectator Mode]
+[16Jun2025 04:10:08.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set JustRaptor's game mode to Survival Mode]
+[16Jun2025 04:10:14.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[16Jun2025 04:10:57.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
+[16Jun2025 04:12:55.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]

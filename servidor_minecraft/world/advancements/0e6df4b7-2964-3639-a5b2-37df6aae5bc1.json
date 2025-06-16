@@ -10278,5 +10278,53 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-06-16 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_stairs_uncrafting": {
+    "criteria": {
+      "has_gold_block_stairs": "2025-06-16 04:03:03 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_slab_uncrafting": {
+    "criteria": {
+      "has_gold_block_slab": "2025-06-16 04:03:03 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/coarse_dirt_wall": {
+    "criteria": {
+      "has_coarse_dirt": "2025-06-16 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/coarse_dirt_stairs_from_coarse_dirt_stonecutting": {
+    "criteria": {
+      "has_coarse_dirt": "2025-06-16 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/coarse_dirt_stairs": {
+    "criteria": {
+      "has_coarse_dirt": "2025-06-16 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/coarse_dirt_slab_from_coarse_dirt_stonecutting": {
+    "criteria": {
+      "has_coarse_dirt": "2025-06-16 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/coarse_dirt_wall_from_coarse_dirt_stonecutting": {
+    "criteria": {
+      "has_coarse_dirt": "2025-06-16 04:07:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
