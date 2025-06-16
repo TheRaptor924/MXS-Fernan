@@ -9790,6 +9790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-06-16 00:09:29 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/white_wool_stairs": {
     "criteria": {
       "has_white_wool": "2025-06-15 23:14:25 +0000"
