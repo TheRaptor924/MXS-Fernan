@@ -30,6 +30,7 @@
       "minecraft:cold_ocean": "2025-04-16 16:52:53 +0000",
       "minecraft:forest": "2025-04-16 03:11:52 +0000",
       "minecraft:lush_caves": "2025-04-29 03:48:19 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-16 01:17:38 +0000",
       "minecraft:ice_spikes": "2025-04-18 02:15:00 +0000",
       "minecraft:frozen_ocean": "2025-04-19 05:08:23 +0000",
       "minecraft:ocean": "2025-04-19 04:17:17 +0000",
@@ -9599,6 +9600,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_slab_from_sea_lantern_stonecutting": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/warped_stem_wall": {
     "criteria": {
       "has_warped_stem": "2025-06-16 00:20:29 +0000"
@@ -9635,6 +9642,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_wall_from_sea_lantern_stonecutting": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-06-16 00:21:51 +0000"
@@ -9659,6 +9672,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-16 01:26:42 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_spruce_log_wall": {
     "criteria": {
       "has_stripped_spruce_log": "2025-06-15 19:25:40 +0000"
@@ -9668,6 +9687,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_slab_from_verdant_froglight_stonecutting": {
     "criteria": {
       "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_wall": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
     },
     "done": true
   },
@@ -9707,6 +9732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-06-16 01:19:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/crimson_cabinet": {
     "criteria": {
       "has_crimson_trapdoor": "2025-06-16 00:21:52 +0000"
@@ -9716,6 +9747,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/warped_stem_slab": {
     "criteria": {
       "has_warped_stem": "2025-06-16 00:20:29 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_stairs_from_sea_lantern_stonecutting": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
     },
     "done": true
   },
@@ -9893,6 +9930,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_slab": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_wall": {
     "criteria": {
       "has_quartz_bricks": "2025-06-15 20:56:57 +0000"
@@ -9956,6 +9999,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-06-15 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-16 01:19:16 +0000"
     },
     "done": true
   },
@@ -10100,6 +10149,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_wall_from_black_wool_stonecutting": {
     "criteria": {
       "has_black_wool": "2025-06-15 23:18:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_stairs": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
     },
     "done": true
   },
