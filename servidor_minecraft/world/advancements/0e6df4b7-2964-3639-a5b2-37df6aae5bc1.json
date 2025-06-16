@@ -9912,6 +9912,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_slab_from_smeltingnull": {
+    "criteria": {
+      "has_stone_brick_slab": "2025-06-16 02:15:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
     "criteria": {
       "has_cut_copper": "2025-06-15 23:56:18 +0000"
