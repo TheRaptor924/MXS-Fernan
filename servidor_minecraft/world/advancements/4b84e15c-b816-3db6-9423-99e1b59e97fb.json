@@ -9545,6 +9545,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_slab_from_stripped_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-16 01:38:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_brown_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-16 00:21:57 +0000"
@@ -9578,6 +9584,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_slab": {
     "criteria": {
       "has_yellow_wool": "2025-06-15 19:36:18 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_stairs": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-16 01:38:46 +0000"
     },
     "done": true
   },
@@ -9626,6 +9638,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/white_wool_stairs_from_white_wool_stonecutting": {
     "criteria": {
       "has_white_wool": "2025-06-15 23:14:25 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_stairs_from_stripped_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-16 01:38:46 +0000"
     },
     "done": true
   },
@@ -9833,6 +9851,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_wall": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-16 01:38:46 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/white_wool_stairs": {
     "criteria": {
       "has_white_wool": "2025-06-15 23:14:25 +0000"
@@ -9842,6 +9866,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_sandstone_wall_from_smelting_sandstone": {
     "criteria": {
       "has_sandstone_wall": "2025-06-15 19:31:22 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_wall_from_stripped_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-16 01:38:46 +0000"
     },
     "done": true
   },
@@ -9932,6 +9962,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_slab": {
     "criteria": {
       "has_birch_log": "2025-06-15 19:20:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_slab": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-16 01:38:46 +0000"
     },
     "done": true
   },
