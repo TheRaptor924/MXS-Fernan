@@ -9557,9 +9557,21 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_slab": {
+    "criteria": {
+      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_brown_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-16 00:21:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_slab_from_black_concrete_powder_stonecutting": {
+    "criteria": {
+      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
     },
     "done": true
   },
@@ -9572,6 +9584,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_wall": {
     "criteria": {
       "has_gravel": "2025-06-16 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_stained_glass_stairs_from_black_stained_glass_stonecutting": {
+    "criteria": {
+      "has_black_stained_glass": "2025-06-16 02:25:54 +0000"
     },
     "done": true
   },
@@ -9701,6 +9719,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_wall": {
+    "criteria": {
+      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/stone_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-15 22:45:20 +0000"
@@ -9713,6 +9737,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_wall_from_black_concrete_powder_stonecutting": {
+    "criteria": {
+      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_wall": {
     "criteria": {
       "has_sea_lantern": "2025-06-15 21:36:51 +0000"
@@ -9722,6 +9752,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_wall": {
     "criteria": {
       "has_yellow_wool": "2025-06-15 19:36:18 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_stained_glass_wall_from_black_stained_glass_stonecutting": {
+    "criteria": {
+      "has_black_stained_glass": "2025-06-16 02:25:54 +0000"
     },
     "done": true
   },
@@ -9779,6 +9815,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_stairs_from_black_concrete_powder_stonecutting": {
+    "criteria": {
+      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/glass_wall_from_glass_stonecutting": {
     "criteria": {
       "has_glass": "2025-06-15 22:18:26 +0000"
@@ -9821,6 +9863,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_black_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 02:22:56 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_stairs_from_gravel_stonecutting": {
     "criteria": {
       "has_gravel": "2025-06-16 02:11:27 +0000"
@@ -9851,6 +9899,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_black_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 02:22:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2025-06-15 19:36:18 +0000"
@@ -9860,6 +9914,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_slab_from_birch_log_stonecutting": {
     "criteria": {
       "has_birch_log": "2025-06-15 19:20:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_stairs": {
+    "criteria": {
+      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
     },
     "done": true
   },
@@ -9878,6 +9938,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-06-16 00:09:29 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_stained_glass_stairs": {
+    "criteria": {
+      "has_black_stained_glass": "2025-06-16 02:25:54 +0000"
     },
     "done": true
   },
@@ -9911,6 +9977,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_stained_glass_slab": {
+    "criteria": {
+      "has_black_stained_glass": "2025-06-16 02:25:54 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/dye_brown_wool_slab": {
     "criteria": {
       "has_needed_dye": "2025-06-16 00:21:57 +0000"
@@ -9926,6 +9998,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_slab_from_dark_oak_log_stonecutting": {
     "criteria": {
       "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_stained_glass_slab_from_black_stained_glass_stonecutting": {
+    "criteria": {
+      "has_black_stained_glass": "2025-06-16 02:25:54 +0000"
     },
     "done": true
   },
@@ -9986,6 +10064,18 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/white_wool_slab": {
     "criteria": {
       "has_white_wool": "2025-06-15 23:14:25 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_black_wool_wall": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 02:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-16 02:25:54 +0000"
     },
     "done": true
   },
