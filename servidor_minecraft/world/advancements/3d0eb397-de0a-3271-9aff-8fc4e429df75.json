@@ -8035,6 +8035,54 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab": {
+    "criteria": {
+      "has_cut_copper": "2025-06-16 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs": {
+    "criteria": {
+      "has_cut_copper": "2025-06-16 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2025-06-16 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2025-06-16 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper": "2025-06-16 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cut_copper_wall": {
+    "criteria": {
+      "has_cut_copper": "2025-06-16 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cut_copper_wall_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2025-06-16 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/waxed_cut_copper_wall_honeycomb": {
+    "criteria": {
+      "has_cut_copper": "2025-06-16 02:09:32 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/waxed_copper_block_wall_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-06-16 02:12:24 +0000"
@@ -8071,12 +8119,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_slab": {
-    "criteria": {
-      "has_cut_copper": "2025-06-16 02:09:32 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/copper_block_stairs": {
     "criteria": {
       "has_copper_block": "2025-06-16 02:12:24 +0000"
@@ -8092,30 +8134,6 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/waxed_copper_block_stairs_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-06-16 02:12:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs": {
-    "criteria": {
-      "has_cut_copper": "2025-06-16 02:09:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
-    "criteria": {
-      "has_cut_copper": "2025-06-16 02:09:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
-    "criteria": {
-      "has_cut_copper": "2025-06-16 02:09:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
-    "criteria": {
-      "has_cut_copper": "2025-06-16 02:09:32 +0000"
     },
     "done": true
   },
@@ -8137,24 +8155,6 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/cut_copper_wall": {
-    "criteria": {
-      "has_cut_copper": "2025-06-16 02:09:32 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/cut_copper_wall_from_cut_copper_stonecutting": {
-    "criteria": {
-      "has_cut_copper": "2025-06-16 02:09:32 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/waxed_cut_copper_wall_honeycomb": {
-    "criteria": {
-      "has_cut_copper": "2025-06-16 02:09:32 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/copper_block_slab": {
     "criteria": {
       "has_copper_block": "2025-06-16 02:12:24 +0000"
@@ -8170,6 +8170,48 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/waxed_copper_block_slab_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-06-16 02:12:24 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_slab_from_cherry_log_stonecutting": {
+    "criteria": {
+      "has_cherry_log": "2025-06-16 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_wall_from_cherry_log_stonecutting": {
+    "criteria": {
+      "has_cherry_log": "2025-06-16 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_slab": {
+    "criteria": {
+      "has_cherry_log": "2025-06-16 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_wall": {
+    "criteria": {
+      "has_cherry_log": "2025-06-16 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_stairs_from_cherry_log_stonecutting": {
+    "criteria": {
+      "has_cherry_log": "2025-06-16 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_stairs": {
+    "criteria": {
+      "has_cherry_log": "2025-06-16 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_planks_wall_from_cherry_planks_stonecutting": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-16 03:41:45 +0000"
     },
     "done": true
   },

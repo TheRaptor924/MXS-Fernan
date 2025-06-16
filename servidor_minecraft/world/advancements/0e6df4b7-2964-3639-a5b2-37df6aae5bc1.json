@@ -9552,129 +9552,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/acacia_log_stairs_from_acacia_log_stonecutting": {
-    "criteria": {
-      "has_acacia_log": "2025-06-15 22:27:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-06-16 00:12:24 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/acacia_log_wall_from_acacia_log_stonecutting": {
-    "criteria": {
-      "has_acacia_log": "2025-06-15 22:27:40 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/crimson_planks_wall_from_crimson_planks_stonecutting": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-16 00:21:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-06-16 00:12:24 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_spruce_log_slab_from_stripped_spruce_log_stonecutting": {
     "criteria": {
       "has_stripped_spruce_log": "2025-06-15 19:25:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-06-16 00:21:42 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/glowstone_stairs_from_glowstone_stonecutting": {
-    "criteria": {
-      "has_glowstone": "2025-06-15 19:54:25 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_slab_from_sea_lantern_stonecutting": {
-    "criteria": {
-      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_stem_wall": {
-    "criteria": {
-      "has_warped_stem": "2025-06-16 00:20:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-16 00:21:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_sign": {
-    "criteria": {
-      "has_planks": "2025-06-16 00:21:51 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_slab": {
-    "criteria": {
-      "has_quartz_bricks": "2025-06-15 20:56:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-06-16 00:12:24 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_stem_stairs_from_warped_stem_stonecutting": {
-    "criteria": {
-      "has_warped_stem": "2025-06-16 00:20:29 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_wall_from_sea_lantern_stonecutting": {
-    "criteria": {
-      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_door": {
-    "criteria": {
-      "has_planks": "2025-06-16 00:21:51 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/crimson_stem_stairs_from_crimson_stem_stonecutting": {
-    "criteria": {
-      "has_crimson_stem": "2025-06-16 00:21:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-16 00:20:47 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_deepslate_tiles_slab_from_smeltingnull": {
-    "criteria": {
-      "has_deepslate_tile_slab": "2025-06-16 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-06-16 01:26:42 +0000"
     },
     "done": true
   },
@@ -9684,129 +9564,51 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_slab_from_verdant_froglight_stonecutting": {
-    "criteria": {
-      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_wall": {
-    "criteria": {
-      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_stairs_from_black_wool_stonecutting": {
-    "criteria": {
-      "has_black_wool": "2025-06-15 23:18:42 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_stem_slab_from_warped_stem_stonecutting": {
-    "criteria": {
-      "has_warped_stem": "2025-06-16 00:20:29 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/crimson_stem_slab_from_crimson_stem_stonecutting": {
-    "criteria": {
-      "has_crimson_stem": "2025-06-16 00:21:42 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_stem_stairs": {
-    "criteria": {
-      "has_warped_stem": "2025-06-16 00:20:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-16 00:20:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab": {
-    "criteria": {
-      "has_cut_copper": "2025-06-15 23:56:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-06-16 01:19:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/crimson_cabinet": {
-    "criteria": {
-      "has_crimson_trapdoor": "2025-06-16 00:21:52 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_stem_slab": {
-    "criteria": {
-      "has_warped_stem": "2025-06-16 00:20:29 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_stairs_from_sea_lantern_stonecutting": {
-    "criteria": {
-      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/acacia_log_stairs": {
-    "criteria": {
-      "has_acacia_log": "2025-06-15 22:27:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2025-06-16 00:21:51 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_slab_from_quartz_bricks_stonecutting": {
-    "criteria": {
-      "has_quartz_bricks": "2025-06-15 20:56:57 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_slab": {
-    "criteria": {
-      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_slab_from_black_wool_stonecutting": {
-    "criteria": {
-      "has_black_wool": "2025-06-15 23:18:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-06-16 01:59:50 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_spruce_log_stairs_from_stripped_spruce_log_stonecutting": {
     "criteria": {
       "has_stripped_spruce_log": "2025-06-15 19:25:40 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_wall_from_quartz_bricks_stonecutting": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_spruce_log_stairs": {
     "criteria": {
-      "has_quartz_bricks": "2025-06-15 20:56:57 +0000"
+      "has_stripped_spruce_log": "2025-06-15 19:25:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_spruce_log_wall_from_stripped_spruce_log_stonecutting": {
     "criteria": {
-      "has_log": "2025-06-15 22:27:40 +0000"
+      "has_stripped_spruce_log": "2025-06-15 19:25:40 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_spruce_log_slab": {
+    "criteria": {
+      "has_stripped_spruce_log": "2025-06-15 19:25:40 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_white_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 19:38:00 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_white_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 19:38:00 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_white_wool_wall": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 19:38:00 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glowstone_stairs_from_glowstone_stonecutting": {
+    "criteria": {
+      "has_glowstone": "2025-06-15 19:54:25 +0000"
     },
     "done": true
   },
@@ -9816,27 +9618,183 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2025-06-16 00:20:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_fence": {
-    "criteria": {
-      "has_planks": "2025-06-16 00:20:47 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/glowstone_wall_from_glowstone_stonecutting": {
     "criteria": {
       "has_glowstone": "2025-06-15 19:54:25 +0000"
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glowstone_slab": {
+    "criteria": {
+      "has_glowstone": "2025-06-15 19:54:25 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glowstone_stairs": {
+    "criteria": {
+      "has_glowstone": "2025-06-15 19:54:25 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glowstone_slab_from_glowstone_stonecutting": {
+    "criteria": {
+      "has_glowstone": "2025-06-15 19:54:25 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_slab": {
+    "criteria": {
+      "has_quartz_bricks": "2025-06-15 20:56:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_slab_from_quartz_bricks_stonecutting": {
+    "criteria": {
+      "has_quartz_bricks": "2025-06-15 20:56:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_wall_from_quartz_bricks_stonecutting": {
+    "criteria": {
+      "has_quartz_bricks": "2025-06-15 20:56:57 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_stairs": {
     "criteria": {
       "has_quartz_bricks": "2025-06-15 20:56:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_stairs_from_quartz_bricks_stonecutting": {
+    "criteria": {
+      "has_quartz_bricks": "2025-06-15 20:56:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_wall": {
+    "criteria": {
+      "has_quartz_bricks": "2025-06-15 20:56:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_sandstone_wall_from_smelting_sandstone": {
+    "criteria": {
+      "has_sandstone_wall": "2025-06-15 21:53:20 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/acacia_log_stairs_from_acacia_log_stonecutting": {
+    "criteria": {
+      "has_acacia_log": "2025-06-15 22:27:40 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/acacia_log_wall_from_acacia_log_stonecutting": {
+    "criteria": {
+      "has_acacia_log": "2025-06-15 22:27:40 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/acacia_log_stairs": {
+    "criteria": {
+      "has_acacia_log": "2025-06-15 22:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-06-15 22:27:40 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/acacia_log_wall": {
+    "criteria": {
+      "has_acacia_log": "2025-06-15 22:27:40 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/acacia_log_slab": {
+    "criteria": {
+      "has_acacia_log": "2025-06-15 22:27:40 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/acacia_log_slab_from_acacia_log_stonecutting": {
+    "criteria": {
+      "has_acacia_log": "2025-06-15 22:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-06-15 22:27:40 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_black_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 23:15:10 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_black_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 23:15:10 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_black_wool_wall": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 23:15:10 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_stairs_from_black_wool_stonecutting": {
+    "criteria": {
+      "has_black_wool": "2025-06-15 23:18:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_slab_from_black_wool_stonecutting": {
+    "criteria": {
+      "has_black_wool": "2025-06-15 23:18:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_stairs": {
+    "criteria": {
+      "has_black_wool": "2025-06-15 23:18:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_wall": {
+    "criteria": {
+      "has_black_wool": "2025-06-15 23:18:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_wall_from_black_wool_stonecutting": {
+    "criteria": {
+      "has_black_wool": "2025-06-15 23:18:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_slab": {
+    "criteria": {
+      "has_black_wool": "2025-06-15 23:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-06-15 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab": {
+    "criteria": {
+      "has_cut_copper": "2025-06-15 23:56:18 +0000"
     },
     "done": true
   },
@@ -9852,285 +9810,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_honeycomb": {
-    "criteria": {
-      "has_cut_copper_stairs": "2025-06-15 23:56:27 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_stem_wall_from_warped_stem_stonecutting": {
-    "criteria": {
-      "has_warped_stem": "2025-06-16 00:20:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_button": {
-    "criteria": {
-      "has_planks": "2025-06-16 00:21:51 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_spruce_log_stairs": {
-    "criteria": {
-      "has_stripped_spruce_log": "2025-06-15 19:25:40 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_stairs_from_quartz_bricks_stonecutting": {
-    "criteria": {
-      "has_quartz_bricks": "2025-06-15 20:56:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_slab": {
-    "criteria": {
-      "has_planks": "2025-06-16 00:21:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-16 00:21:51 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_spruce_log_wall_from_stripped_spruce_log_stonecutting": {
-    "criteria": {
-      "has_stripped_spruce_log": "2025-06-15 19:25:40 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_stairs_from_verdant_froglight_stonecutting": {
-    "criteria": {
-      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
-    "criteria": {
-      "has_cut_copper_slab": "2025-06-16 00:09:07 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_slab_from_smeltingnull": {
-    "criteria": {
-      "has_stone_brick_slab": "2025-06-16 02:15:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
     "criteria": {
       "has_cut_copper": "2025-06-15 23:56:18 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_black_wool_stairs": {
-    "criteria": {
-      "has_needed_dye": "2025-06-15 23:15:10 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_stairs": {
-    "criteria": {
-      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_spruce_log_slab": {
-    "criteria": {
-      "has_stripped_spruce_log": "2025-06-15 19:25:40 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_slab": {
-    "criteria": {
-      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_wall": {
-    "criteria": {
-      "has_quartz_bricks": "2025-06-15 20:56:57 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/glowstone_slab": {
-    "criteria": {
-      "has_glowstone": "2025-06-15 19:54:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
     "criteria": {
       "has_cut_copper": "2025-06-15 23:56:18 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_stairs": {
-    "criteria": {
-      "has_black_wool": "2025-06-15 23:18:42 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_black_wool_slab": {
-    "criteria": {
-      "has_needed_dye": "2025-06-15 23:15:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-16 00:20:47 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/glowstone_stairs": {
-    "criteria": {
-      "has_glowstone": "2025-06-15 19:54:25 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_white_wool_slab": {
-    "criteria": {
-      "has_needed_dye": "2025-06-15 19:38:00 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/crimson_stem_stairs": {
-    "criteria": {
-      "has_crimson_stem": "2025-06-16 00:21:42 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_planks_wall_from_warped_planks_stonecutting": {
-    "criteria": {
-      "has_warped_planks": "2025-06-16 00:20:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-06-15 23:28:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-16 01:19:16 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/acacia_log_wall": {
-    "criteria": {
-      "has_acacia_log": "2025-06-15 22:27:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2025-06-16 00:20:29 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_wall": {
-    "criteria": {
-      "has_black_wool": "2025-06-15 23:18:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-16 00:21:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_button": {
-    "criteria": {
-      "has_planks": "2025-06-16 00:20:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-16 00:20:47 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_deepslate_tiles_stairs_from_smeltingnull": {
-    "criteria": {
-      "has_deepslate_tile_stairs": "2025-06-16 00:12:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_sign": {
-    "criteria": {
-      "has_planks": "2025-06-16 00:20:47 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_white_wool_stairs": {
-    "criteria": {
-      "has_needed_dye": "2025-06-15 19:38:00 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_wall_from_verdant_froglight_stonecutting": {
-    "criteria": {
-      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-06-16 00:12:24 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/crimson_stem_slab": {
-    "criteria": {
-      "has_crimson_stem": "2025-06-16 00:21:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_door": {
-    "criteria": {
-      "has_planks": "2025-06-16 00:20:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/warped_cabinet": {
-    "criteria": {
-      "has_warped_trapdoor": "2025-06-16 00:21:14 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/glowstone_slab_from_glowstone_stonecutting": {
-    "criteria": {
-      "has_glowstone": "2025-06-15 19:54:25 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_sandstone_wall_from_smelting_sandstone": {
-    "criteria": {
-      "has_sandstone_wall": "2025-06-15 21:53:20 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/acacia_log_slab": {
-    "criteria": {
-      "has_acacia_log": "2025-06-15 22:27:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-06-16 00:12:24 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/acacia_log_slab_from_acacia_log_stonecutting": {
-    "criteria": {
-      "has_acacia_log": "2025-06-15 22:27:40 +0000"
     },
     "done": true
   },
@@ -10146,69 +9834,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-06-16 00:12:24 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/waxed_cut_copper_wall_honeycomb": {
     "criteria": {
       "has_cut_copper": "2025-06-15 23:56:18 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_wall_from_black_wool_stonecutting": {
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_honeycomb": {
     "criteria": {
-      "has_black_wool": "2025-06-15 23:18:42 +0000"
+      "has_cut_copper_stairs": "2025-06-15 23:56:27 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_stairs": {
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
     "criteria": {
-      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
+      "has_cut_copper_slab": "2025-06-16 00:09:07 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/crimson_stem_wall_from_crimson_stem_stonecutting": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_deepslate_tiles_slab_from_smeltingnull": {
     "criteria": {
-      "has_crimson_stem": "2025-06-16 00:21:42 +0000"
+      "has_deepslate_tile_slab": "2025-06-16 00:12:08 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_wall": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_deepslate_tiles_stairs_from_smeltingnull": {
     "criteria": {
-      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
+      "has_deepslate_tile_stairs": "2025-06-16 00:12:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_slab": {
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
-      "has_planks": "2025-06-16 00:20:47 +0000"
+      "has_deepslate_tiles": "2025-06-16 00:12:24 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_slab": {
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
-      "has_black_wool": "2025-06-15 23:18:42 +0000"
+      "has_deepslate_tiles": "2025-06-16 00:12:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
-      "has_log": "2025-06-16 00:21:42 +0000"
+      "has_deepslate_tiles": "2025-06-16 00:12:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
-      "has_planks": "2025-06-16 00:21:51 +0000"
+      "has_deepslate_tiles": "2025-06-16 00:12:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
-      "has_prismarine_crystals": "2025-06-16 01:09:14 +0000"
+      "has_deepslate_tiles": "2025-06-16 00:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-16 00:12:24 +0000"
     },
     "done": true
   },
@@ -10218,9 +9906,159 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_black_wool_wall": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_stem_wall": {
     "criteria": {
-      "has_needed_dye": "2025-06-15 23:15:10 +0000"
+      "has_warped_stem": "2025-06-16 00:20:29 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_stem_stairs_from_warped_stem_stonecutting": {
+    "criteria": {
+      "has_warped_stem": "2025-06-16 00:20:29 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_stem_slab_from_warped_stem_stonecutting": {
+    "criteria": {
+      "has_warped_stem": "2025-06-16 00:20:29 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_stem_stairs": {
+    "criteria": {
+      "has_warped_stem": "2025-06-16 00:20:29 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_stem_slab": {
+    "criteria": {
+      "has_warped_stem": "2025-06-16 00:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-06-16 00:20:29 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_stem_wall_from_warped_stem_stonecutting": {
+    "criteria": {
+      "has_warped_stem": "2025-06-16 00:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-06-16 00:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:20:47 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/warped_planks_wall_from_warped_planks_stonecutting": {
+    "criteria": {
+      "has_warped_planks": "2025-06-16 00:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:20:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/warped_cabinet": {
+    "criteria": {
+      "has_warped_trapdoor": "2025-06-16 00:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-06-16 00:21:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/crimson_stem_stairs_from_crimson_stem_stonecutting": {
+    "criteria": {
+      "has_crimson_stem": "2025-06-16 00:21:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/crimson_stem_slab_from_crimson_stem_stonecutting": {
+    "criteria": {
+      "has_crimson_stem": "2025-06-16 00:21:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/crimson_stem_stairs": {
+    "criteria": {
+      "has_crimson_stem": "2025-06-16 00:21:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/crimson_stem_slab": {
+    "criteria": {
+      "has_crimson_stem": "2025-06-16 00:21:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/crimson_stem_wall_from_crimson_stem_stonecutting": {
+    "criteria": {
+      "has_crimson_stem": "2025-06-16 00:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-06-16 00:21:42 +0000"
     },
     "done": true
   },
@@ -10230,15 +10068,213 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/crimson_planks_wall_from_crimson_planks_stonecutting": {
     "criteria": {
-      "has_log": "2025-06-15 22:27:40 +0000"
+      "has_crimson_planks": "2025-06-16 00:21:51 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_white_wool_wall": {
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
-      "has_needed_dye": "2025-06-15 19:38:00 +0000"
+      "has_planks": "2025-06-16 00:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:21:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_crimson_trapdoor": "2025-06-16 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-16 01:09:14 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_slab_from_verdant_froglight_stonecutting": {
+    "criteria": {
+      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_slab": {
+    "criteria": {
+      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_stairs_from_verdant_froglight_stonecutting": {
+    "criteria": {
+      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_stairs": {
+    "criteria": {
+      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_wall_from_verdant_froglight_stonecutting": {
+    "criteria": {
+      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/verdant_froglight_wall": {
+    "criteria": {
+      "has_verdant_froglight": "2025-06-16 01:12:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_slab_from_sea_lantern_stonecutting": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_wall_from_sea_lantern_stonecutting": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_wall": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_stairs_from_sea_lantern_stonecutting": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_slab": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_stairs": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-16 01:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-06-16 01:19:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-16 01:19:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-16 01:26:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-06-16 01:59:50 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_slab_from_smeltingnull": {
+    "criteria": {
+      "has_stone_brick_slab": "2025-06-16 02:15:15 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_slab_from_cherry_log_stonecutting": {
+    "criteria": {
+      "has_cherry_log": "2025-06-16 03:40:24 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_wall_from_cherry_log_stonecutting": {
+    "criteria": {
+      "has_cherry_log": "2025-06-16 03:40:24 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_slab": {
+    "criteria": {
+      "has_cherry_log": "2025-06-16 03:40:24 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_wall": {
+    "criteria": {
+      "has_cherry_log": "2025-06-16 03:40:24 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_stairs_from_cherry_log_stonecutting": {
+    "criteria": {
+      "has_cherry_log": "2025-06-16 03:40:24 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_log_stairs": {
+    "criteria": {
+      "has_cherry_log": "2025-06-16 03:40:24 +0000"
     },
     "done": true
   },

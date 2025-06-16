@@ -9545,153 +9545,15 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_wall_from_gravel_stonecutting": {
-    "criteria": {
-      "has_gravel": "2025-06-16 02:11:27 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_slab_from_stripped_dark_oak_log_stonecutting": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-16 01:38:46 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_slab": {
-    "criteria": {
-      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 00:21:57 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_slab_from_black_concrete_powder_stonecutting": {
-    "criteria": {
-      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_brown_wool_wall": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 00:21:57 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_wall": {
-    "criteria": {
-      "has_gravel": "2025-06-16 02:11:27 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/black_stained_glass_stairs_from_black_stained_glass_stonecutting": {
-    "criteria": {
-      "has_black_stained_glass": "2025-06-16 02:25:54 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_planks_wall": {
-    "criteria": {
-      "has_dark_oak_planks_wall": "2025-06-16 00:25:11 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_stairs": {
-    "criteria": {
-      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/jungle_planks_wall_from_jungle_planks_stonecutting": {
     "criteria": {
       "has_jungle_planks": "2025-06-15 19:08:34 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_slab": {
-    "criteria": {
-      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_slab_from_gravel_stonecutting": {
-    "criteria": {
-      "has_gravel": "2025-06-16 02:11:27 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_stairs": {
-    "criteria": {
-      "has_gravel": "2025-06-16 02:11:27 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_stairs": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-16 01:38:46 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_slab_from_sea_lantern_stonecutting": {
-    "criteria": {
-      "has_sea_lantern": "2025-06-15 21:36:51 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_stairs_from_birch_log_stonecutting": {
     "criteria": {
       "has_birch_log": "2025-06-15 19:20:51 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_wall_from_yellow_wool_stonecutting": {
-    "criteria": {
-      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_stairs": {
-    "criteria": {
-      "has_sand": "2025-06-15 21:20:30 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_slab": {
-    "criteria": {
-      "has_quartz_bricks": "2025-06-15 20:58:35 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_brown_wool_stairs": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 00:21:57 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_wall_from_sea_lantern_stonecutting": {
-    "criteria": {
-      "has_sea_lantern": "2025-06-15 21:36:51 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/white_wool_stairs_from_white_wool_stonecutting": {
-    "criteria": {
-      "has_white_wool": "2025-06-15 23:14:25 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_stairs_from_stripped_dark_oak_log_stonecutting": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-16 01:38:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 00:21:57 +0000"
     },
     "done": true
   },
@@ -9707,207 +9569,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/white_wool_wall_from_white_wool_stonecutting": {
-    "criteria": {
-      "has_white_wool": "2025-06-15 23:14:25 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_wall_from_dark_oak_log_stonecutting": {
-    "criteria": {
-      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_wall": {
-    "criteria": {
-      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stone_wall_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-15 22:45:20 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_wall": {
     "criteria": {
       "has_birch_log": "2025-06-15 19:20:51 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_wall_from_black_concrete_powder_stonecutting": {
-    "criteria": {
-      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_wall": {
-    "criteria": {
-      "has_sea_lantern": "2025-06-15 21:36:51 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_wall": {
-    "criteria": {
-      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/black_stained_glass_wall_from_black_stained_glass_stonecutting": {
-    "criteria": {
-      "has_black_stained_glass": "2025-06-16 02:25:54 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_stairs_from_sea_lantern_stonecutting": {
-    "criteria": {
-      "has_sea_lantern": "2025-06-15 21:36:51 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab_from_glass_stonecutting": {
-    "criteria": {
-      "has_glass": "2025-06-15 22:18:26 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_slab_from_quartz_bricks_stonecutting": {
-    "criteria": {
-      "has_quartz_bricks": "2025-06-15 20:58:35 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_wall_from_quartz_bricks_stonecutting": {
-    "criteria": {
-      "has_quartz_bricks": "2025-06-15 20:58:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_carpet": {
-    "criteria": {
-      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_wall_from_sand_stonecutting": {
-    "criteria": {
-      "has_sand": "2025-06-15 21:20:30 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_stairs": {
-    "criteria": {
-      "has_quartz_bricks": "2025-06-15 20:58:35 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stone_wall": {
-    "criteria": {
-      "has_stone": "2025-06-15 22:45:20 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_stairs_from_dark_oak_log_stonecutting": {
-    "criteria": {
-      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_stairs_from_black_concrete_powder_stonecutting": {
-    "criteria": {
-      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_wall_from_glass_stonecutting": {
-    "criteria": {
-      "has_glass": "2025-06-15 22:18:26 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab": {
-    "criteria": {
-      "has_glass": "2025-06-15 22:18:26 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_planks_wall_from_birch_planks_stonecutting": {
-    "criteria": {
-      "has_birch_planks": "2025-06-15 19:20:54 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_stairs_from_quartz_bricks_stonecutting": {
-    "criteria": {
-      "has_quartz_bricks": "2025-06-15 20:58:35 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_slab": {
-    "criteria": {
-      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_stairs_from_sand_stonecutting": {
-    "criteria": {
-      "has_sand": "2025-06-15 21:20:30 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_slab_from_smeltingnull": {
-    "criteria": {
-      "has_stone_brick_slab": "2025-06-15 22:47:01 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_black_wool_stairs": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 02:22:56 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_stairs_from_gravel_stonecutting": {
-    "criteria": {
-      "has_gravel": "2025-06-16 02:11:27 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_slab": {
-    "criteria": {
-      "has_sea_lantern": "2025-06-15 21:36:51 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_slab": {
-    "criteria": {
-      "has_sand": "2025-06-15 21:20:30 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_wall": {
-    "criteria": {
-      "has_quartz_bricks": "2025-06-15 20:58:35 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/white_wool_wall": {
-    "criteria": {
-      "has_white_wool": "2025-06-15 23:14:25 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_black_wool_slab": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 02:22:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_bed": {
-    "criteria": {
-      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
     },
     "done": true
   },
@@ -9917,51 +9581,15 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_stairs": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_slab": {
     "criteria": {
-      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
+      "has_birch_log": "2025-06-15 19:20:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_candle": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_planks_wall_from_birch_planks_stonecutting": {
     "criteria": {
-      "has_brown_dye": "2025-06-16 00:21:57 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_stairs": {
-    "criteria": {
-      "has_glass": "2025-06-15 22:18:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-06-16 00:09:29 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/black_stained_glass_stairs": {
-    "criteria": {
-      "has_black_stained_glass": "2025-06-16 02:25:54 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_wall": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-16 01:38:46 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/white_wool_stairs": {
-    "criteria": {
-      "has_white_wool": "2025-06-15 23:14:25 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_slab": {
-    "criteria": {
-      "has_gravel": "2025-06-16 02:11:27 +0000"
+      "has_birch_planks": "2025-06-15 19:20:54 +0000"
     },
     "done": true
   },
@@ -9971,51 +9599,33 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_wall_from_stripped_dark_oak_log_stonecutting": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_slab": {
     "criteria": {
-      "has_stripped_dark_oak_log": "2025-06-16 01:38:46 +0000"
+      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/black_stained_glass_slab": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_wall_from_yellow_wool_stonecutting": {
     "criteria": {
-      "has_black_stained_glass": "2025-06-16 02:25:54 +0000"
+      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_brown_wool_slab": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_wall": {
     "criteria": {
-      "has_needed_dye": "2025-06-16 00:21:57 +0000"
+      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_stairs": {
+  "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
-      "has_sea_lantern": "2025-06-15 21:36:51 +0000"
+      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_slab_from_dark_oak_log_stonecutting": {
+  "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
-      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/black_stained_glass_slab_from_black_stained_glass_stonecutting": {
-    "criteria": {
-      "has_black_stained_glass": "2025-06-16 02:25:54 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_wall": {
-    "criteria": {
-      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 00:21:57 +0000"
+      "has_yellow_wool": "2025-06-15 19:36:18 +0000"
     },
     "done": true
   },
@@ -10031,27 +9641,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_slab_from_sand_stonecutting": {
-    "criteria": {
-      "has_sand": "2025-06-15 21:20:30 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/yellow_wool_slab_from_yellow_wool_stonecutting": {
     "criteria": {
       "has_yellow_wool": "2025-06-15 19:36:18 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_wall": {
-    "criteria": {
-      "has_sand": "2025-06-15 21:20:30 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_stairs_from_glass_stonecutting": {
-    "criteria": {
-      "has_glass": "2025-06-15 22:18:26 +0000"
     },
     "done": true
   },
@@ -10061,21 +9653,225 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/white_wool_slab": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_stairs": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_wall_from_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_stairs_from_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_slab": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_slab_from_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_wall": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_slab": {
+    "criteria": {
+      "has_quartz_bricks": "2025-06-15 20:58:35 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_slab_from_quartz_bricks_stonecutting": {
+    "criteria": {
+      "has_quartz_bricks": "2025-06-15 20:58:35 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_wall_from_quartz_bricks_stonecutting": {
+    "criteria": {
+      "has_quartz_bricks": "2025-06-15 20:58:35 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_stairs": {
+    "criteria": {
+      "has_quartz_bricks": "2025-06-15 20:58:35 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_stairs_from_quartz_bricks_stonecutting": {
+    "criteria": {
+      "has_quartz_bricks": "2025-06-15 20:58:35 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_bricks_wall": {
+    "criteria": {
+      "has_quartz_bricks": "2025-06-15 20:58:35 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_stairs": {
+    "criteria": {
+      "has_sand": "2025-06-15 21:20:30 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_wall_from_sand_stonecutting": {
+    "criteria": {
+      "has_sand": "2025-06-15 21:20:30 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_stairs_from_sand_stonecutting": {
+    "criteria": {
+      "has_sand": "2025-06-15 21:20:30 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_slab": {
+    "criteria": {
+      "has_sand": "2025-06-15 21:20:30 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_slab_from_sand_stonecutting": {
+    "criteria": {
+      "has_sand": "2025-06-15 21:20:30 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sand_wall": {
+    "criteria": {
+      "has_sand": "2025-06-15 21:20:30 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_slab_from_sea_lantern_stonecutting": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-15 21:36:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_wall_from_sea_lantern_stonecutting": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-15 21:36:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_wall": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-15 21:36:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_stairs_from_sea_lantern_stonecutting": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-15 21:36:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_slab": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-15 21:36:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_stairs": {
+    "criteria": {
+      "has_sea_lantern": "2025-06-15 21:36:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-06-15 22:18:26 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_wall_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-06-15 22:18:26 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_slab": {
+    "criteria": {
+      "has_glass": "2025-06-15 22:18:26 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_stairs": {
+    "criteria": {
+      "has_glass": "2025-06-15 22:18:26 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/glass_stairs_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-06-15 22:18:26 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stone_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-15 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stone_wall": {
+    "criteria": {
+      "has_stone": "2025-06-15 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_slab_from_smeltingnull": {
+    "criteria": {
+      "has_stone_brick_slab": "2025-06-15 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/white_wool_stairs_from_white_wool_stonecutting": {
     "criteria": {
       "has_white_wool": "2025-06-15 23:14:25 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_black_wool_wall": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/white_wool_wall_from_white_wool_stonecutting": {
     "criteria": {
-      "has_needed_dye": "2025-06-16 02:22:56 +0000"
+      "has_white_wool": "2025-06-15 23:14:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/white_wool_wall": {
     "criteria": {
-      "has_glass": "2025-06-16 02:25:54 +0000"
+      "has_white_wool": "2025-06-15 23:14:25 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/white_wool_stairs": {
+    "criteria": {
+      "has_white_wool": "2025-06-15 23:14:25 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/white_wool_slab": {
+    "criteria": {
+      "has_white_wool": "2025-06-15 23:14:25 +0000"
     },
     "done": true
   },
@@ -10085,15 +9881,255 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/birch_log_slab": {
+  "minecraft:recipes/misc/green_dye": {
     "criteria": {
-      "has_birch_log": "2025-06-15 19:20:51 +0000"
+      "has_cactus": "2025-06-16 00:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 00:21:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_brown_wool_wall": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 00:21:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_brown_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 00:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 00:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-06-16 00:21:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_brown_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 00:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 00:21:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_planks_wall": {
+    "criteria": {
+      "has_dark_oak_planks_wall": "2025-06-16 00:25:11 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_slab_from_stripped_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-16 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_stairs": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-16 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_stairs_from_stripped_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-16 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_wall": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-16 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_wall_from_stripped_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-06-16 01:38:46 +0000"
     },
     "done": true
   },
   "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_slab": {
     "criteria": {
       "has_stripped_dark_oak_log": "2025-06-16 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_wall_from_gravel_stonecutting": {
+    "criteria": {
+      "has_gravel": "2025-06-16 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_wall": {
+    "criteria": {
+      "has_gravel": "2025-06-16 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_slab_from_gravel_stonecutting": {
+    "criteria": {
+      "has_gravel": "2025-06-16 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_stairs": {
+    "criteria": {
+      "has_gravel": "2025-06-16 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_stairs_from_gravel_stonecutting": {
+    "criteria": {
+      "has_gravel": "2025-06-16 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gravel_slab": {
+    "criteria": {
+      "has_gravel": "2025-06-16 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_black_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 02:22:56 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_black_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 02:22:56 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_black_wool_wall": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 02:22:56 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_slab": {
+    "criteria": {
+      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_slab_from_black_concrete_powder_stonecutting": {
+    "criteria": {
+      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_wall": {
+    "criteria": {
+      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_wall_from_black_concrete_powder_stonecutting": {
+    "criteria": {
+      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_stairs_from_black_concrete_powder_stonecutting": {
+    "criteria": {
+      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_powder_stairs": {
+    "criteria": {
+      "has_black_concrete_powder": "2025-06-16 02:23:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_stained_glass_stairs_from_black_stained_glass_stonecutting": {
+    "criteria": {
+      "has_black_stained_glass": "2025-06-16 02:25:54 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_stained_glass_wall_from_black_stained_glass_stonecutting": {
+    "criteria": {
+      "has_black_stained_glass": "2025-06-16 02:25:54 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_stained_glass_stairs": {
+    "criteria": {
+      "has_black_stained_glass": "2025-06-16 02:25:54 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_stained_glass_slab": {
+    "criteria": {
+      "has_black_stained_glass": "2025-06-16 02:25:54 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_stained_glass_slab_from_black_stained_glass_stonecutting": {
+    "criteria": {
+      "has_black_stained_glass": "2025-06-16 02:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-16 02:25:54 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_stairs_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2025-06-16 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_wall": {
+    "criteria": {
+      "has_black_concrete": "2025-06-16 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_stairs": {
+    "criteria": {
+      "has_black_concrete": "2025-06-16 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_wall_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2025-06-16 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_slab_from_black_concrete_stonecutting": {
+    "criteria": {
+      "has_black_concrete": "2025-06-16 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/black_concrete_slab": {
+    "criteria": {
+      "has_black_concrete": "2025-06-16 03:42:43 +0000"
     },
     "done": true
   },
