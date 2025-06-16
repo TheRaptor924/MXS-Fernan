@@ -25,3 +25,16 @@
 [16Jun2025 00:39:44.721] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
 [16Jun2025 00:47:32.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [16Jun2025 00:47:32.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[16Jun2025 00:51:28.324] [Worker-Main-135/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[16Jun2025 00:51:28.437] [Worker-Main-135/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[16Jun2025 00:53:31.574] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
+[16Jun2025 00:55:42.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzz
+[16Jun2025 00:55:46.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzz
+[16Jun2025 00:55:47.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzzzzzzz
+[16Jun2025 00:56:11.552] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
+[16Jun2025 00:56:33.874] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
+[16Jun2025 00:56:40.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ok
+[16Jun2025 00:57:14.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> buenu
+[16Jun2025 00:57:49.975] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
+[16Jun2025 00:58:06.981] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
+[16Jun2025 00:58:39.507] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]

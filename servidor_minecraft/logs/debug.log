@@ -5442,3 +5442,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Jun2025 00:47:05.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Jun2025 00:47:32.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [16Jun2025 00:47:32.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[16Jun2025 00:51:28.183] [Worker-Main-135/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_ring_1
+[16Jun2025 00:51:28.205] [Worker-Main-135/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_starting_room
+[16Jun2025 00:51:28.211] [Worker-Main-135/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_crossroad_1
+[16Jun2025 00:51:28.220] [Worker-Main-135/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_crossroad_big
+[16Jun2025 00:51:28.227] [Worker-Main-135/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_curve_small
+[16Jun2025 00:51:28.238] [Worker-Main-135/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_straight_big
+[16Jun2025 00:51:28.253] [Worker-Main-135/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_t_curve_big
+[16Jun2025 00:51:28.256] [Worker-Main-135/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_crossroad_small
+[16Jun2025 00:51:28.266] [Worker-Main-135/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_t_curve_small
+[16Jun2025 00:51:28.279] [Worker-Main-135/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_curve_big
+[16Jun2025 00:51:28.282] [Worker-Main-135/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/fallback/conduit_ruin_room_fail
+[16Jun2025 00:51:28.301] [Worker-Main-135/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_straight_1
+[16Jun2025 00:51:28.304] [Worker-Main-135/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_2
+[16Jun2025 00:51:28.308] [Worker-Main-135/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_3
+[16Jun2025 00:51:28.309] [Worker-Main-135/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_1
+[16Jun2025 00:51:28.314] [Worker-Main-135/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_straight_2
+[16Jun2025 00:51:28.317] [Worker-Main-135/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/fallback/conduit_ruin_road_fail
+[16Jun2025 00:51:28.324] [Worker-Main-135/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[16Jun2025 00:51:28.437] [Worker-Main-135/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[16Jun2025 00:52:05.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 00:52:05.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 00:53:31.574] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
+[16Jun2025 00:55:42.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzz
+[16Jun2025 00:55:46.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzz
+[16Jun2025 00:55:47.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzzzzzzz
+[16Jun2025 00:56:11.552] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
+[16Jun2025 00:56:33.874] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
+[16Jun2025 00:56:40.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ok
+[16Jun2025 00:57:05.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 00:57:05.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 00:57:14.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> buenu
+[16Jun2025 00:57:49.975] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
+[16Jun2025 00:58:06.981] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
+[16Jun2025 00:58:39.507] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
