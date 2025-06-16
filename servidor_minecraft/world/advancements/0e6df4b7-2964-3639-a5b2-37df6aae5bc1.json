@@ -10290,9 +10290,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_exposed_cut_copper": "2025-06-16 04:12:34 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_slab_uncrafting": {
     "criteria": {
       "has_gold_block_slab": "2025-06-16 04:03:03 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/waxed_exposed_cut_copper_wall_honeycomb": {
+    "criteria": {
+      "has_exposed_cut_copper": "2025-06-16 04:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs": {
+    "criteria": {
+      "has_exposed_cut_copper": "2025-06-16 04:12:34 +0000"
     },
     "done": true
   },
@@ -10305,6 +10323,18 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/coarse_dirt_stairs_from_coarse_dirt_stonecutting": {
     "criteria": {
       "has_coarse_dirt": "2025-06-16 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_cut_copper": "2025-06-16 04:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_slab": {
+    "criteria": {
+      "has_exposed_cut_copper": "2025-06-16 04:12:34 +0000"
     },
     "done": true
   },
@@ -10323,6 +10353,24 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/coarse_dirt_wall_from_coarse_dirt_stonecutting": {
     "criteria": {
       "has_coarse_dirt": "2025-06-16 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/exposed_cut_copper_wall_from_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_cut_copper": "2025-06-16 04:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_slab_from_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_cut_copper": "2025-06-16 04:12:34 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/exposed_cut_copper_wall": {
+    "criteria": {
+      "has_exposed_cut_copper": "2025-06-16 04:12:34 +0000"
     },
     "done": true
   },
