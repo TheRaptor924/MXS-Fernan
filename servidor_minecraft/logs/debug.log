@@ -5592,3 +5592,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Jun2025 02:44:33.276] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
 [16Jun2025 02:47:05.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jun2025 02:47:05.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 02:52:05.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 02:52:05.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 02:54:09.080] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91792, l='ServerLevel[world]', x=-412.53, y=75.16, z=-289.70, removed=DISCARDED]
+[16Jun2025 02:57:05.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 02:57:05.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
