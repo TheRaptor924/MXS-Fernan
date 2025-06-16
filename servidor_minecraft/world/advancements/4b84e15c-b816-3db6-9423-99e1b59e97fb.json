@@ -9544,6 +9544,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 00:21:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_brown_wool_wall": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 00:21:57 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_planks_wall": {
+    "criteria": {
+      "has_dark_oak_planks_wall": "2025-06-16 00:25:11 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_stairs": {
     "criteria": {
       "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
@@ -9592,6 +9610,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_brown_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 00:21:57 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_wall_from_sea_lantern_stonecutting": {
     "criteria": {
       "has_sea_lantern": "2025-06-15 21:36:51 +0000"
@@ -9601,6 +9625,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/white_wool_stairs_from_white_wool_stonecutting": {
     "criteria": {
       "has_white_wool": "2025-06-15 23:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 00:21:57 +0000"
     },
     "done": true
   },
@@ -9784,6 +9814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-06-16 00:21:57 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/glass_stairs": {
     "criteria": {
       "has_glass": "2025-06-15 22:18:26 +0000"
@@ -9808,6 +9844,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_brown_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 00:21:57 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/sea_lantern_stairs": {
     "criteria": {
       "has_sea_lantern": "2025-06-15 21:36:51 +0000"
@@ -9823,6 +9865,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_wall": {
     "criteria": {
       "has_dark_oak_log": "2025-06-15 19:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 00:21:57 +0000"
     },
     "done": true
   },
