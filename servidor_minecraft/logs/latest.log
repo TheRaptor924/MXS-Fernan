@@ -385,3 +385,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jun2025 03:33:17.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [18Jun2025 03:43:41.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> zzzzzzzzzz
 [18Jun2025 03:47:57.225] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 662.4 μs. 996/996 recipes are parallelized.
+[18Jun2025 04:26:42.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-392, y=87, z=-156} BlockPos{x=-392, y=85, z=-169}
