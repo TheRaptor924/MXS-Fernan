@@ -4788,3 +4788,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jun2025 03:30:18.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jun2025 03:33:17.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [18Jun2025 03:33:17.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[18Jun2025 03:35:18.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 03:35:18.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 03:40:18.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 03:40:18.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 03:43:41.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> zzzzzzzzzz

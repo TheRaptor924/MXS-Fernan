@@ -383,3 +383,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jun2025 03:29:21.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
 [18Jun2025 03:33:17.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [18Jun2025 03:33:17.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[18Jun2025 03:43:41.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> zzzzzzzzzz

@@ -10374,5 +10374,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_exposed_cut_copper_stairs": "2025-06-18 03:30:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
