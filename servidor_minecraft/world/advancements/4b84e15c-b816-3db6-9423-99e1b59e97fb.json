@@ -10229,6 +10229,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_log_stairs_to_planks": {
+    "criteria": {
+      "has_dark_oak_log_stairs": "2025-06-18 04:10:57 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/chiseled_quartz_block_wall": {
     "criteria": {
       "has_chiseled_quartz_block": "2025-06-18 03:55:34 +0000"
