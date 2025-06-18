@@ -4822,3 +4822,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jun2025 04:40:18.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jun2025 04:45:18.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jun2025 04:45:18.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 04:50:18.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 04:50:18.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 04:51:47.445] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_fire
+[18Jun2025 04:51:47.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_4
+[18Jun2025 04:51:47.448] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_5
+[18Jun2025 04:51:47.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_brute
+[18Jun2025 04:51:47.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_7
+[18Jun2025 04:51:47.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_sword
+[18Jun2025 04:51:47.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_crossbow
+[18Jun2025 04:51:48.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_3
+[18Jun2025 04:54:25.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=70, z=-246} BlockPos{x=-10, y=92, z=-98}
+[18Jun2025 04:54:25.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=70, z=-246} BlockPos{x=-10, y=92, z=-98}
+[18Jun2025 04:54:37.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=70, z=-246} BlockPos{x=2, y=93, z=-100}
+[18Jun2025 04:55:18.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 04:55:18.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
