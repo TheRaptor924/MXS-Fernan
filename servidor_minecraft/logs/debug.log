@@ -4817,3 +4817,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jun2025 04:30:18.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jun2025 04:35:18.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jun2025 04:35:18.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 04:35:51.625] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 63.93 μs. 0/148 recipes are parallelized.
+[18Jun2025 04:40:18.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 04:40:18.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 04:45:18.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 04:45:18.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
