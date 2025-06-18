@@ -10229,5 +10229,41 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_pillar_stairs_from_quartz_pillar_stonecutting": {
+    "criteria": {
+      "has_quartz_pillar": "2025-06-18 03:47:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_pillar_stairs": {
+    "criteria": {
+      "has_quartz_pillar": "2025-06-18 03:47:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_pillar_wall": {
+    "criteria": {
+      "has_quartz_pillar": "2025-06-18 03:47:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_pillar_slab_from_quartz_pillar_stonecutting": {
+    "criteria": {
+      "has_quartz_pillar": "2025-06-18 03:47:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_pillar_slab": {
+    "criteria": {
+      "has_quartz_pillar": "2025-06-18 03:47:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/quartz_pillar_wall_from_quartz_pillar_stonecutting": {
+    "criteria": {
+      "has_quartz_pillar": "2025-06-18 03:47:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
