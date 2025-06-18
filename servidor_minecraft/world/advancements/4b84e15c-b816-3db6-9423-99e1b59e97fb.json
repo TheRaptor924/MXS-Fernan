@@ -10139,15 +10139,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-06-16 04:12:38 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/pearlescent_froglight_stairs_from_pearlescent_froglight_stonecutting": {
     "criteria": {
       "has_pearlescent_froglight": "2025-06-16 04:01:53 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pearlescent_froglight_stairs": {
+    "criteria": {
+      "has_pearlescent_froglight": "2025-06-16 04:01:53 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pearlescent_froglight_slab": {
+    "criteria": {
+      "has_pearlescent_froglight": "2025-06-16 04:01:53 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pearlescent_froglight_slab_from_pearlescent_froglight_stonecutting": {
+    "criteria": {
+      "has_pearlescent_froglight": "2025-06-16 04:01:53 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/pearlescent_froglight_wall_from_pearlescent_froglight_stonecutting": {
+    "criteria": {
+      "has_pearlescent_froglight": "2025-06-16 04:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-06-16 04:12:38 +0000"
     },
     "done": true
   },
@@ -10169,21 +10193,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/pearlescent_froglight_stairs": {
-    "criteria": {
-      "has_pearlescent_froglight": "2025-06-16 04:01:53 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_stairs": {
     "criteria": {
       "has_black_wool": "2025-06-16 04:12:38 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_wall_from_smeltingnull": {
-    "criteria": {
-      "has_stone_brick_wall": "2025-06-16 04:55:33 +0000"
     },
     "done": true
   },
@@ -10199,21 +10211,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/pearlescent_froglight_slab": {
-    "criteria": {
-      "has_pearlescent_froglight": "2025-06-16 04:01:53 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/black_wool_wall_from_black_wool_stonecutting": {
     "criteria": {
       "has_black_wool": "2025-06-16 04:12:38 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/pearlescent_froglight_slab_from_pearlescent_froglight_stonecutting": {
-    "criteria": {
-      "has_pearlescent_froglight": "2025-06-16 04:01:53 +0000"
     },
     "done": true
   },
@@ -10223,9 +10223,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/pearlescent_froglight_wall_from_pearlescent_froglight_stonecutting": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_stone_bricks_wall_from_smeltingnull": {
     "criteria": {
-      "has_pearlescent_froglight": "2025-06-16 04:01:53 +0000"
+      "has_stone_brick_wall": "2025-06-16 04:55:33 +0000"
     },
     "done": true
   },
