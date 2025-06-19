@@ -456,3 +456,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Jun2025 03:57:00.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! 6.077338813713197,1.0013359791121417,8.245077837208413
 [19Jun2025 03:57:06.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! 14.029779683032615,-1.7872524724458714,-12.050878975759275
 [19Jun2025 03:57:16.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -0.5609686447286037,4.0,-9.423964735663588
+[19Jun2025 04:06:57.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzzz
+[19Jun2025 04:07:31.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzz
+[19Jun2025 04:08:36.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzzz
