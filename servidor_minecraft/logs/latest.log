@@ -429,3 +429,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Jun2025 03:06:50.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! 8.684703410665918,0.0,-5.309601190172941
 [19Jun2025 03:10:04.437] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.918 ms. 2566/2626 recipes are parallelized.
 [19Jun2025 03:14:56.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> me puse duro ssjsjsjsj, jugare desnudo
+[19Jun2025 03:22:24.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> estoy haciendo una "manualidad"
+[19Jun2025 03:27:22.424] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.35.18.255:45939] logged in with entity id 8772 at (103.51128372723785, 58.0, 75.32775186475548)
+[19Jun2025 03:27:22.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[19Jun2025 03:27:22.474] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[19Jun2025 03:27:23.303] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[19Jun2025 03:27:40.051] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 701.7 μs. 996/996 recipes are parallelized.
