@@ -4661,3 +4661,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Jun2025 03:05:27.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> fuera de broma si te quieres ver lilo, vamos
 [19Jun2025 03:05:41.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! 3.9296413136461865,0.7752837847959029,9.259506334444154
 [19Jun2025 03:06:50.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! 8.684703410665918,0.0,-5.309601190172941
+[19Jun2025 03:08:25.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 03:08:25.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 03:10:04.437] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.918 ms. 2566/2626 recipes are parallelized.
+[19Jun2025 03:13:25.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 03:13:25.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 03:14:56.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> me puse duro ssjsjsjsj, jugare desnudo
