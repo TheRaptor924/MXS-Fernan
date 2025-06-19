@@ -4882,3 +4882,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Jun2025 03:34:29.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_crossbow
 [19Jun2025 03:34:32.215] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_6
 [19Jun2025 03:34:32.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_3
+[19Jun2025 03:38:25.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 03:38:25.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 03:39:51.221] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_4
+[19Jun2025 03:39:51.223] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_6
+[19Jun2025 03:39:51.224] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_sword
+[19Jun2025 03:42:40.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=58, z=216} BlockPos{x=15, y=60, z=221}
+[19Jun2025 03:43:25.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 03:43:25.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

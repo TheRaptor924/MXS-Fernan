@@ -10386,9 +10386,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-19 03:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-19 03:36:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cod_roll": {
     "criteria": {
       "has_cod_slice": "2025-06-19 02:59:01 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/polished_andesite_wall_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-19 03:36:39 +0000"
     },
     "done": true
   },
@@ -10398,9 +10416,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-19 03:36:39 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/polished_andesite_wall": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-19 03:36:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
     "criteria": {
       "cooked_cod_slice": "2025-06-19 02:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-19 03:36:39 +0000"
     },
     "done": true
   },
